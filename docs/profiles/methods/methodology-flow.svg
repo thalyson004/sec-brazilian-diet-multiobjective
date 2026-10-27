@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="684pt" height="679.68pt" viewBox="0 0 684 679.68" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-06T18:27:26.939991</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 679.68
+L 684 679.68
+L 684 0
+L 0 0
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 29.52 141.3648
+L 319.68 141.3648
+Q 326.376 141.3648 326.376 134.712
+L 326.376 34.92
+Q 326.376 28.2672 319.68 28.2672
+L 29.52 28.2672
+Q 22.824 28.2672 22.824 34.92
+L 22.824 134.712
+Q 22.824 141.3648 29.52 141.3648
+z
+" clip-path="url(#p3beb9c1f54)" style="fill: #edf4fa; stroke: #5c83a6; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 358.74 141.3648
+L 648.9 141.3648
+Q 655.596 141.3648 655.596 134.712
+L 655.596 34.92
+Q 655.596 28.2672 648.9 28.2672
+L 358.74 28.2672
+Q 352.044 28.2672 352.044 34.92
+L 352.044 134.712
+Q 352.044 141.3648 358.74 141.3648
+z
+" clip-path="url(#p3beb9c1f54)" style="fill: #edf4fa; stroke: #5c83a6; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 358.74 307.6848
+L 648.9 307.6848
+Q 655.596 307.6848 655.596 301.032
+L 655.596 201.24
+Q 655.596 194.5872 648.9 194.5872
+L 358.74 194.5872
+Q 352.044 194.5872 352.044 201.24
+L 352.044 301.032
+Q 352.044 307.6848 358.74 307.6848
+z
+" clip-path="url(#p3beb9c1f54)" style="fill: #edf4fa; stroke: #5c83a6; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 29.52 307.6848
+L 319.68 307.6848
+Q 326.376 307.6848 326.376 301.032
+L 326.376 201.24
+Q 326.376 194.5872 319.68 194.5872
+L 29.52 194.5872
+Q 22.824 194.5872 22.824 201.24
+L 22.824 301.032
+Q 22.824 307.6848 29.52 307.6848
+z
+" clip-path="url(#p3beb9c1f54)" style="fill: #edf4fa; stroke: #5c83a6; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 29.52 474.0048
+L 319.68 474.0048
+Q 326.376 474.0048 326.376 467.352
+L 326.376 367.56
+Q 326.376 360.9072 319.68 360.9072
+L 29.52 360.9072
+Q 22.824 360.9072 22.824 367.56
+L 22.824 467.352
+Q 22.824 474.0048 29.52 474.0048
+z
+" clip-path="url(#p3beb9c1f54)" style="fill: #edf4fa; stroke: #5c83a6; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 358.74 474.0048
+L 648.9 474.0048
+Q 655.596 474.0048 655.596 467.352
+L 655.596 367.56
+Q 655.596 360.9072 648.9 360.9072
+L 358.74 360.9072
+Q 352.044 360.9072 352.044 367.56
+L 352.044 467.352
+Q 352.044 474.0048 358.74 474.0048
+z
+" clip-path="url(#p3beb9c1f54)" style="fill: #edf4fa; stroke: #5c83a6; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 358.74 640.3248
+L 648.9 640.3248
+Q 655.596 640.3248 655.596 633.672
+L 655.596 533.88
+Q 655.596 527.2272 648.9 527.2272
+L 358.74 527.2272
+Q 352.044 527.2272 352.044 533.88
+L 352.044 633.672
+Q 352.044 640.3248 358.74 640.3248
+z
+" clip-path="url(#p3beb9c1f54)" style="fill: #edf4fa; stroke: #5c83a6; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 29.52 640.3248
+L 319.68 640.3248
+Q 326.376 640.3248 326.376 633.672
+L 326.376 533.88
+Q 326.376 527.2272 319.68 527.2272
+L 29.52 527.2272
+Q 22.824 527.2272 22.824 533.88
+L 22.824 633.672
+Q 22.824 640.3248 29.52 640.3248
+z
+" clip-path="url(#p3beb9c1f54)" style="fill: #edf4fa; stroke: #5c83a6; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 327.262588 84.816
+Q 336.421792 84.816 344.462963 84.816
+" clip-path="url(#p3beb9c1f54)" style="fill: none; stroke: #41566e; stroke-linecap: round"/>
+    <path d="M 337.262963 81.216
+L 344.462963 84.816
+L 337.262963 88.416
+z
+" clip-path="url(#p3beb9c1f54)" style="fill: #41566e; stroke: #41566e; stroke-linecap: round"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 503.82 150.574357
+Q 503.82 169.365524 503.82 187.038658
+" clip-path="url(#p3beb9c1f54)" style="fill: none; stroke: #41566e; stroke-linecap: round"/>
+    <path d="M 507.42 179.838658
+L 503.82 187.038658
+L 500.22 179.838658
+z
+" clip-path="url(#p3beb9c1f54)" style="fill: #41566e; stroke: #41566e; stroke-linecap: round"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 345.577412 251.136
+Q 336.418208 251.136 328.377037 251.136
+" clip-path="url(#p3beb9c1f54)" style="fill: none; stroke: #41566e; stroke-linecap: round"/>
+    <path d="M 335.577037 254.736
+L 328.377037 251.136
+L 335.577037 247.536
+z
+" clip-path="url(#p3beb9c1f54)" style="fill: #41566e; stroke: #41566e; stroke-linecap: round"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 174.6 316.894357
+Q 174.6 335.685524 174.6 353.358658
+" clip-path="url(#p3beb9c1f54)" style="fill: none; stroke: #41566e; stroke-linecap: round"/>
+    <path d="M 178.2 346.158658
+L 174.6 353.358658
+L 171 346.158658
+z
+" clip-path="url(#p3beb9c1f54)" style="fill: #41566e; stroke: #41566e; stroke-linecap: round"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 327.262588 417.456
+Q 336.421792 417.456 344.462963 417.456
+" clip-path="url(#p3beb9c1f54)" style="fill: none; stroke: #41566e; stroke-linecap: round"/>
+    <path d="M 337.262963 413.856
+L 344.462963 417.456
+L 337.262963 421.056
+z
+" clip-path="url(#p3beb9c1f54)" style="fill: #41566e; stroke: #41566e; stroke-linecap: round"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 503.82 483.214357
+Q 503.82 502.005524 503.82 519.678658
+" clip-path="url(#p3beb9c1f54)" style="fill: none; stroke: #41566e; stroke-linecap: round"/>
+    <path d="M 507.42 512.478658
+L 503.82 519.678658
+L 500.22 512.478658
+z
+" clip-path="url(#p3beb9c1f54)" style="fill: #41566e; stroke: #41566e; stroke-linecap: round"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 345.577412 583.776
+Q 336.418208 583.776 328.377037 583.776
+" clip-path="url(#p3beb9c1f54)" style="fill: none; stroke: #41566e; stroke-linecap: round"/>
+    <path d="M 335.577037 587.376
+L 328.377037 583.776
+L 335.577037 580.176
+z
+" clip-path="url(#p3beb9c1f54)" style="fill: #41566e; stroke: #41566e; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 16px; font-family: 'STIXGeneral', 'DejaVu Serif', serif; fill: #17304d" transform="translate(43.47 61.336)">1 Dietary records</text>
+    <text style="font-size: 16px; font-family: 'STIXGeneral', 'DejaVu Serif', serif; fill: #17304d" transform="translate(43.47 90.111)">POF 2017-2018</text>
+    <text style="font-size: 16px; font-family: 'STIXGeneral', 'DejaVu Serif', serif; fill: #17304d" transform="translate(43.47 115.736)">Exact sex and age</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 16px; font-family: 'STIXGeneral', 'DejaVu Serif', serif; fill: #17304d" transform="translate(372.69 61.3435)">2 Reference profiles</text>
+    <text style="font-size: 16px; font-family: 'STIXGeneral', 'DejaVu Serif', serif; fill: #17304d" transform="translate(372.69 88.536)">Height, BMI and activity</text>
+    <text style="font-size: 16px; font-family: 'STIXGeneral', 'DejaVu Serif', serif; fill: #17304d" transform="translate(372.69 115.736)">Maintenance energy</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 16px; font-family: 'STIXGeneral', 'DejaVu Serif', serif; fill: #17304d" transform="translate(372.69 227.656)">3 Nutrient goals</text>
+    <text style="font-size: 16px; font-family: 'STIXGeneral', 'DejaVu Serif', serif; fill: #17304d" transform="translate(372.69 254.8635)">23 capped criteria</text>
+    <text style="font-size: 16px; font-family: 'STIXGeneral', 'DejaVu Serif', serif; fill: #17304d" transform="translate(372.69 282.0635)">NC, NW, ND and triples</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 16px; font-family: 'STIXGeneral', 'DejaVu Serif', serif; fill: #17304d" transform="translate(43.47 229.28725)">4 Observed meals</text>
+    <text style="font-size: 16px; font-family: 'STIXGeneral', 'DejaVu Serif', serif; fill: #17304d" transform="translate(43.47 254.8635)">Six position-specific pools</text>
+    <text style="font-size: 16px; font-family: 'STIXGeneral', 'DejaVu Serif', serif; fill: #17304d" transform="translate(43.47 283.68725)">Observed whole meals</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 16px; font-family: 'STIXGeneral', 'DejaVu Serif', serif; fill: #17304d" transform="translate(43.47 394.016)">5 Penalty calibration</text>
+    <text style="font-size: 16px; font-family: 'STIXGeneral', 'DejaVu Serif', serif; fill: #17304d" transform="translate(43.47 421.18475)">6 weights / 864 reduced runs</text>
+    <text style="font-size: 16px; font-family: 'STIXGeneral', 'DejaVu Serif', serif; fill: #17304d" transform="translate(43.47 448.416)">Selected weight 5</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 16px; font-family: 'STIXGeneral', 'DejaVu Serif', serif; fill: #17304d" transform="translate(372.69 393.98475)">6 Evolutionary comparison</text>
+    <text style="font-size: 16px; font-family: 'STIXGeneral', 'DejaVu Serif', serif; fill: #17304d" transform="translate(372.69 421.176)">4 algorithms / 20 replicates</text>
+    <text style="font-size: 16px; font-family: 'STIXGeneral', 'DejaVu Serif', serif; fill: #17304d" transform="translate(372.69 448.4235)">16,500 evaluations per run</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 16px; font-family: 'STIXGeneral', 'DejaVu Serif', serif; fill: #17304d" transform="translate(372.69 560.3035)">7 Fronts and complete menus</text>
+    <text style="font-size: 16px; font-family: 'STIXGeneral', 'DejaVu Serif', serif; fill: #17304d" transform="translate(372.69 587.496)">Physical and search coordinates</text>
+    <text style="font-size: 16px; font-family: 'STIXGeneral', 'DejaVu Serif', serif; fill: #17304d" transform="translate(372.69 614.7035)">Six recorded meal portions</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 16px; font-family: 'STIXGeneral', 'DejaVu Serif', serif; fill: #17304d" transform="translate(43.47 560.296)">8 Dietary interpretation</text>
+    <text style="font-size: 16px; font-family: 'STIXGeneral', 'DejaVu Serif', serif; fill: #17304d" transform="translate(43.47 587.496)">Nutrient gaps and food grams</text>
+    <text style="font-size: 16px; font-family: 'STIXGeneral', 'DejaVu Serif', serif; fill: #17304d" transform="translate(43.47 614.7035)">Indicators / profile comparisons</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p3beb9c1f54">
+   <rect x="7.2" y="7.2" width="669.6" height="665.28"/>
+  </clipPath>
+ </defs>
+</svg>

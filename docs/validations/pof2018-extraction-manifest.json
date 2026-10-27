@@ -1,0 +1,19 @@
+{
+  "counts": {
+    "source_records": 1175390,
+    "written_records": 1175390
+  },
+  "method": "One output row per positive-quantity POF consumption record. Original eating-occasion and preparation codes are preserved. Blank preparation remains null. No six-meal remapping or coefficient substitution is applied.",
+  "output": {
+    "bytes": 234038805,
+    "filename": "pof2018-consumption.jsonl",
+    "sha256": "1cd45872c67c1eb32fafc5bc737b65a1d64a5a28f2adee7ea81d5737571ab156"
+  },
+  "person_days": 85018,
+  "schema_version": "1.0",
+  "source": {
+    "bytes": 146294013,
+    "filename": "Dados_20230713.zip",
+    "sha256": "f5b71f85452345e6e82caee15c70578c948981d8a8e5f99bd90ec60fac5b7932"
+  }
+}

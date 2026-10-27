@@ -1,0 +1,35 @@
+{
+  "algorithms": 4,
+  "cohort": {
+    "bytes": 8494,
+    "filename": "pof2018-cohort-audit.json",
+    "sha256": "68cc775d25dff3748c1f4bf33a92423db424f9c4028082713bd721b7fb32a7b6"
+  },
+  "design": {
+    "bytes": 3825,
+    "filename": "design.json",
+    "sha256": "5b07f20e76fa8d385f715b7a9f7bb71bc84f155a2f5ff82ee09860164deb9dcf"
+  },
+  "expected_run_outputs": [
+    "config.json",
+    "evaluated-solutions.jsonl",
+    "final-population.jsonl",
+    "front.jsonl",
+    "metrics.json",
+    "resources.json",
+    "run.log"
+  ],
+  "generated_on": "2026-10-01",
+  "instances": 24,
+  "matrix": {
+    "bytes": 2789563,
+    "filename": "run-matrix.csv",
+    "sha256": "8049c531eb5e70ae04f7acda430de8d61fd3afd07054f6f14f7989af4c8bfe4d"
+  },
+  "note": "This matrix schedules work. It is not a record of completed experiments.",
+  "objective_subsets": 10,
+  "planned_objective_evaluations": 31680000,
+  "planned_runs": 19200,
+  "replicates_per_cell": 20,
+  "schema_version": "1.0"
+}

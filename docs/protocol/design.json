@@ -1,0 +1,65 @@
+{
+  "schema_version": "1.0",
+  "study_id": "sec2026-pof-person-day-v1",
+  "source_sha256": {
+    "pof": "f5b71f85452345e6e82caee15c70578c948981d8a8e5f99bd90ec60fac5b7932",
+    "footprints": "988040f8e9c668d823c41b0839132a3494b9a3ad6e5a4945e18757542b16d4af"
+  },
+  "benchmark": {
+    "instances": 24,
+    "selection_manifest": "../audits/pof2018-cohort-audit.json",
+    "unit": "one observed person-day from a distinct adult respondent",
+    "food_universe": "food/preparation/occasion combinations observed on that person-day, excluding fixed public tap water",
+    "decision_variable": "grams per observed food/preparation/occasion combination",
+    "quantity_bounds": [0.0, 2.0],
+    "energy_band_relative_to_modeled_baseline": [0.8, 1.2],
+    "nutrient_fields": ["ENERGIA_KCAL", "FIBRA", "SODIO"],
+    "nutrient_coefficient_rule": "For each POF food/preparation key, fit per-gram coefficient through the origin as sum(grams * reported_absolute_amount) / sum(grams squared) over all source records. No coefficient file is published.",
+    "fixed_tap_water_key": "8216301#99",
+    "blank_addition_environment_crosswalk": "preparation 99 only for the 12 source food codes with a unique preparation-99 environmental row"
+  },
+  "objectives": {
+    "catalogue": ["N", "C", "W", "D"],
+    "pairs": ["N,C", "N,W", "N,D", "C,W", "C,D", "W,D"],
+    "triples": ["N,C,W", "N,C,D", "N,W,D", "C,W,D"],
+    "nutrient_aspirations": {"fiber_min_g_per_day": 25.0, "sodium_max_mg_per_day": 2000.0},
+    "all_directions": "minimize",
+    "metric_reference_point_normalized": 1.1
+  },
+  "algorithms": ["NSGA2", "SPEA2", "NSGA3", "SMSEMOA"],
+  "implementation": {
+    "framework": "pymoo",
+    "version": "0.6.1.6",
+    "license": "Apache-2.0",
+    "numpy_version": "2.4.1",
+    "scipy_version": "1.17.0",
+    "population_size": 66,
+    "offspring_per_step": {"NSGA2": 66, "SPEA2": 66, "NSGA3": 66, "SMSEMOA": 1},
+    "nsga3_das_dennis_partitions": {"2": 65, "3": 10},
+    "initial_population": "same 66 vectors for the four algorithms within an instance/scenario/replicate: the observed baseline plus 65 independent uniform vectors within quantity bounds",
+    "crossover": {"name": "SBX", "probability": 0.9, "eta": 20},
+    "mutation": {"name": "PM", "probability": "1 / number of variables", "eta": 20},
+    "duplicate_elimination": true,
+    "constraint_handling": "the framework's feasibility-first constraint violation ordering; no custom penalty or repair",
+    "parallel_objective_evaluation": false
+  },
+  "runs": {
+    "objective_evaluations_including_initial_population": 1650,
+    "replicates_per_cell": 20,
+    "replicate_ids": "1 through 20 inclusive",
+    "seed_rule": "first 32 bits of SHA-256(sec2026-pof-person-day-v1|person_day_id|objective_subset|replicate_id), with zero replaced by one",
+    "wall_time_limit_seconds": 900,
+    "max_parallel_runs": 8,
+    "failed_run_policy": "retain partial fronts and errors, never replace a seed or treat a partial run as complete"
+  },
+  "primary_analysis": {
+    "endpoint": "hypervolume of all feasible nondominated diets evaluated through the actual stopping point, normalized with fixed mathematical bounds",
+    "inference_unit": "respondent (one selected day)",
+    "within_instance_seed_summary": "median across 20 planned replicates, counting failed runs with no feasible diet as zero hypervolume",
+    "contrast_family": "six unordered algorithm pairs in each of ten objective subsets, 60 contrasts total",
+    "test": "two-sided paired sign-flip permutation test on 24 respondent-level differences with 99999 Monte Carlo sign vectors",
+    "effect": "mean paired hypervolume difference with percentile 95 percent respondent bootstrap interval from 9999 resamples",
+    "multiplicity": "Holm adjustment across the 60 primary p-values",
+    "significance_level": 0.05
+  }
+}

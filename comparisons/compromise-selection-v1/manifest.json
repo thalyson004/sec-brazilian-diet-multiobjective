@@ -1,0 +1,38 @@
+{
+  "analysis": "Retrospective reference-based selection sensitivity; no optimization rerun",
+  "conditional_menu_count": 1837,
+  "files": {
+    "README.md": {
+      "bytes": 6277,
+      "sha256": "e9ef56d4228205fad672275f4bfb4ccef488100c2c18360f235650b32ed8fb22"
+    },
+    "compromise-feasibility.tex": {
+      "bytes": 1168,
+      "sha256": "c6273701533303f7a018b3faab0a9a63d7808fed5a39ab0644473e20e94c7d91"
+    },
+    "coverage-by-cell.csv": {
+      "bytes": 26747,
+      "sha256": "3b2fc9ccdbd4b85c3a56be2621e06230192646439cbdf2d4cb91156fe0f28c73"
+    },
+    "observed-departure-reference.json": {
+      "bytes": 19089,
+      "sha256": "286e195962f91601e83dcec476b2988382ff518a28125c9c8337d4e22e34a22e"
+    },
+    "run-selections.csv": {
+      "bytes": 1799286,
+      "sha256": "dcb99de634c7381834775b71e875a22aae14dbb90ede85d8baf13ed88f2e79a2"
+    },
+    "selected-menus.jsonl.gz": {
+      "bytes": 374656,
+      "sha256": "f6513c55810f53e99cfa5c3cff0f72de2da4cc609a36bcc734c7f70f592d518f"
+    },
+    "summary.json": {
+      "bytes": 12906,
+      "sha256": "2efe01c5ce54d56e945f5b52983273eeeef5a734a01d5b411e83fb4912cae4d4"
+    }
+  },
+  "script_sha256": "531bda2e1170066c15b34fb0b50e713a8ea5a11fbb693b4428e6dcf936188350",
+  "selector_sha256": "6e581a98d7aa12d046ab049c0f5b9e2550dc8b2ad1e34ffe7004b313d2534504",
+  "source_front_manifest_sha256": "1d69e3741b529e1f3038f4fc5f943f2b82b685f6dbe3d2cae7b668740f492fbf",
+  "source_observed_outcomes_sha256": "7616e48becb7d0ea53f6fcabd229e699b8a319515661e3df73176568534cc65a"
+}

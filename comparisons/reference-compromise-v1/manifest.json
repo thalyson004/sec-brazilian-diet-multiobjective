@@ -1,0 +1,51 @@
+{
+  "execution_sha256": "a4cb4a6fea6dbf03636bf0f087b8af367cbaab5445713ff3b5a29374f4b4b604",
+  "files": {
+    "README.md": {
+      "bytes": 6335,
+      "sha256": "e35eb83327942c06c3a5c5f34be9ca20caf2aea0f88f485f285266baf58e8ba1"
+    },
+    "complete-menus.jsonl.gz": {
+      "bytes": 578363,
+      "sha256": "f96164bce9a918a68b689dee50ac3fdb9fce6fd93cf448c72fc031bb97935104"
+    },
+    "food-type-mass-summary.csv": {
+      "bytes": 5649691,
+      "sha256": "1b08d687dd85eae2cead1014e31695f8eee6ebf7c4f50e19d4b1fbfa767f4028"
+    },
+    "nutrient-outcomes.csv": {
+      "bytes": 5776100,
+      "sha256": "fd56cc41c2f01979116395004235aae44b8303a46cb89de05a215d05e17da7f7"
+    },
+    "nutrition-selections.tex": {
+      "bytes": 1487,
+      "sha256": "c5f750d952d8163596d65ffed1f36513ff73e0ff5df143c757f6f5c9c9676a93"
+    },
+    "observed-comparison.tex": {
+      "bytes": 2114,
+      "sha256": "f34f18bcb47b83ef368a2d7f5f015c5e235d59ff9a7fce6dedadc937a10f09a3"
+    },
+    "original-selection-summary.json": {
+      "bytes": 2744,
+      "sha256": "d42d17069767624ace3dfa9264603eef045724b86aa10a7a0916f12807e7d385"
+    },
+    "run-selections.csv": {
+      "bytes": 474971,
+      "sha256": "6a3e194ff877f070d1a58065058d90faa4872459898274cad9dcce9709f08a40"
+    },
+    "summary.json": {
+      "bytes": 3513,
+      "sha256": "4cb1ea2f2c8927dd4155ea615cf5c493954ea89942ef87d001ce276019cf3a0f"
+    }
+  },
+  "food_summary_rows": 39504,
+  "rule": "Strict observed-mean improvement in N/C/W/D, then minimum fixed unpenalized four-coordinate ideal distance over all energy-feasible evaluated candidates, including initialization; ties use candidate ID",
+  "run_count": 1920,
+  "script_sha256": "d06f2b88743bfd097f6ffd75d6e85e7cbd07a07e6f7bd6b18186255fcac81359",
+  "selector_sha256": "6e581a98d7aa12d046ab049c0f5b9e2550dc8b2ad1e34ffe7004b313d2534504",
+  "source_interpretation_sha256": "9bfedf137cd1637d3f8491adb6554bb1bf9c54ca5cc93119cda0f11b03b701ca",
+  "source_matrix_sha256": "317fc7156544ad8b85158ec1d3a98662f2f31ba0c9cf7507216b5fd9c6c71397",
+  "source_observed_sha256": "7616e48becb7d0ea53f6fcabd229e699b8a319515661e3df73176568534cc65a",
+  "source_original_selections_sha256": "27adad7c19d22adb9dd149780977122bc359c6503e3da2c3474d505fbc3caa98",
+  "source_reference_sha256": "286e195962f91601e83dcec476b2988382ff518a28125c9c8337d4e22e34a22e"
+}

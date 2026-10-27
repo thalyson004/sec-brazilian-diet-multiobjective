@@ -1,0 +1,161 @@
+{
+  "design": {
+    "algorithms": [
+      "NSGA2",
+      "SPEA2",
+      "NSGA3",
+      "SMSEMOA"
+    ],
+    "analysis": {
+      "bootstrap_draws": 9999,
+      "holm_family": "144 profile contrasts and 36 equal-profile global contrasts",
+      "permutation_draws": 99999
+    },
+    "energy_tolerance_fraction": 0.05,
+    "evaluations": 16500,
+    "excluded_targets": {
+      "AGMONO": "No single total-monounsaturated-fat DRI target",
+      "AGPOLI": "Total polyunsaturated fat is not separate n-3 and n-6 intake",
+      "COLEST": "No numeric DRI upper threshold",
+      "ENERGIA_KJ": "Duplicate energy representation",
+      "FOLATO": "No verified DFE correspondence in the source dictionary"
+    },
+    "implementation": {
+      "constraint_handling": "the framework's feasibility-first constraint violation ordering; no custom penalty or repair",
+      "crossover": {
+        "name": "uniform whole-meal exchange",
+        "probability": 0.9
+      },
+      "duplicate_elimination": true,
+      "framework": "pymoo",
+      "initial_population": "66 distinct observed diets from the same profile; matched across algorithms",
+      "license": "Apache-2.0",
+      "matplotlib_version": "3.11.2",
+      "mutation": {
+        "name": "categorical whole-meal replacement",
+        "probability": 1.0,
+        "probability_per_slot": "1/6"
+      },
+      "nsga3_das_dennis_partitions": {
+        "2": 65,
+        "3": 10
+      },
+      "numpy_version": "2.4.1",
+      "offspring_per_step": {
+        "NSGA2": 66,
+        "NSGA3": 66,
+        "SMSEMOA": 1,
+        "SPEA2": 66
+      },
+      "openpyxl_version": "3.1.5",
+      "parallel_objective_evaluation": false,
+      "population_size": 66,
+      "quantity_repair": "integer meal indices within position-specific pools; preserve all recorded food portions",
+      "scipy_version": "1.17.0",
+      "spea2_constant_coordinate_guard": "unit divisor for zero-span coordinates; finite internal fitness required",
+      "version": "0.6.1.6"
+    },
+    "nutrient_scope": "23 sourced nutrient criteria; energy is a hard constraint; all 29 POF fields remain available for description",
+    "nutrition_objective": "capped_attainment_percent",
+    "objective_subsets": [
+      "N,C",
+      "N,W",
+      "N,D",
+      "N,C,W",
+      "N,C,D",
+      "N,W,D"
+    ],
+    "penalty_calibration": {
+      "bytes": 3948,
+      "filename": "penalty-selection.json",
+      "sha256": "e32ae6837348586f30970ea08b27d78efae0dfab77b775a45610931f0f012111"
+    },
+    "penalty_enabled": true,
+    "penalty_rule": "add weight times mean relative lower-target shortfall to C, W and D after fixed normalization; retain N as 1-mean capped attainment",
+    "penalty_weight": 5.0,
+    "profile_definitions": [
+      {
+        "age_years": 30,
+        "bmi_citation_key": "brasil2004sisvan",
+        "bmi_kg_m2": 24.0,
+        "energy_citation_key": "nases2023energy",
+        "height_citation_key": "ibge2010anthropometry",
+        "height_m": 1.6,
+        "height_source_age_band": "30-34",
+        "maintenance_kcal": 2167.3516,
+        "physical_activity": "low_active",
+        "profile_id": "F30",
+        "sex_code": "2",
+        "weight_kg": 61.44,
+        "weight_rule": "24 * height_m squared"
+      },
+      {
+        "age_years": 60,
+        "bmi_citation_key": "brasil2004sisvan",
+        "bmi_kg_m2": 24.0,
+        "energy_citation_key": "nases2023energy",
+        "height_citation_key": "ibge2010anthropometry",
+        "height_m": 1.566,
+        "height_source_age_band": "55-64",
+        "maintenance_kcal": 1903.24844416,
+        "physical_activity": "low_active",
+        "profile_id": "F60",
+        "sex_code": "2",
+        "weight_kg": 58.856544,
+        "weight_rule": "24 * height_m squared"
+      },
+      {
+        "age_years": 30,
+        "bmi_citation_key": "brasil2004sisvan",
+        "bmi_kg_m2": 24.0,
+        "energy_citation_key": "nases2023energy",
+        "height_citation_key": "ibge2010anthropometry",
+        "height_m": 1.716,
+        "height_source_age_band": "30-34",
+        "maintenance_kcal": 2736.68585536,
+        "physical_activity": "low_active",
+        "profile_id": "M30",
+        "sex_code": "1",
+        "weight_kg": 70.671744,
+        "weight_rule": "24 * height_m squared"
+      },
+      {
+        "age_years": 60,
+        "bmi_citation_key": "brasil2004sisvan",
+        "bmi_kg_m2": 24.0,
+        "energy_citation_key": "nases2023energy",
+        "height_citation_key": "ibge2010anthropometry",
+        "height_m": 1.682,
+        "height_source_age_band": "55-64",
+        "maintenance_kcal": 2342.14070144,
+        "physical_activity": "low_active",
+        "profile_id": "M60",
+        "sex_code": "1",
+        "weight_kg": 67.898976,
+        "weight_rule": "24 * height_m squared"
+      }
+    ],
+    "profiles": [
+      "F30",
+      "F60",
+      "M30",
+      "M60"
+    ],
+    "replicates": 20,
+    "schema_version": "4.1",
+    "seed_namespace": "sec2026-pof-meals-v4-main",
+    "source_sha256": {
+      "footprints": "988040f8e9c668d823c41b0839132a3494b9a3ad6e5a4945e18757542b16d4af",
+      "pof": "f5b71f85452345e6e82caee15c70578c948981d8a8e5f99bd90ec60fac5b7932"
+    },
+    "study_id": "sec2026-pof-meals-v4.1-penalty-5",
+    "target_attainment_relative_tolerance": 1e-06,
+    "wall_time_limit_seconds": 3600
+  },
+  "instances_canonical_sha256": {
+    "F30": "fdfb004c126ff9d82dbee0c31100605dca549654473980714d008ee811959634",
+    "F60": "f305deba6fee79df0098e05d775f4681645d6aaaf9797cffc0c287cf0a16ec67",
+    "M30": "df8ac0c9cc37e1d3002b24a9e6b26accef6865e7e9990190727d302792d84806",
+    "M60": "bd27f7e3588aa452175433a76f40cba513c038d7dd3f8437431b6f1aae70e37c"
+  }
+}

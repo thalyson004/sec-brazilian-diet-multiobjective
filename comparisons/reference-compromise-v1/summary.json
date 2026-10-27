@@ -1,0 +1,117 @@
+{
+  "F30": {
+    "all23": 0,
+    "means": {
+      "all_targets_attained": 0.0,
+      "attained_targets": 17.04375,
+      "attainment_percent": 94.40747974361118,
+      "carbon_kg": 2.7687952570165977,
+      "departure_percent": 180.62477757302665,
+      "energy_kcal": 2151.16875,
+      "water_l": 2774.433353147558
+    },
+    "n": 480,
+    "sample_sd": {
+      "all_targets_attained": 0.0,
+      "attained_targets": 1.6713733992336872,
+      "attainment_percent": 1.6747073548852367,
+      "carbon_kg": 0.6455891598298589,
+      "departure_percent": 4.883858993316529,
+      "energy_kcal": 60.611322329385814,
+      "water_l": 838.3890555445499
+    },
+    "selected_from_original_front": 1
+  },
+  "F60": {
+    "all23": 0,
+    "means": {
+      "all_targets_attained": 0.0,
+      "attained_targets": 16.875,
+      "attainment_percent": 95.24423898829384,
+      "carbon_kg": 1.8662454278953764,
+      "departure_percent": 190.6539429286495,
+      "energy_kcal": 1880.4763604166665,
+      "water_l": 2148.1903155986424
+    },
+    "n": 480,
+    "sample_sd": {
+      "all_targets_attained": 0.0,
+      "attained_targets": 1.4423507835755496,
+      "attainment_percent": 1.2570960234404578,
+      "carbon_kg": 0.34606650887586005,
+      "departure_percent": 9.451313207713172,
+      "energy_kcal": 53.07542155472917,
+      "water_l": 631.4342711195196
+    },
+    "selected_from_original_front": 1
+  },
+  "GLOBAL": {
+    "all23": 0,
+    "means": {
+      "all_targets_attained": 0.0,
+      "attained_targets": 17.740104166666665,
+      "attainment_percent": 95.66966289549718,
+      "carbon_kg": 2.6630729454982633,
+      "departure_percent": 181.1106230852162,
+      "energy_kcal": 2261.0119177083334,
+      "water_l": 2433.5638653978526
+    },
+    "n": 1920,
+    "sample_sd": {
+      "all_targets_attained": 0.0,
+      "attained_targets": 1.798226208868891,
+      "attainment_percent": 1.8353987755245165,
+      "carbon_kg": 0.7174074976386509,
+      "departure_percent": 11.104168640608624,
+      "energy_kcal": 292.4354971494938,
+      "water_l": 681.3898173874525
+    },
+    "selected_from_original_front": 14
+  },
+  "M30": {
+    "all23": 0,
+    "means": {
+      "all_targets_attained": 0.0,
+      "attained_targets": 19.635416666666668,
+      "attainment_percent": 97.80337082594505,
+      "carbon_kg": 2.860125170036355,
+      "departure_percent": 171.82996100995234,
+      "energy_kcal": 2664.6232,
+      "water_l": 2633.256311661558
+    },
+    "n": 480,
+    "sample_sd": {
+      "all_targets_attained": 0.0,
+      "attained_targets": 1.2770643500662602,
+      "attainment_percent": 1.0462994770149092,
+      "carbon_kg": 0.586557046780553,
+      "departure_percent": 5.766879760702422,
+      "energy_kcal": 59.19964123302251,
+      "water_l": 364.77299241518296
+    },
+    "selected_from_original_front": 1
+  },
+  "M60": {
+    "all23": 0,
+    "means": {
+      "all_targets_attained": 0.0,
+      "attained_targets": 17.40625,
+      "attainment_percent": 95.22356202413863,
+      "carbon_kg": 3.157125927044725,
+      "departure_percent": 181.3338108292363,
+      "energy_kcal": 2347.779360416667,
+      "water_l": 2178.375481183651
+    },
+    "n": 480,
+    "sample_sd": {
+      "all_targets_attained": 0.0,
+      "attained_targets": 1.225836385258571,
+      "attainment_percent": 1.2152135791293504,
+      "carbon_kg": 0.5003520647407759,
+      "departure_percent": 13.026286720149706,
+      "energy_kcal": 68.02618830954881,
+      "water_l": 567.5838144899078
+    },
+    "selected_from_original_front": 11
+  }
+}

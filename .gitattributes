@@ -1,0 +1,21 @@
+docs/validations/*.json text eol=lf
+# The frozen matrix hashes the original CRLF cohort validation bytes.
+docs/validations/pof2018-cohort-validation.json -text whitespace=cr-at-eol
+docs/profiles/*.json text eol=lf
+docs/protocol/*.json text eol=lf
+docs/protocol/*.csv text eol=lf
+# Preserve published comparison checksums across checkout platforms.
+comparisons/observed-energy-matched/** -text whitespace=cr-at-eol
+comparisons/observed-profile-energy-context/** -text whitespace=cr-at-eol
+docs/profiles/observed-comparison-protocol.json -text whitespace=cr-at-eol
+scripts/extract_observed_comparison.py -text
+# Preserve hashes in complete reporting-front releases on every platform.
+fronts/** -text whitespace=cr-at-eol
+scripts/export_public_fronts.py text eol=lf
+comparisons/compromise-selection-v1/** -text whitespace=cr-at-eol
+scripts/analyze_compromise_selection.py text eol=lf
+src/sec_diet/compromise_selection.py text eol=lf
+comparisons/reference-compromise-v1/** -text whitespace=cr-at-eol
+scripts/select_reference_compromises.py text eol=lf
+scripts/export_reference_analysis.py text eol=lf
+scripts/export_front_figures.py text eol=lf

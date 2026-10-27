@@ -1,0 +1,2811 @@
+{
+  "schema_version": "1.0",
+  "source_footprint_sha256": "988040f8e9c668d823c41b0839132a3494b9a3ad6e5a4945e18757542b16d4af",
+  "policy": "English descriptions preserve source food codes. Regional and brand names are retained only with an English food description. Ambiguous source terms are not assigned more precise ingredients.",
+  "labels": {
+    "6300101": {
+      "source": "ARROZ (POLIDO, PARBOILIZADO, AGULHA, AGULHINHA, ETC)",
+      "english": "Rice (polished, parboiled or long-grain)"
+    },
+    "6300113": {
+      "source": "ARROZ BRANCO",
+      "english": "White rice"
+    },
+    "6300201": {
+      "source": "ARROZ INTEGRAL",
+      "english": "Brown rice"
+    },
+    "6300706": {
+      "source": "CANJIQUINHA DE MILHO EM GRAO",
+      "english": "Cracked corn"
+    },
+    "6300707": {
+      "source": "XEREM DE MILHO",
+      "english": "Cracked corn"
+    },
+    "6301001": {
+      "source": "AMENDOIM (EM GRAO) (IN NATURA)",
+      "english": "Peanuts"
+    },
+    "6301201": {
+      "source": "FAVA (EM GRAO)",
+      "english": "Broad beans"
+    },
+    "6301603": {
+      "source": "FEIJAO DE CORDA",
+      "english": "Cowpeas"
+    },
+    "6301634": {
+      "source": "FEIJAO VERDE",
+      "english": "Fresh green beans (pulses)"
+    },
+    "6302801": {
+      "source": "GRAO DE BICO",
+      "english": "Chickpeas"
+    },
+    "6302901": {
+      "source": "LENTILHA",
+      "english": "Lentils"
+    },
+    "6303102": {
+      "source": "FEIJAO (PRETO, MULATINHO, ROXO, ROSINHA, ETC)",
+      "english": "Beans (black, brown or other varieties)"
+    },
+    "6303501": {
+      "source": "QUIRERA NAO ESPECIFICADA",
+      "english": "Cracked grain, unspecified"
+    },
+    "6304901": {
+      "source": "QUINOA",
+      "english": "Quinoa"
+    },
+    "6400101": {
+      "source": "BATATA-INGLESA",
+      "english": "Potatoes"
+    },
+    "6400401": {
+      "source": "BATATA DOCE",
+      "english": "Sweet potatoes"
+    },
+    "6400501": {
+      "source": "INHAME",
+      "english": "Taro"
+    },
+    "6400601": {
+      "source": "MANDIOCA",
+      "english": "Cassava"
+    },
+    "6400609": {
+      "source": "AIPIM",
+      "english": "Cassava"
+    },
+    "6400610": {
+      "source": "MACAXEIRA",
+      "english": "Cassava"
+    },
+    "6400701": {
+      "source": "CARA",
+      "english": "Yam"
+    },
+    "6400802": {
+      "source": "BATATA (NÃO ESPECIFICADA)",
+      "english": "Potatoes"
+    },
+    "6401001": {
+      "source": "RABANETE",
+      "english": "Radish"
+    },
+    "6401101": {
+      "source": "BETERRABA",
+      "english": "Beetroot"
+    },
+    "6401201": {
+      "source": "CENOURA",
+      "english": "Carrot"
+    },
+    "6500108": {
+      "source": "MINGAU DE ARROZ",
+      "english": "Rice porridge"
+    },
+    "6500301": {
+      "source": "FARINHA DE AVEIA",
+      "english": "Oat flour"
+    },
+    "6500401": {
+      "source": "AVEIA EM FLOCOS",
+      "english": "Rolled oats"
+    },
+    "6500614": {
+      "source": "MINGAU DE MILHO",
+      "english": "Corn porridge"
+    },
+    "6500617": {
+      "source": "MINGAU DE NESTON",
+      "english": "Multicereal porridge (Neston)"
+    },
+    "6501401": {
+      "source": "FARINHA DE MANDIOCA",
+      "english": "Cassava flour"
+    },
+    "6501415": {
+      "source": "FARINHA DE AGUA",
+      "english": "Fermented cassava flour"
+    },
+    "6501515": {
+      "source": "SAGU DE TAPIOCA",
+      "english": "Tapioca pearls"
+    },
+    "6501516": {
+      "source": "TAPIOCA DE GOMA",
+      "english": "Hydrated tapioca starch"
+    },
+    "6502001": {
+      "source": "FARINHA LACTEA",
+      "english": "Milk-enriched cereal flour"
+    },
+    "6502101": {
+      "source": "NESTON",
+      "english": "Multicereal flour (Neston)"
+    },
+    "6502102": {
+      "source": "FLOCOS DE CEREAIS",
+      "english": "Cereal flakes"
+    },
+    "6503401": {
+      "source": "MACARRAO",
+      "english": "Pasta"
+    },
+    "6503501": {
+      "source": "PURE DE BATATA",
+      "english": "Mashed potatoes"
+    },
+    "6503502": {
+      "source": "PURE DE ABOBORA / JERIMUM / GERIMUM",
+      "english": "Mashed pumpkin"
+    },
+    "6503503": {
+      "source": "PURE DE INHAME",
+      "english": "Mashed taro"
+    },
+    "6503504": {
+      "source": "PURE DE MANDIOCA",
+      "english": "Mashed cassava"
+    },
+    "6503605": {
+      "source": "CARNE DE SOJA",
+      "english": "Textured soy protein"
+    },
+    "6504101": {
+      "source": "GRANOLA",
+      "english": "Granola"
+    },
+    "6504701": {
+      "source": "MIX DE CEREAIS",
+      "english": "Mixed cereals"
+    },
+    "6504801": {
+      "source": "MIOJO",
+      "english": "Instant noodles"
+    },
+    "6504802": {
+      "source": "MACARRAO INSTANTANEO",
+      "english": "Instant noodles"
+    },
+    "6505601": {
+      "source": "PROTEINA DE SOJA",
+      "english": "Soy protein"
+    },
+    "6573225": {
+      "source": "MACARRAO COM CARNE",
+      "english": "Pasta with meat"
+    },
+    "6573226": {
+      "source": "MACARRAO COM PEIXE",
+      "english": "Pasta with fish"
+    },
+    "6573241": {
+      "source": "SALADA DE MACARRAO COM MAIONESE",
+      "english": "Pasta salad with mayonnaise"
+    },
+    "6573242": {
+      "source": "MASSA / MACARRAO, INTEGRAL",
+      "english": "Whole-wheat pasta"
+    },
+    "6580001": {
+      "source": "SUPLEMENTO PROTEICO E OUTROS",
+      "english": "Protein and other supplements"
+    },
+    "6600104": {
+      "source": "COCO SECO",
+      "english": "Dried coconut"
+    },
+    "6600401": {
+      "source": "PINHAO",
+      "english": "Brazilian pine nuts"
+    },
+    "6600701": {
+      "source": "CASTANHA DO PARA",
+      "english": "Brazil nuts"
+    },
+    "6600801": {
+      "source": "CASTANHA DE CAJU",
+      "english": "Cashew nuts"
+    },
+    "6601108": {
+      "source": "TUCUMA",
+      "english": "Tucuma palm fruit"
+    },
+    "6601501": {
+      "source": "NOZ (NOGUEIRA)",
+      "english": "Walnuts"
+    },
+    "6601902": {
+      "source": "BACABA",
+      "english": "Bacaba palm fruit"
+    },
+    "6602301": {
+      "source": "BURITI",
+      "english": "Buriti palm fruit"
+    },
+    "6602401": {
+      "source": "COCO",
+      "english": "Coconut"
+    },
+    "6700101": {
+      "source": "ALFACE",
+      "english": "Lettuce"
+    },
+    "6700301": {
+      "source": "CHICORIA",
+      "english": "Chicory"
+    },
+    "6700304": {
+      "source": "ESCAROLA",
+      "english": "Escarole"
+    },
+    "6700501": {
+      "source": "COUVE",
+      "english": "Collard greens"
+    },
+    "6700601": {
+      "source": "COUVE FLOR",
+      "english": "Cauliflower"
+    },
+    "6700701": {
+      "source": "ESPINAFRE",
+      "english": "Spinach"
+    },
+    "6700801": {
+      "source": "MOSTARDA (VERDURA)",
+      "english": "Mustard greens"
+    },
+    "6700901": {
+      "source": "REPOLHO",
+      "english": "Cabbage"
+    },
+    "6700904": {
+      "source": "REPOLHO VERDE",
+      "english": "Green cabbage"
+    },
+    "6701101": {
+      "source": "CEBOLINHA",
+      "english": "Scallions"
+    },
+    "6701301": {
+      "source": "AGRIAO",
+      "english": "Watercress"
+    },
+    "6701401": {
+      "source": "TAIOBA",
+      "english": "Xanthosoma leaves (taioba)"
+    },
+    "6701501": {
+      "source": "ACELGA",
+      "english": "Swiss chard"
+    },
+    "6701601": {
+      "source": "ALMEIRAO",
+      "english": "Bitter chicory"
+    },
+    "6701602": {
+      "source": "RADITE",
+      "english": "Bitter chicory"
+    },
+    "6701704": {
+      "source": "BROCOLIS",
+      "english": "Broccoli"
+    },
+    "6701801": {
+      "source": "SERRALHA",
+      "english": "Sow-thistle greens"
+    },
+    "6701906": {
+      "source": "CUXA",
+      "english": "Roselle leaf dish (cuxa)"
+    },
+    "6702001": {
+      "source": "RUCULA",
+      "english": "Arugula"
+    },
+    "6703306": {
+      "source": "MORANGA",
+      "english": "Pumpkin"
+    },
+    "6703701": {
+      "source": "ABOBRINHA",
+      "english": "Zucchini"
+    },
+    "6703805": {
+      "source": "JERIMUM",
+      "english": "Pumpkin"
+    },
+    "6703901": {
+      "source": "ABOBORA",
+      "english": "Pumpkin"
+    },
+    "6704001": {
+      "source": "PEPINO",
+      "english": "Cucumber"
+    },
+    "6704101": {
+      "source": "CHUCHU",
+      "english": "Chayote"
+    },
+    "6704201": {
+      "source": "JILO",
+      "english": "Scarlet eggplant"
+    },
+    "6704301": {
+      "source": "MAXIXE",
+      "english": "West Indian gherkin"
+    },
+    "6704601": {
+      "source": "PIMENTA MALAGUETA",
+      "english": "Malagueta chili pepper"
+    },
+    "6705001": {
+      "source": "QUIABO",
+      "english": "Okra"
+    },
+    "6705101": {
+      "source": "TOMATE",
+      "english": "Tomato"
+    },
+    "6705201": {
+      "source": "VAGEM",
+      "english": "Green beans (pods)"
+    },
+    "6705701": {
+      "source": "CEBOLA",
+      "english": "Onion"
+    },
+    "6706201": {
+      "source": "ALHO",
+      "english": "Garlic"
+    },
+    "6707301": {
+      "source": "BROTO DE ALFAFA",
+      "english": "Alfalfa sprouts"
+    },
+    "6711001": {
+      "source": "VEGETAIS FOLHOSOS NAO ESPECIFICADOS",
+      "english": "Leafy vegetables, unspecified"
+    },
+    "6801001": {
+      "source": "BANANA DA TERRA",
+      "english": "Plantain"
+    },
+    "6801002": {
+      "source": "BANANA-PACOVA",
+      "english": "Plantain"
+    },
+    "6801101": {
+      "source": "BANANA (OURO, PRATA, D´ÁGUA, DA TERRA, ETC)",
+      "english": "Banana, unspecified variety"
+    },
+    "6801801": {
+      "source": "LARANJA (PERA, SELETA, LIMA, DA TERRA, ETC)",
+      "english": "Orange, unspecified variety"
+    },
+    "6802001": {
+      "source": "LIMAO (COMUM, GALEGO, ETC)",
+      "english": "Lime or lemon, unspecified"
+    },
+    "6802201": {
+      "source": "TANGERINA",
+      "english": "Tangerine"
+    },
+    "6802202": {
+      "source": "MEXERICA",
+      "english": "Tangerine"
+    },
+    "6802217": {
+      "source": "BERGAMOTA",
+      "english": "Tangerine"
+    },
+    "6802601": {
+      "source": "ABACAXI",
+      "english": "Pineapple"
+    },
+    "6802701": {
+      "source": "ABACATE",
+      "english": "Avocado"
+    },
+    "6802801": {
+      "source": "CAQUI",
+      "english": "Persimmon"
+    },
+    "6803001": {
+      "source": "MACA",
+      "english": "Apple"
+    },
+    "6803101": {
+      "source": "MAMAO",
+      "english": "Papaya"
+    },
+    "6803201": {
+      "source": "MANGA",
+      "english": "Mango"
+    },
+    "6803401": {
+      "source": "MELANCIA",
+      "english": "Watermelon"
+    },
+    "6803501": {
+      "source": "MELAO",
+      "english": "Melon"
+    },
+    "6803601": {
+      "source": "PERA",
+      "english": "Pear"
+    },
+    "6803701": {
+      "source": "PESSEGO",
+      "english": "Peach"
+    },
+    "6803802": {
+      "source": "PINHA (FRUTA DE CONDE)",
+      "english": "Sugar apple"
+    },
+    "6803803": {
+      "source": "ATA",
+      "english": "Sugar apple"
+    },
+    "6803901": {
+      "source": "UVA",
+      "english": "Grapes"
+    },
+    "6804101": {
+      "source": "JACA",
+      "english": "Jackfruit"
+    },
+    "6804201": {
+      "source": "GOIABA",
+      "english": "Guava"
+    },
+    "6804301": {
+      "source": "AMEIXA",
+      "english": "Plum"
+    },
+    "6804401": {
+      "source": "CAJU",
+      "english": "Cashew apple"
+    },
+    "6805201": {
+      "source": "MORANGO",
+      "english": "Strawberry"
+    },
+    "6806001": {
+      "source": "SAPOTI",
+      "english": "Sapodilla"
+    },
+    "6806301": {
+      "source": "CACAU",
+      "english": "Cocoa fruit"
+    },
+    "6806701": {
+      "source": "PEQUI",
+      "english": "Pequi fruit"
+    },
+    "6807701": {
+      "source": "ACEROLA",
+      "english": "Acerola cherry"
+    },
+    "6808201": {
+      "source": "JURUBEBA",
+      "english": "Jurubeba berries"
+    },
+    "6810001": {
+      "source": "LICHIA",
+      "english": "Lychee"
+    },
+    "6900401": {
+      "source": "RAPADURA",
+      "english": "Unrefined cane-sugar block"
+    },
+    "6900501": {
+      "source": "SORVETE DE QUALQUER SABOR INDUSTRIALIZADO",
+      "english": "Commercial ice cream"
+    },
+    "6900502": {
+      "source": "PICOLE DE QUALQUER SABOR INDUSTRIALIZADO",
+      "english": "Commercial ice pop"
+    },
+    "6900601": {
+      "source": "CHICLETE",
+      "english": "Chewing gum"
+    },
+    "6900603": {
+      "source": "BALA",
+      "english": "Candy"
+    },
+    "6900610": {
+      "source": "JUJUBA",
+      "english": "Jelly candy"
+    },
+    "6900701": {
+      "source": "TABLETE DE CHOCOLATE",
+      "english": "Chocolate bar, unspecified"
+    },
+    "6900702": {
+      "source": "BARRA DE CHOCOLATE",
+      "english": "Chocolate bar, unspecified"
+    },
+    "6900703": {
+      "source": "CHOCOLATE, TABLETE NAO ESPECIFICADO",
+      "english": "Chocolate bar, unspecified"
+    },
+    "6900710": {
+      "source": "CHOCOLATE, TABLETE, AO LEITE",
+      "english": "Milk chocolate bar"
+    },
+    "6900712": {
+      "source": "CHOCOLATE, TABLETE, BRANCO",
+      "english": "White chocolate bar"
+    },
+    "6900801": {
+      "source": "CHOCOLATE EM PO DE QUALQUER MARCA",
+      "english": "Cocoa powder"
+    },
+    "6900821": {
+      "source": "ACHOCOLATADO EM PO",
+      "english": "Sweetened chocolate drink powder"
+    },
+    "6900822": {
+      "source": "TODDYNHO",
+      "english": "Chocolate milk drink (Toddynho)"
+    },
+    "6900901": {
+      "source": "BOMBOM DE QUALQUER MARCA",
+      "english": "Chocolate confection"
+    },
+    "6900904": {
+      "source": "TRUFA",
+      "english": "Chocolate truffle"
+    },
+    "6901001": {
+      "source": "GELEIA DE FRUTAS DE QUALQUER MARCA OU SABOR",
+      "english": "Fruit jam"
+    },
+    "6901002": {
+      "source": "MOUSSE DE QUALQUER SABOR (GELÉIA)",
+      "english": "Mousse dessert, unspecified"
+    },
+    "6901201": {
+      "source": "DOCE DE FRUTAS EM PASTA DE QUALQUER SABOR",
+      "english": "Fruit paste confection"
+    },
+    "6901211": {
+      "source": "GOIABADA",
+      "english": "Guava paste"
+    },
+    "6901231": {
+      "source": "DOCE DE BANANA EM PASTA",
+      "english": "Banana paste confection"
+    },
+    "6901240": {
+      "source": "BANANADA",
+      "english": "Banana paste confection"
+    },
+    "6901301": {
+      "source": "DOCE DE FRUTAS EM CALDA DE QUALQUER SABOR",
+      "english": "Fruit preserved in syrup"
+    },
+    "6901501": {
+      "source": "MELADO",
+      "english": "Cane molasses"
+    },
+    "6901602": {
+      "source": "MEL",
+      "english": "Honey"
+    },
+    "6901701": {
+      "source": "GELATINA DE QUALQUER SABOR",
+      "english": "Gelatin dessert"
+    },
+    "6901801": {
+      "source": "ADOCANTE ARTIFICIAL",
+      "english": "Artificial sweetener"
+    },
+    "6902301": {
+      "source": "SCHIMIER DE CANA",
+      "english": "Cane-sugar spread"
+    },
+    "6902401": {
+      "source": "FRUTA SECA OU DESIDRATADA",
+      "english": "Dried fruit"
+    },
+    "6902402": {
+      "source": "PASSA",
+      "english": "Raisins"
+    },
+    "6902601": {
+      "source": "PUDIM DE QUALQUER SABOR",
+      "english": "Pudding, unspecified flavor"
+    },
+    "6902901": {
+      "source": "CUSCUZ",
+      "english": "Brazilian corn couscous"
+    },
+    "6902902": {
+      "source": "CUSCUZ DE TAPIOCA",
+      "english": "Tapioca couscous"
+    },
+    "6902910": {
+      "source": "CUSCUZ COM LEITE",
+      "english": "Brazilian couscous with milk"
+    },
+    "6903101": {
+      "source": "COCADA",
+      "english": "Coconut candy"
+    },
+    "6903201": {
+      "source": "DOCE DE AMENDOIM",
+      "english": "Peanut candy"
+    },
+    "6903202": {
+      "source": "PE DE MOLEQUE",
+      "english": "Peanut brittle"
+    },
+    "6903207": {
+      "source": "AMENDOIM CARAMELIZADO",
+      "english": "Caramelized peanuts"
+    },
+    "6903601": {
+      "source": "BRIGADEIRO",
+      "english": "Chocolate fudge confection (brigadeiro)"
+    },
+    "6903901": {
+      "source": "QUEIJADINHA",
+      "english": "Coconut and cheese tart"
+    },
+    "6904203": {
+      "source": "AMBROSIA",
+      "english": "Milk-and-egg confection (ambrosia)"
+    },
+    "6904301": {
+      "source": "DOCE DE LEITE",
+      "english": "Milk fudge spread"
+    },
+    "6904302": {
+      "source": "MUMU",
+      "english": "Milk fudge spread"
+    },
+    "6904502": {
+      "source": "BEIJU",
+      "english": "Cassava flatbread (beiju)"
+    },
+    "6904601": {
+      "source": "SCHIMIER DE FRUTA (EXCETO DE CANA)",
+      "english": "Fruit spread"
+    },
+    "6904802": {
+      "source": "DIN DIN",
+      "english": "Frozen juice pop"
+    },
+    "6905001": {
+      "source": "CHURRO",
+      "english": "Churro"
+    },
+    "6905101": {
+      "source": "PAMONHA",
+      "english": "Steamed corn parcel (pamonha)"
+    },
+    "6905606": {
+      "source": "NUTELLA",
+      "english": "Chocolate-hazelnut spread (Nutella)"
+    },
+    "6906001": {
+      "source": "ARROZ-DOCE",
+      "english": "Rice pudding"
+    },
+    "6906501": {
+      "source": "DIET SHAKE",
+      "english": "Diet shake"
+    },
+    "6906602": {
+      "source": "ACUCAR",
+      "english": "Sugar"
+    },
+    "6907201": {
+      "source": "BARRA DE CEREAIS",
+      "english": "Cereal bar"
+    },
+    "6915304": {
+      "source": "PUDIM DE LEITE",
+      "english": "Milk pudding"
+    },
+    "6915902": {
+      "source": "CALDA DE CHOCOLATE",
+      "english": "Chocolate syrup"
+    },
+    "7001501": {
+      "source": "MOSTARDA MOLHO",
+      "english": "Mustard sauce"
+    },
+    "7003604": {
+      "source": "SHOYO",
+      "english": "Soy sauce"
+    },
+    "7004301": {
+      "source": "MAIONESE (MOLHO)",
+      "english": "Mayonnaise"
+    },
+    "7004801": {
+      "source": "MOLHO DE TOMATE",
+      "english": "Tomato sauce"
+    },
+    "7004802": {
+      "source": "KETCHUP",
+      "english": "Ketchup"
+    },
+    "7007701": {
+      "source": "CALDO DE PEIXE",
+      "english": "Fish broth"
+    },
+    "7079202": {
+      "source": "VINAGRETE",
+      "english": "Tomato-onion vinaigrette"
+    },
+    "7080001": {
+      "source": "VINAGRE",
+      "english": "Vinegar"
+    },
+    "7100101": {
+      "source": "FILE MIGNON",
+      "english": "Beef tenderloin"
+    },
+    "7100205": {
+      "source": "BISTECA BOVINA",
+      "english": "Beef chop"
+    },
+    "7100301": {
+      "source": "ALCATRA",
+      "english": "Beef rump"
+    },
+    "7100304": {
+      "source": "PICANHA",
+      "english": "Beef rump cap"
+    },
+    "7101009": {
+      "source": "CARNE MARICA BOVINA",
+      "english": "Beef, unspecified regional cut"
+    },
+    "7101011": {
+      "source": "VAZIO (CARNE BOVINA)",
+      "english": "Beef flank"
+    },
+    "7101202": {
+      "source": "FRALDINHA (CAPA DE FILE)",
+      "english": "Beef flank steak"
+    },
+    "7101301": {
+      "source": "COSTELA BOVINA",
+      "english": "Beef ribs"
+    },
+    "7101806": {
+      "source": "PANELADA (VISCERAS BOVINAS NAO ESPECIFICADAS)",
+      "english": "Beef offal stew"
+    },
+    "7101901": {
+      "source": "CORACAO BOVINO",
+      "english": "Beef heart"
+    },
+    "7102501": {
+      "source": "FIGADO BOVINO",
+      "english": "Beef liver"
+    },
+    "7102502": {
+      "source": "FIGADO BOVINO (BIFE)",
+      "english": "Beef liver"
+    },
+    "7102701": {
+      "source": "LINGUA BOVINA",
+      "english": "Beef tongue"
+    },
+    "7102801": {
+      "source": "RABADA BOVINA",
+      "english": "Oxtail"
+    },
+    "7103101": {
+      "source": "MOCOTO BOVINO",
+      "english": "Beef foot"
+    },
+    "7103305": {
+      "source": "BISTECA SUINA",
+      "english": "Pork chop"
+    },
+    "7103501": {
+      "source": "COSTELA SUINA",
+      "english": "Pork ribs"
+    },
+    "7103701": {
+      "source": "LOMBO SUINO",
+      "english": "Pork loin"
+    },
+    "7103801": {
+      "source": "TOUCINHO",
+      "english": "Pork fat"
+    },
+    "7104101": {
+      "source": "CARNE SUINA",
+      "english": "Pork, unspecified cut"
+    },
+    "7104102": {
+      "source": "CARNE DE PORCO",
+      "english": "Pork, unspecified cut"
+    },
+    "7104301": {
+      "source": "CARNE MOIDA",
+      "english": "Ground meat"
+    },
+    "7104302": {
+      "source": "GUIZADO",
+      "english": "Meat stew"
+    },
+    "7105402": {
+      "source": "CARNE DE BODE",
+      "english": "Goat meat"
+    },
+    "7105403": {
+      "source": "CARNE CAPRINA",
+      "english": "Goat meat"
+    },
+    "7105601": {
+      "source": "CARNE DE CARNEIRO",
+      "english": "Mutton"
+    },
+    "7106301": {
+      "source": "PERNIL",
+      "english": "Pork leg"
+    },
+    "7107804": {
+      "source": "CHULETA",
+      "english": "Beef chop"
+    },
+    "7108902": {
+      "source": "BIFE",
+      "english": "Beef steak"
+    },
+    "7109101": {
+      "source": "CARNE BOVINA",
+      "english": "Beef, unspecified cut"
+    },
+    "7112601": {
+      "source": "BIFE A MILANESA",
+      "english": "Breaded beef steak"
+    },
+    "7112701": {
+      "source": "BIFE A ROLE",
+      "english": "Stuffed beef roll"
+    },
+    "7112801": {
+      "source": "BIFE DE PANELA",
+      "english": "Braised beef steak"
+    },
+    "7112802": {
+      "source": "CARNE DE PANELA",
+      "english": "Braised beef"
+    },
+    "7113001": {
+      "source": "KAFTA",
+      "english": "Seasoned ground-meat kebab (kafta)"
+    },
+    "7200101": {
+      "source": "PEIXE DE MAR (INTEIRO, EM POSTA, EM FILÉ, ETC)",
+      "english": "Marine fish, unspecified species"
+    },
+    "7200401": {
+      "source": "PEIXE DE MAR SALGADO (INTEIRO, EM POSTA, EM FILÉ, ETC)",
+      "english": "Salted marine fish"
+    },
+    "7260101": {
+      "source": "CAMARAO",
+      "english": "Shrimp"
+    },
+    "7270401": {
+      "source": "BACALHAU",
+      "english": "Salted cod"
+    },
+    "7273101": {
+      "source": "OVAS DE PEIXE (QUALQUER ESPECIE)",
+      "english": "Fish roe"
+    },
+    "7280501": {
+      "source": "FILE DE PEIXE",
+      "english": "Fish fillet"
+    },
+    "7400101": {
+      "source": "PEIXE DE AGUA DOCE (INTEIRO, EM POSTA, EM FILÉ, ETC)",
+      "english": "Freshwater fish, unspecified species"
+    },
+    "7400401": {
+      "source": "PEIXE DE AGUA DOCE SALGADO (INTEIRO, EM POSTA, EM FILÉ, ETC)",
+      "english": "Salted freshwater fish"
+    },
+    "7480001": {
+      "source": "PACU",
+      "english": "Pacu fish"
+    },
+    "7600101": {
+      "source": "PEIXE NAO ESPECIFICADO (INTEIRO, EM POSTA, EM FILÉ, ETC)",
+      "english": "Fish, unspecified species"
+    },
+    "7600401": {
+      "source": "PEIXE NAO ESPECIFICADO SALGADO (INTEIRO, EM POSTA, EM FILÉ, ETC)",
+      "english": "Salted fish, unspecified species"
+    },
+    "7700101": {
+      "source": "AZEITONA",
+      "english": "Olives"
+    },
+    "7700902": {
+      "source": "CHUCRUTE",
+      "english": "Sauerkraut"
+    },
+    "7701101": {
+      "source": "LEGUME NAO ESPECIFICADO EM CONSERVA",
+      "english": "Preserved vegetables, unspecified"
+    },
+    "7701501": {
+      "source": "MILHO VERDE COM ERVILHA EM CONSERVA",
+      "english": "Canned sweetcorn and peas"
+    },
+    "7701901": {
+      "source": "FEIJOADA",
+      "english": "Bean-and-meat stew (feijoada)"
+    },
+    "7702101": {
+      "source": "COZIDO",
+      "english": "Meat and vegetable stew"
+    },
+    "7702102": {
+      "source": "PUCHERO",
+      "english": "Meat and vegetable stew"
+    },
+    "7702601": {
+      "source": "CARNE BOVINA EM CONSERVA",
+      "english": "Preserved beef"
+    },
+    "7702602": {
+      "source": "ALMONDEGA",
+      "english": "Meatballs"
+    },
+    "7702705": {
+      "source": "PRESUNTADA",
+      "english": "Canned luncheon meat"
+    },
+    "7702707": {
+      "source": "FIAMBRE",
+      "english": "Canned luncheon meat"
+    },
+    "7702801": {
+      "source": "SALSICHA EM CONSERVA",
+      "english": "Canned sausage"
+    },
+    "7703002": {
+      "source": "SARDINHA EM CONSERVA",
+      "english": "Canned sardines"
+    },
+    "7703402": {
+      "source": "ATUM EM CONSERVA",
+      "english": "Canned tuna"
+    },
+    "7703701": {
+      "source": "PEPINO EM CONSERVA",
+      "english": "Pickled cucumber"
+    },
+    "7705401": {
+      "source": "STROGONOFF",
+      "english": "Stroganoff, unspecified"
+    },
+    "7800301": {
+      "source": "PARTE DE GALINHA OU FRANGO NAO ESPECIFICADA",
+      "english": "Chicken, unspecified part"
+    },
+    "7800302": {
+      "source": "FRANGO EM PEDAÇOS",
+      "english": "Chicken pieces"
+    },
+    "7800303": {
+      "source": "GALINHA EM PEDACOS",
+      "english": "Chicken pieces"
+    },
+    "7800304": {
+      "source": "CARNE DE GALINHA",
+      "english": "Chicken pieces"
+    },
+    "7800307": {
+      "source": "FRANGO DESFIADO",
+      "english": "Shredded chicken"
+    },
+    "7800401": {
+      "source": "PEITO DE GALINHA OU FRANGO",
+      "english": "Chicken breast"
+    },
+    "7800402": {
+      "source": "FILE DE FRANGO",
+      "english": "Chicken breast fillet"
+    },
+    "7800503": {
+      "source": "SOBRECOXA / COXA DE FRANGO / GALINHA",
+      "english": "Chicken leg or thigh"
+    },
+    "7800701": {
+      "source": "ASA DE GALINHA OU FRANGO",
+      "english": "Chicken wing"
+    },
+    "7800702": {
+      "source": "DRUMETE DE GALINHA OU FRANGO",
+      "english": "Chicken drumette"
+    },
+    "7800801": {
+      "source": "PESCOCO DE GALINHA OU FRANGO",
+      "english": "Chicken neck"
+    },
+    "7801202": {
+      "source": "CORACAO DE FRANGO",
+      "english": "Chicken heart"
+    },
+    "7801407": {
+      "source": "CANJA",
+      "english": "Chicken and rice soup"
+    },
+    "7801702": {
+      "source": "PERU EM PEDACO NAO ESPECIFICADO",
+      "english": "Turkey, unspecified part"
+    },
+    "7801801": {
+      "source": "PEITO DE PERU",
+      "english": "Turkey breast"
+    },
+    "7802101": {
+      "source": "ASA DE PERU",
+      "english": "Turkey wing"
+    },
+    "7802701": {
+      "source": "CHESTER",
+      "english": "Large roasting chicken (Chester)"
+    },
+    "7802901": {
+      "source": "NUGGETS DE FRANGO",
+      "english": "Chicken nuggets"
+    },
+    "7802902": {
+      "source": "STEAK DE FRANGO",
+      "english": "Processed chicken steak"
+    },
+    "7803301": {
+      "source": "OVO DE GALINHA",
+      "english": "Chicken egg"
+    },
+    "7803703": {
+      "source": "CAPOTE",
+      "english": "Guinea fowl"
+    },
+    "7803913": {
+      "source": "CARNE DE PATO",
+      "english": "Duck meat"
+    },
+    "7805401": {
+      "source": "PEITO DE PERU LIGHT",
+      "english": "Reduced-fat turkey breast"
+    },
+    "7807301": {
+      "source": "OVOS MEXIDOS",
+      "english": "Scrambled eggs"
+    },
+    "7807501": {
+      "source": "FRANGO A PASSARINHO",
+      "english": "Fried small chicken pieces"
+    },
+    "7900101": {
+      "source": "LEITE DE VACA INTEGRAL",
+      "english": "Whole cow's milk"
+    },
+    "7900201": {
+      "source": "LEITE DE VACA FRESCO",
+      "english": "Fresh cow's milk"
+    },
+    "7900601": {
+      "source": "LEITE EM PO INTEGRAL",
+      "english": "Whole-milk powder"
+    },
+    "7900801": {
+      "source": "LEITE EM PO",
+      "english": "Milk powder, unspecified"
+    },
+    "7900901": {
+      "source": "LEITE CONDENSADO",
+      "english": "Condensed milk"
+    },
+    "7901001": {
+      "source": "CREME DE LEITE",
+      "english": "Cream"
+    },
+    "7901201": {
+      "source": "IOGURTE DE QUALQUER SABOR",
+      "english": "Flavored yogurt"
+    },
+    "7901203": {
+      "source": "IOGURTE DESNATADO",
+      "english": "Nonfat yogurt"
+    },
+    "7901204": {
+      "source": "IOGURTE NATURAL",
+      "english": "Plain yogurt"
+    },
+    "7901304": {
+      "source": "LEITE FERMENTADO",
+      "english": "Fermented milk drink"
+    },
+    "7901401": {
+      "source": "COALHADA",
+      "english": "Cultured milk curd"
+    },
+    "7901501": {
+      "source": "MANTEIGA COM OU SEM SAL",
+      "english": "Butter, salted or unsalted"
+    },
+    "7901602": {
+      "source": "MARGARINA COM OU SEM SAL",
+      "english": "Margarine, salted or unsalted"
+    },
+    "7901701": {
+      "source": "QUEIJO PRATO",
+      "english": "Prato cheese"
+    },
+    "7901703": {
+      "source": "QUEIJO COLONIAL",
+      "english": "Colonial-style cheese"
+    },
+    "7901705": {
+      "source": "QUEIJO DE COLONIA",
+      "english": "Colonial-style cheese"
+    },
+    "7901801": {
+      "source": "QUEIJO MUZARELLA",
+      "english": "Mozzarella"
+    },
+    "7901803": {
+      "source": "MUSSARELA",
+      "english": "Mozzarella"
+    },
+    "7901901": {
+      "source": "QUEIJO DE REINO",
+      "english": "Dutch-style round cheese"
+    },
+    "7902001": {
+      "source": "QUEIJO DE MINAS",
+      "english": "Minas cheese"
+    },
+    "7902003": {
+      "source": "QUEIJO DE MANTEIGA",
+      "english": "Butter cheese"
+    },
+    "7902004": {
+      "source": "QUECHIMIA",
+      "english": "Cream cheese (quechimia)"
+    },
+    "7902005": {
+      "source": "QUEIJO DE COALHO",
+      "english": "Brazilian rennet cheese"
+    },
+    "7902008": {
+      "source": "QUEIJO CANASTRA",
+      "english": "Canastra cheese"
+    },
+    "7902201": {
+      "source": "QUEIJO RICOTA",
+      "english": "Ricotta"
+    },
+    "7902301": {
+      "source": "LEITE DE SOJA COM SABOR",
+      "english": "Flavored soy milk"
+    },
+    "7902403": {
+      "source": "QUEIJO RALADO",
+      "english": "Grated cheese"
+    },
+    "7902501": {
+      "source": "QUEIJO PROVOLONE",
+      "english": "Provolone"
+    },
+    "7902901": {
+      "source": "REQUEIJAO",
+      "english": "Cream cheese spread"
+    },
+    "7903001": {
+      "source": "QUEIJO NAO ESPECIFICADO",
+      "english": "Cheese, unspecified"
+    },
+    "7903101": {
+      "source": "LEITE COM SABOR",
+      "english": "Flavored milk"
+    },
+    "7903102": {
+      "source": "LEITE ACHOCOLATADO",
+      "english": "Chocolate milk drink"
+    },
+    "7903110": {
+      "source": "BEBIDA ACHOCOLATADA",
+      "english": "Chocolate milk drink"
+    },
+    "7903201": {
+      "source": "NATA",
+      "english": "Thick cream"
+    },
+    "7903601": {
+      "source": "LEITE DE VACA DESNATADO",
+      "english": "Skim cow's milk"
+    },
+    "7903702": {
+      "source": "LEITE DE VACA SEMIDESNATADO",
+      "english": "Semi-skim cow's milk"
+    },
+    "7903801": {
+      "source": "LEITE NAO ESPECIFICADO PASTEURIZADO",
+      "english": "Pasteurized milk, unspecified type"
+    },
+    "7903901": {
+      "source": "IOGURTE DE QUALQUER SABOR LIGHT",
+      "english": "Reduced-calorie flavored yogurt"
+    },
+    "7904001": {
+      "source": "IOGURTE DE QUALQUER SABOR DIET",
+      "english": "Diet flavored yogurt"
+    },
+    "7905104": {
+      "source": "QUEIJO MUSSARELA LIGHT",
+      "english": "Reduced-fat mozzarella"
+    },
+    "7906501": {
+      "source": "REQUEIJAO LIGHT",
+      "english": "Reduced-fat cream cheese spread"
+    },
+    "7980001": {
+      "source": "LEITE SEM LACTOSE",
+      "english": "Lactose-free milk"
+    },
+    "8000101": {
+      "source": "PAO, FRANCÃ‹S, NAO ESPECIFICADO",
+      "english": "Brazilian white bread roll"
+    },
+    "8000102": {
+      "source": "PAO D'AGUA NAO ESPECIFICADO",
+      "english": "Brazilian white bread roll"
+    },
+    "8000103": {
+      "source": "PAO DE HAMBURGUER",
+      "english": "Hamburger bun"
+    },
+    "8000105": {
+      "source": "PAO DE SAL",
+      "english": "Brazilian white bread roll"
+    },
+    "8000106": {
+      "source": "PAO DE TRIGO",
+      "english": "Wheat bread"
+    },
+    "8000107": {
+      "source": "PAO CACETINHO, NAO ESPECIFICADO",
+      "english": "Brazilian white bread roll"
+    },
+    "8000109": {
+      "source": "PAO CARECA",
+      "english": "Brazilian white bread roll"
+    },
+    "8000157": {
+      "source": "PAO, BRANCO NAO ESPECIFICADO",
+      "english": "White bread, unspecified"
+    },
+    "8000158": {
+      "source": "PAOZINHO",
+      "english": "Brazilian white bread roll"
+    },
+    "8000201": {
+      "source": "PAO DOCE",
+      "english": "Sweet bread"
+    },
+    "8000208": {
+      "source": "PAO DOCE, COM RECHEIO",
+      "english": "Filled sweet bread"
+    },
+    "8000213": {
+      "source": "PAO DE LEITE",
+      "english": "Milk bread"
+    },
+    "8000229": {
+      "source": "PAO DE MEL",
+      "english": "Honey cake"
+    },
+    "8000234": {
+      "source": "PANETONE",
+      "english": "Panettone"
+    },
+    "8000237": {
+      "source": "BISNAGUINHA",
+      "english": "Small soft bread rolls"
+    },
+    "8000249": {
+      "source": "PAO DOCE, SEM RECHEIO",
+      "english": "Sweet bread"
+    },
+    "8000501": {
+      "source": "PAO DE FORMA INDUSTRIALIZADO DE QUALQUER MARCA",
+      "english": "Commercial sliced bread"
+    },
+    "8000801": {
+      "source": "PAO DE QUEIJO",
+      "english": "Cheese bread"
+    },
+    "8001101": {
+      "source": "PAO DE MILHO",
+      "english": "Corn bread"
+    },
+    "8001301": {
+      "source": "PAO DE CENTEIO",
+      "english": "Rye bread"
+    },
+    "8001302": {
+      "source": "PAO PRETO NAO ESPECIFICADO",
+      "english": "Dark bread, unspecified"
+    },
+    "8001401": {
+      "source": "PAO INTEGRAL",
+      "english": "Whole-wheat bread"
+    },
+    "8001412": {
+      "source": "PAO DE TRIGO INTEGRAL",
+      "english": "Whole-wheat bread"
+    },
+    "8001501": {
+      "source": "PAO NAO ESPECIFICADO",
+      "english": "Bread, unspecified"
+    },
+    "8001901": {
+      "source": "TORRADA DE QUALQUER PAO",
+      "english": "Toast"
+    },
+    "8002001": {
+      "source": "ROSCA DOCE",
+      "english": "Sweet ring biscuit"
+    },
+    "8002002": {
+      "source": "ROSQUINHA DOCE",
+      "english": "Sweet ring biscuit"
+    },
+    "8002101": {
+      "source": "ROSCA SALGADA",
+      "english": "Savory ring biscuit"
+    },
+    "8002106": {
+      "source": "ROSQUINHA SALGADA",
+      "english": "Savory ring biscuit"
+    },
+    "8002201": {
+      "source": "BISCOITO SALGADO",
+      "english": "Savory crackers"
+    },
+    "8002212": {
+      "source": "BISCOITO DE POLVILHO",
+      "english": "Cassava-starch biscuit"
+    },
+    "8002225": {
+      "source": "BOLACHA SALGADA",
+      "english": "Savory crackers"
+    },
+    "8002236": {
+      "source": "BISCOITO SALGADO INTEGRAL",
+      "english": "Whole-grain savory crackers"
+    },
+    "8002246": {
+      "source": "SALGADINHO DE MILHO (TIPO DORITOS, FANDAGOS, CHEETOS)",
+      "english": "Corn snack chips"
+    },
+    "8002254": {
+      "source": "TORRADA INTEGRAL",
+      "english": "Whole-grain toast"
+    },
+    "8002255": {
+      "source": "SALGADINHO BATATA CHIPS (TIPO RUFFLES)",
+      "english": "Potato chips"
+    },
+    "8002301": {
+      "source": "BISCOITO DOCE",
+      "english": "Sweet biscuits"
+    },
+    "8002334": {
+      "source": "BOLACHA DOCE",
+      "english": "Sweet biscuits"
+    },
+    "8002503": {
+      "source": "CUCA DE QUALQUER TIPO",
+      "english": "Sweet crumb cake"
+    },
+    "8002601": {
+      "source": "BOLO DE MILHO",
+      "english": "Corn cake"
+    },
+    "8002609": {
+      "source": "GRUSTOLI (BOLINHO DOCE)",
+      "english": "Sweet fried dough strips"
+    },
+    "8002612": {
+      "source": "BOLO DE FUBA",
+      "english": "Corn cake"
+    },
+    "8002701": {
+      "source": "BOLO DE AIPIM",
+      "english": "Cassava cake"
+    },
+    "8002702": {
+      "source": "BOLO DE TAPIOCA",
+      "english": "Tapioca cake"
+    },
+    "8002704": {
+      "source": "BOLO DE GOMA",
+      "english": "Tapioca cake"
+    },
+    "8002705": {
+      "source": "BOLO DE MANDIOCA",
+      "english": "Cassava cake"
+    },
+    "8003501": {
+      "source": "TORTAS DOCES DE QUALQUER SABOR",
+      "english": "Sweet pie, unspecified"
+    },
+    "8003601": {
+      "source": "TORTAS SALGADAS DE QUALQUER SABOR",
+      "english": "Savory pie, unspecified"
+    },
+    "8003701": {
+      "source": "SONHO",
+      "english": "Brazilian filled doughnut"
+    },
+    "8003702": {
+      "source": "FILHOS (BOLINHO DE FARINHA DE TRIGO E OVOS)",
+      "english": "Fried flour-and-egg fritter"
+    },
+    "8003703": {
+      "source": "SONHO RECHEADO COBERTO COM ACUCAR",
+      "english": "Sugar-coated filled doughnut"
+    },
+    "8003801": {
+      "source": "BOLO DE CHOCOLATE",
+      "english": "Chocolate cake"
+    },
+    "8004001": {
+      "source": "BOLO DE LARANJA",
+      "english": "Orange cake"
+    },
+    "8004101": {
+      "source": "BOLO DE COCO",
+      "english": "Coconut cake"
+    },
+    "8004201": {
+      "source": "BOLO DE CENOURA",
+      "english": "Carrot cake"
+    },
+    "8004403": {
+      "source": "PAO DE ALHO",
+      "english": "Garlic bread"
+    },
+    "8004601": {
+      "source": "BOLO DE TRIGO",
+      "english": "Plain cake"
+    },
+    "8004603": {
+      "source": "BOLO SIMPLES",
+      "english": "Plain cake"
+    },
+    "8004701": {
+      "source": "BROA",
+      "english": "Cornmeal bread"
+    },
+    "8004801": {
+      "source": "BISCOITO RECHEADO",
+      "english": "Filled sandwich biscuits"
+    },
+    "8004807": {
+      "source": "WAFFER (BISCOITO)",
+      "english": "Wafer biscuit"
+    },
+    "8004810": {
+      "source": "BOLACHA RECHEADA",
+      "english": "Filled sandwich biscuits"
+    },
+    "8005201": {
+      "source": "BISCOITO NÃO ESPECIFICADO",
+      "english": "Biscuit, unspecified"
+    },
+    "8006101": {
+      "source": "CREPE",
+      "english": "Crepe"
+    },
+    "8006401": {
+      "source": "PAO ARABE NAO ESPECIFICADO",
+      "english": "Flatbread, unspecified"
+    },
+    "8006801": {
+      "source": "PAO INTEGRAL LIGHT",
+      "english": "Reduced-calorie whole-grain bread"
+    },
+    "8008305": {
+      "source": "BISCOITO WAFFER LIGHT",
+      "english": "Reduced-calorie wafer biscuit"
+    },
+    "8010401": {
+      "source": "BISCOITO DOCE LIGHT",
+      "english": "Reduced-calorie sweet biscuits"
+    },
+    "8010601": {
+      "source": "BOLO DE BANANA",
+      "english": "Banana cake"
+    },
+    "8010602": {
+      "source": "BOLO DE ABACAXI",
+      "english": "Pineapple cake"
+    },
+    "8010604": {
+      "source": "BOLO DE FRUTA",
+      "english": "Fruit cake"
+    },
+    "8010605": {
+      "source": "BOLO DE LIMAO",
+      "english": "Lemon cake"
+    },
+    "8011701": {
+      "source": "PAO DE BATATA",
+      "english": "Potato bread"
+    },
+    "8012901": {
+      "source": "BOLO DE CENOURA SEM RECHEIO COM COBERTURA",
+      "english": "Frosted carrot cake"
+    },
+    "8013001": {
+      "source": "BOLO DE CHOCOLATE COM RECHEIO E COBERTURA",
+      "english": "Filled and frosted chocolate cake"
+    },
+    "8013301": {
+      "source": "BOLO DOCE COM RECHEIO E COBERTURA",
+      "english": "Filled and frosted cake"
+    },
+    "8013801": {
+      "source": "CROISSANT COM RECHEIO DOCE",
+      "english": "Sweet-filled croissant"
+    },
+    "8013901": {
+      "source": "CROISSANT COM RECHEIO SALGADO",
+      "english": "Savory-filled croissant"
+    },
+    "8080001": {
+      "source": "PAO CASEIRO",
+      "english": "Homemade bread"
+    },
+    "8080101": {
+      "source": "TAPIOCA",
+      "english": "Tapioca pancake"
+    },
+    "8080103": {
+      "source": "TAPIOCA DOCE RECHEADA",
+      "english": "Sweet-filled tapioca pancake"
+    },
+    "8080104": {
+      "source": "TAPIOCA RECHEADA COM CARNE E QUEIJO",
+      "english": "Tapioca pancake with meat and cheese"
+    },
+    "8080105": {
+      "source": "TAPIOCA RECHEADA COM QUEIJO",
+      "english": "Tapioca pancake with cheese"
+    },
+    "8080106": {
+      "source": "TAPIOCA SALGADA RECHEADA",
+      "english": "Savory-filled tapioca pancake"
+    },
+    "8100101": {
+      "source": "CARNE SECA",
+      "english": "Salt-dried beef"
+    },
+    "8100102": {
+      "source": "CARNE DE CHARQUE",
+      "english": "Salt-dried beef"
+    },
+    "8100103": {
+      "source": "JABA",
+      "english": "Salt-dried beef"
+    },
+    "8100201": {
+      "source": "CARNE DE SOL",
+      "english": "Sun-dried beef"
+    },
+    "8100502": {
+      "source": "HAMBURGUER DE CARNE BOVINA",
+      "english": "Beef burger patty"
+    },
+    "8101005": {
+      "source": "BACON",
+      "english": "Bacon"
+    },
+    "8101101": {
+      "source": "HAMBURGUER DE FRANGO",
+      "english": "Chicken burger patty"
+    },
+    "8102101": {
+      "source": "SALSICHA NO VAREJO",
+      "english": "Frankfurter sausage"
+    },
+    "8102103": {
+      "source": "SALSICHAO",
+      "english": "Large sausage"
+    },
+    "8102204": {
+      "source": "LINGUICA (SUÍNA, BOVINA, MISTA, ETC)",
+      "english": "Fresh sausage, unspecified"
+    },
+    "8102205": {
+      "source": "LINGUICA CALABREZA",
+      "english": "Calabresa sausage"
+    },
+    "8102207": {
+      "source": "LINGUICA DE FRANGO",
+      "english": "Chicken sausage"
+    },
+    "8102403": {
+      "source": "MORCILHA",
+      "english": "Blood sausage"
+    },
+    "8102601": {
+      "source": "MORTADELA",
+      "english": "Mortadella"
+    },
+    "8102701": {
+      "source": "SALAME",
+      "english": "Salami"
+    },
+    "8102901": {
+      "source": "PRESUNTO",
+      "english": "Ham"
+    },
+    "8103901": {
+      "source": "PURURUCA DE PORCO",
+      "english": "Pork crackling"
+    },
+    "8104001": {
+      "source": "PATE (FÍGADO, CALABRESA, FRANGO, PRESUNTO, ETC)",
+      "english": "Pate, unspecified"
+    },
+    "8104904": {
+      "source": "MINI CHICKEN EMPANADO",
+      "english": "Small breaded chicken portion"
+    },
+    "8200101": {
+      "source": "REFRIGERANTE DE COLA TRADICIONAL",
+      "english": "Regular cola"
+    },
+    "8200102": {
+      "source": "COCA COLA TRADICIONAL",
+      "english": "Regular Coca-Cola"
+    },
+    "8200202": {
+      "source": "FANTA LARANJA TRADICIONAL",
+      "english": "Regular orange Fanta"
+    },
+    "8200211": {
+      "source": "REFRIGERANTE DE LARANJA TRADICIONAL",
+      "english": "Regular orange soda"
+    },
+    "8200301": {
+      "source": "REFRIGERANTE DE GUARANA TRADICIONAL",
+      "english": "Regular guarana soda"
+    },
+    "8200308": {
+      "source": "REFRESCO DE GUARANA NATURAL",
+      "english": "Guarana drink"
+    },
+    "8200411": {
+      "source": "REFRIGERANTE, LIMAO, TRADICIONAL",
+      "english": "Regular lemon-lime soda"
+    },
+    "8200505": {
+      "source": "FANTA UVA TRADICIONAL",
+      "english": "Regular grape Fanta"
+    },
+    "8200507": {
+      "source": "REFRIGERANTE, UVA, TRADICIONAL",
+      "english": "Regular grape soda"
+    },
+    "8200801": {
+      "source": "REFRIGERANTE DE COLA DIET",
+      "english": "Diet cola"
+    },
+    "8201004": {
+      "source": "AGUA, MINERAL NAO ESPECIFICADO",
+      "english": "Mineral water, unspecified"
+    },
+    "8201005": {
+      "source": "AGUA, MINERAL, NAO GASEIFICADA",
+      "english": "Still mineral water"
+    },
+    "8201007": {
+      "source": "AGUA, MINERAL GASEIFICADA",
+      "english": "Sparkling mineral water"
+    },
+    "8201017": {
+      "source": "BEBIDA REFRIGERANTE, TIPO H2OHÂ®",
+      "english": "Flavored sparkling beverage (H2OH)"
+    },
+    "8201104": {
+      "source": "MATE TRADICIONAL",
+      "english": "Sweetened mate beverage"
+    },
+    "8202101": {
+      "source": "AGUA DE COCO",
+      "english": "Coconut water"
+    },
+    "8202402": {
+      "source": "Q-SUCO",
+      "english": "Powdered fruit drink (Q-Suco)"
+    },
+    "8202701": {
+      "source": "CHA PRETO",
+      "english": "Black tea"
+    },
+    "8202801": {
+      "source": "CHA MATE",
+      "english": "Mate tea"
+    },
+    "8202804": {
+      "source": "CHIMARRAO",
+      "english": "Hot mate infusion"
+    },
+    "8202805": {
+      "source": "TERERE",
+      "english": "Cold mate infusion"
+    },
+    "8203501": {
+      "source": "REFRIGERANTE NAO ESPECIFICADO",
+      "english": "Soft drink, unspecified"
+    },
+    "8203603": {
+      "source": "CEVADA EM PO",
+      "english": "Barley beverage powder"
+    },
+    "8204902": {
+      "source": "AGUA TONICA TRADICIONAL",
+      "english": "Regular tonic water"
+    },
+    "8205201": {
+      "source": "CHA DIET (PRETO, CAMOMILA, ERVA CIDREIRA, CAPIM LIMAO, ETC)",
+      "english": "Diet tea, unspecified"
+    },
+    "8205803": {
+      "source": "GATORADE",
+      "english": "Sports drink (Gatorade)"
+    },
+    "8205901": {
+      "source": "BEBIDA ENERGETICA",
+      "english": "Energy drink"
+    },
+    "8206301": {
+      "source": "CHA (PRETO, CAMOMILA, ERVA CIDREIRA, CAPIM LIMAO, ETC)",
+      "english": "Tea, unspecified"
+    },
+    "8212802": {
+      "source": "MATE DIET",
+      "english": "Diet mate beverage"
+    },
+    "8213301": {
+      "source": "CHA VERDE, CHA BRANCO, CHA VERMELHO",
+      "english": "Green, white or red tea"
+    },
+    "8215801": {
+      "source": "CHA VERDE, BRANCO OU VERMELHO DIET OU LIGHT",
+      "english": "Diet green, white or red tea"
+    },
+    "8215901": {
+      "source": "CHA, ERVAS NAO ESPECIFICADO",
+      "english": "Herbal tea, unspecified"
+    },
+    "8216101": {
+      "source": "SUCO DETOX",
+      "english": "Detox-labeled juice"
+    },
+    "8216201": {
+      "source": "SUCO VERDE",
+      "english": "Green vegetable juice"
+    },
+    "8216301": {
+      "source": "AGUA, REDE PUBLICA",
+      "english": "Tap water"
+    },
+    "8216601": {
+      "source": "LIMONADA",
+      "english": "Lemonade"
+    },
+    "8217001": {
+      "source": "SUCO NATURAL DE FRUTA",
+      "english": "Fresh fruit juice"
+    },
+    "8217101": {
+      "source": "SUCO NATURAL DE VEGETAIS",
+      "english": "Fresh vegetable juice"
+    },
+    "8217201": {
+      "source": "SUCO NATURAL, MISTURA DE FRUTAS",
+      "english": "Mixed fresh fruit juice"
+    },
+    "8217301": {
+      "source": "SUCO NATURAL, MISTURA DE FRUTAS E VEGETAIS",
+      "english": "Mixed fruit and vegetable juice"
+    },
+    "8273902": {
+      "source": "CAFE COM FARINHA",
+      "english": "Coffee with flour"
+    },
+    "8280101": {
+      "source": "SUCO INDUSTRIALIZADO",
+      "english": "Commercial fruit juice"
+    },
+    "8280201": {
+      "source": "SUCO DE CAJA/ MANGABA/ TAPEREBA E OUTROS REGIONAIS",
+      "english": "Regional fruit juice (caja, mangaba or tapereba)"
+    },
+    "8280501": {
+      "source": "SUCO DE UVA",
+      "english": "Grape juice"
+    },
+    "8300101": {
+      "source": "CERVEJA (COM OU SEM ALCOOL)",
+      "english": "Beer, with or without alcohol"
+    },
+    "8300302": {
+      "source": "CACHACA",
+      "english": "Sugarcane spirit (cachaca)"
+    },
+    "8300801": {
+      "source": "VODKA",
+      "english": "Vodka"
+    },
+    "8302415": {
+      "source": "VINHO",
+      "english": "Wine"
+    },
+    "8303101": {
+      "source": "CAIPIRINHA",
+      "english": "Lime and sugarcane-spirit cocktail"
+    },
+    "8305801": {
+      "source": "VINHO QUENTE",
+      "english": "Mulled wine"
+    },
+    "8305901": {
+      "source": "VINHO, SEM ALCOOL",
+      "english": "Nonalcoholic wine"
+    },
+    "8400101": {
+      "source": "AZEITE DE OLIVA",
+      "english": "Olive oil"
+    },
+    "8400401": {
+      "source": "OLEO, MILHO",
+      "english": "Corn oil"
+    },
+    "8403601": {
+      "source": "OLEO, COCO",
+      "english": "Coconut oil"
+    },
+    "8500201": {
+      "source": "SALGADINHO",
+      "english": "Savory snack, unspecified"
+    },
+    "8500202": {
+      "source": "PASTEL (QUEIJO, CARNE, PALMITO, ETC)",
+      "english": "Filled fried pastry"
+    },
+    "8500205": {
+      "source": "COXINHA",
+      "english": "Chicken croquette"
+    },
+    "8500206": {
+      "source": "EMPADA (QUEIJO, CARNE, CAMARAO, ETC)",
+      "english": "Small filled savory pie"
+    },
+    "8500207": {
+      "source": "RIZOLE (QUEIJO, CARNE, CAMARAO, ETC)",
+      "english": "Filled savory rissole"
+    },
+    "8500210": {
+      "source": "TORRESMO",
+      "english": "Pork crackling"
+    },
+    "8500211": {
+      "source": "QUIBE",
+      "english": "Bulgur and meat croquette"
+    },
+    "8500217": {
+      "source": "ANGU DE MILHO",
+      "english": "Cornmeal porridge"
+    },
+    "8500218": {
+      "source": "POLENTA",
+      "english": "Polenta"
+    },
+    "8500222": {
+      "source": "ESFIRRA",
+      "english": "Filled savory flatbread"
+    },
+    "8500226": {
+      "source": "ESFIRRA DE FRANGO",
+      "english": "Chicken-filled savory flatbread"
+    },
+    "8500227": {
+      "source": "ENROLADINHO",
+      "english": "Filled savory pastry roll"
+    },
+    "8500302": {
+      "source": "CACHORRO QUENTE",
+      "english": "Hot dog"
+    },
+    "8500303": {
+      "source": "HAMBURGUER (SANDUICHE)",
+      "english": "Hamburger sandwich"
+    },
+    "8500307": {
+      "source": "BAURU",
+      "english": "Bauru sandwich"
+    },
+    "8500313": {
+      "source": "MISTO QUENTE OU FRIO",
+      "english": "Ham and cheese sandwich, hot or cold"
+    },
+    "8500315": {
+      "source": "SANDUICHE DE QUEIJO PRATO",
+      "english": "Prato-cheese sandwich"
+    },
+    "8500317": {
+      "source": "SANDUICHE DE PRESUNTO",
+      "english": "Ham sandwich"
+    },
+    "8500318": {
+      "source": "SANDUICHE DE QUEIJO PRATO COM PRESUNTO",
+      "english": "Prato-cheese and ham sandwich"
+    },
+    "8500319": {
+      "source": "SANDUICHE DE MORTADELA",
+      "english": "Mortadella sandwich"
+    },
+    "8500323": {
+      "source": "SANDUICHE NATURAL",
+      "english": "Cold mixed sandwich"
+    },
+    "8500328": {
+      "source": "CACHORRO QUENTE DE FORNO",
+      "english": "Baked hot dog"
+    },
+    "8500331": {
+      "source": "SANDUICHE PRESUNTO, QUEIJO E TOMATE",
+      "english": "Ham, cheese and tomato sandwich"
+    },
+    "8500332": {
+      "source": "SANDUICHE BAURU",
+      "english": "Bauru sandwich"
+    },
+    "8500333": {
+      "source": "SANDUICHE DE QUEIJO (NAO ESPECIFICADO)",
+      "english": "Cheese sandwich"
+    },
+    "8500334": {
+      "source": "PAO COM SALAME",
+      "english": "Salami sandwich"
+    },
+    "8500335": {
+      "source": "PAO COM PRESUNTO",
+      "english": "Ham sandwich"
+    },
+    "8500336": {
+      "source": "PAO COM QUEIJO E PRESUNTO",
+      "english": "Ham and cheese sandwich"
+    },
+    "8500337": {
+      "source": "PAO COM MORTADELA",
+      "english": "Mortadella sandwich"
+    },
+    "8500339": {
+      "source": "PAO COM ATUM",
+      "english": "Tuna sandwich"
+    },
+    "8500341": {
+      "source": "PAO COM CARNE ASSADA",
+      "english": "Roast meat sandwich"
+    },
+    "8500348": {
+      "source": "SANDUICHE DE FRANGO",
+      "english": "Chicken sandwich"
+    },
+    "8500357": {
+      "source": "WRAP FRANGO OU GALINHA",
+      "english": "Chicken wrap"
+    },
+    "8500362": {
+      "source": "X-TUDO",
+      "english": "Mixed-topping burger sandwich"
+    },
+    "8500363": {
+      "source": "PAO COM QUEIJO (NAO ESPECIFICADO)",
+      "english": "Cheese sandwich"
+    },
+    "8500401": {
+      "source": "SUCO",
+      "english": "Juice, unspecified"
+    },
+    "8500402": {
+      "source": "SUCO DE ABACAXI",
+      "english": "Pineapple juice"
+    },
+    "8500403": {
+      "source": "SUCO DE ACEROLA",
+      "english": "Acerola cherry juice"
+    },
+    "8500404": {
+      "source": "SUCO DE BETERRABA",
+      "english": "Beetroot juice"
+    },
+    "8500405": {
+      "source": "SUCO DE CUPUACU",
+      "english": "Cupuacu juice"
+    },
+    "8500406": {
+      "source": "SUCO DE GOIABA",
+      "english": "Guava juice"
+    },
+    "8500407": {
+      "source": "SUCO DE LARANJA",
+      "english": "Orange juice"
+    },
+    "8500409": {
+      "source": "SUCO DE LARANJA E BETERRABA",
+      "english": "Orange and beetroot juice"
+    },
+    "8500410": {
+      "source": "SUCO DE LARANJA E CENOURA",
+      "english": "Orange and carrot juice"
+    },
+    "8500413": {
+      "source": "SUCO DE MANGA",
+      "english": "Mango juice"
+    },
+    "8500414": {
+      "source": "SUCO DE MARACUJA",
+      "english": "Passion-fruit juice"
+    },
+    "8500415": {
+      "source": "SUCO DE MELAO",
+      "english": "Melon juice"
+    },
+    "8500416": {
+      "source": "SUCO DE MORANGO",
+      "english": "Strawberry juice"
+    },
+    "8500417": {
+      "source": "SUCO DE PESSEGO",
+      "english": "Peach juice"
+    },
+    "8500501": {
+      "source": "VITAMINA",
+      "english": "Fruit and milk smoothie, unspecified"
+    },
+    "8500503": {
+      "source": "VITAMINA DE BANANA",
+      "english": "Banana and milk smoothie"
+    },
+    "8500504": {
+      "source": "VITAMINA DE BANANA COM AVEIA",
+      "english": "Banana, oat and milk smoothie"
+    },
+    "8500506": {
+      "source": "VITAMINA DE ABACATE",
+      "english": "Avocado and milk smoothie"
+    },
+    "8500507": {
+      "source": "VITAMINA DE MORANGO",
+      "english": "Strawberry and milk smoothie"
+    },
+    "8500508": {
+      "source": "VITAMINA MISTA",
+      "english": "Mixed fruit and milk smoothie"
+    },
+    "8500510": {
+      "source": "VITAMINA DE FRUTA COM LEITE E CEREAL",
+      "english": "Fruit, milk and cereal smoothie"
+    },
+    "8500601": {
+      "source": "REFRESCO",
+      "english": "Diluted fruit drink, unspecified"
+    },
+    "8500602": {
+      "source": "REFRESCO DE CAJU",
+      "english": "Cashew-apple drink"
+    },
+    "8500604": {
+      "source": "REFRESCO DE LARANJA",
+      "english": "Orange drink"
+    },
+    "8500605": {
+      "source": "REFRESCO DE MARACUJA",
+      "english": "Passion-fruit drink"
+    },
+    "8500606": {
+      "source": "REFRESCO DE LIMAO",
+      "english": "Lemon-lime drink"
+    },
+    "8500609": {
+      "source": "REFRESCO TANG",
+      "english": "Powdered fruit drink (Tang)"
+    },
+    "8500801": {
+      "source": "SALADA OU VERDURA COZIDA, EXCETO DE FRUTA",
+      "english": "Cooked vegetables or vegetable salad"
+    },
+    "8500802": {
+      "source": "SALADA DE MAIONESE",
+      "english": "Vegetable salad with mayonnaise"
+    },
+    "8500903": {
+      "source": "PIZZA",
+      "english": "Pizza, unspecified"
+    },
+    "8500904": {
+      "source": "LAZANHA",
+      "english": "Lasagna"
+    },
+    "8500905": {
+      "source": "NHOQUE",
+      "english": "Gnocchi"
+    },
+    "8500907": {
+      "source": "CAPELETI",
+      "english": "Cappelletti pasta"
+    },
+    "8500913": {
+      "source": "PANQUECA",
+      "english": "Filled pancake"
+    },
+    "8500914": {
+      "source": "PIZZA CALABREZA",
+      "english": "Calabresa sausage pizza"
+    },
+    "8500919": {
+      "source": "MACARRONADA",
+      "english": "Pasta dish, unspecified"
+    },
+    "8500921": {
+      "source": "LASANHA",
+      "english": "Lasagna"
+    },
+    "8500927": {
+      "source": "PIZZA, QUEIJOS",
+      "english": "Cheese pizza"
+    },
+    "8500932": {
+      "source": "PIZZA DE FRANGO COM CATUPIRY",
+      "english": "Chicken and cream-cheese pizza"
+    },
+    "8501004": {
+      "source": "GALETO",
+      "english": "Roasted young chicken"
+    },
+    "8501104": {
+      "source": "COSTELA",
+      "english": "Ribs, unspecified meat"
+    },
+    "8501202": {
+      "source": "PIPOCA DOCE OU SALGADA",
+      "english": "Popcorn, sweet or salted"
+    },
+    "8501302": {
+      "source": "CAFE",
+      "english": "Coffee"
+    },
+    "8501303": {
+      "source": "CAFE COM LEITE",
+      "english": "Coffee with milk"
+    },
+    "8501304": {
+      "source": "CAFE TIPO EXPRESSO",
+      "english": "Espresso"
+    },
+    "8501305": {
+      "source": "CAFE TIPO CAPUCCINO",
+      "english": "Cappuccino"
+    },
+    "8501308": {
+      "source": "CAFE CARIOCA",
+      "english": "Diluted coffee"
+    },
+    "8501309": {
+      "source": "CAFE COM SUBSTITUTO DO LEITE",
+      "english": "Coffee with milk substitute"
+    },
+    "8501310": {
+      "source": "CAFE DESCAFEINADO",
+      "english": "Decaffeinated coffee"
+    },
+    "8501402": {
+      "source": "MILHO COZIDO",
+      "english": "Boiled sweetcorn"
+    },
+    "8501503": {
+      "source": "BATATA PALHA",
+      "english": "Shoestring potato chips"
+    },
+    "8501902": {
+      "source": "MUNGUNZA",
+      "english": "Sweet hominy porridge"
+    },
+    "8501903": {
+      "source": "CANJICA",
+      "english": "Sweet hominy porridge"
+    },
+    "8502201": {
+      "source": "FAROFA",
+      "english": "Toasted cassava-flour dish (farofa)"
+    },
+    "8502202": {
+      "source": "FAROFA COM CARNE / LINGUICA/ BACON",
+      "english": "Toasted cassava flour with meat, sausage or bacon"
+    },
+    "8502204": {
+      "source": "FAROFA COM OVOS",
+      "english": "Toasted cassava flour with eggs"
+    },
+    "8502301": {
+      "source": "MINGAU (FUBA, AVEIA, FARINHA, ETC)",
+      "english": "Porridge, unspecified cereal"
+    },
+    "8502701": {
+      "source": "RISOTO",
+      "english": "Risotto"
+    },
+    "8502801": {
+      "source": "VATAPA",
+      "english": "Bread-and-seafood puree (vatapa)"
+    },
+    "8502901": {
+      "source": "FAROFA PRONTA",
+      "english": "Packaged toasted cassava flour"
+    },
+    "8503202": {
+      "source": "CALDO DE CARNE",
+      "english": "Meat broth"
+    },
+    "8503203": {
+      "source": "CALDO DE FEIJAO",
+      "english": "Bean broth"
+    },
+    "8503208": {
+      "source": "MOCOTO BOVINO COM FEIJAO BRANCO",
+      "english": "Beef foot and white-bean stew"
+    },
+    "8503501": {
+      "source": "BAIAO DE DOIS",
+      "english": "Rice and cowpea dish"
+    },
+    "8503801": {
+      "source": "CHURRASCO",
+      "english": "Grilled meat, unspecified"
+    },
+    "8503802": {
+      "source": "CHURRASQUINHO",
+      "english": "Grilled meat skewer"
+    },
+    "8504201": {
+      "source": "SUSHI",
+      "english": "Sushi"
+    },
+    "8504401": {
+      "source": "SALADA DE FRUTAS",
+      "english": "Fruit salad"
+    },
+    "8504501": {
+      "source": "SOPA (LEGUMES, CARNE, ETC)",
+      "english": "Soup, unspecified ingredients"
+    },
+    "8504506": {
+      "source": "SOPA DE FEIJAO",
+      "english": "Bean soup"
+    },
+    "8504507": {
+      "source": "SOPA DE FEIJAO COM MACARRAO",
+      "english": "Bean and pasta soup"
+    },
+    "8504509": {
+      "source": "SOPA DE FRANGO COM LEGUMES",
+      "english": "Chicken and vegetable soup"
+    },
+    "8504513": {
+      "source": "SOPA DE LEGUMES",
+      "english": "Vegetable soup"
+    },
+    "8504517": {
+      "source": "SOPA / CALDO DE MANDIOCA / MANDIOQUINHA / BATATA BAROA / INHAME",
+      "english": "Cassava, arracacha or taro soup"
+    },
+    "8504519": {
+      "source": "SOPA DE LEGUMES MACARRAO E CARNE",
+      "english": "Vegetable, pasta and meat soup"
+    },
+    "8504801": {
+      "source": "SALPICAO",
+      "english": "Shredded chicken salad"
+    },
+    "8505401": {
+      "source": "ARROZ A GREGA",
+      "english": "Rice with mixed vegetables"
+    },
+    "8505504": {
+      "source": "ESCONDIDINHO DE CARNE SECA",
+      "english": "Mashed-root casserole with dried beef"
+    },
+    "8505506": {
+      "source": "ESCONDIDINHO DE FRANGO OU GALINHA",
+      "english": "Mashed-root casserole with chicken"
+    },
+    "8505801": {
+      "source": "CUSCUZ PAULISTA",
+      "english": "Savory cornmeal cake (Sao Paulo couscous)"
+    },
+    "8505901": {
+      "source": "EMPADAO (QUEIJO, FRANGO, CAMARAO, PALMITO, ETC)",
+      "english": "Large filled savory pie"
+    },
+    "8506101": {
+      "source": "FEIJAO TROPEIRO",
+      "english": "Beans with cassava flour, eggs and meat"
+    },
+    "8506201": {
+      "source": "GALINHA COM ARROZ",
+      "english": "Chicken and rice dish"
+    },
+    "8506301": {
+      "source": "GALINHADA",
+      "english": "Chicken and rice dish"
+    },
+    "8506302": {
+      "source": "GALINHADA CAIPIRA",
+      "english": "Free-range chicken and rice dish"
+    },
+    "8506303": {
+      "source": "GALINHADA COM PEQUI",
+      "english": "Chicken, rice and pequi dish"
+    },
+    "8506406": {
+      "source": "MOQUECA / MUQUECA DE LAGOSTA",
+      "english": "Lobster stew"
+    },
+    "8506501": {
+      "source": "OMELETE",
+      "english": "Omelet"
+    },
+    "8506503": {
+      "source": "OMELETE COM CARNE",
+      "english": "Meat omelet"
+    },
+    "8506505": {
+      "source": "OMELETE COM LEGUMES",
+      "english": "Vegetable omelet"
+    },
+    "8506509": {
+      "source": "OMELETE COM QUEIJO E PRESUNTO",
+      "english": "Cheese and ham omelet"
+    },
+    "8506601": {
+      "source": "PIRAO",
+      "english": "Broth-thickened cassava flour (pirao)"
+    },
+    "8507001": {
+      "source": "TUTU",
+      "english": "Mashed beans with cassava flour"
+    },
+    "8507201": {
+      "source": "MANICOBA",
+      "english": "Cassava-leaf and meat stew"
+    },
+    "8507401": {
+      "source": "ARROZ DE CUXA",
+      "english": "Rice with roselle leaves"
+    },
+    "8507503": {
+      "source": "POLENTA COM CARNE MOIDA E TOMATE",
+      "english": "Polenta with ground meat and tomato"
+    },
+    "8507601": {
+      "source": "CHOCOLATE",
+      "english": "Chocolate, unspecified"
+    },
+    "8507801": {
+      "source": "ACAI COM GRANOLA",
+      "english": "Acai pulp with granola"
+    },
+    "8507802": {
+      "source": "ACAI COM GUARANA E GRANOLA",
+      "english": "Acai pulp with guarana and granola"
+    },
+    "8508303": {
+      "source": "COSTELA COM AIPIM / MACAXEIRA / MANDIOCA",
+      "english": "Ribs with cassava"
+    },
+    "8508401": {
+      "source": "SALADA OU VERDURA CRUA, EXCETO DE FRUTA",
+      "english": "Raw vegetables or vegetable salad"
+    },
+    "8509901": {
+      "source": "PASTEL DE FORNO/ PASTEL ASSADO (QUEIJO, CARNE, PALMITO, ETC)",
+      "english": "Filled baked pastry"
+    },
+    "8510101": {
+      "source": "CACHORRO QUENTE COMPLETO",
+      "english": "Hot dog with mixed toppings"
+    },
+    "8510301": {
+      "source": "X-SALADA",
+      "english": "Burger with salad"
+    },
+    "8510601": {
+      "source": "SALADA DE ALFACE, TOMATE E CEBOLA",
+      "english": "Lettuce, tomato and onion salad"
+    },
+    "8511001": {
+      "source": "SALADA DE FEIJAO FRADINHO",
+      "english": "Cowpea salad"
+    },
+    "8511003": {
+      "source": "SALADA DE GRAO-DE-BICO",
+      "english": "Chickpea salad"
+    },
+    "8511101": {
+      "source": "SALADA DE FOLHAS",
+      "english": "Leaf salad"
+    },
+    "8511102": {
+      "source": "SALADA DE RUCULA E TOMATE SECO",
+      "english": "Arugula and sun-dried tomato salad"
+    },
+    "8511201": {
+      "source": "SALADA DE LEGUMES",
+      "english": "Vegetable salad"
+    },
+    "8511401": {
+      "source": "SALADA DE TOMATE",
+      "english": "Tomato salad"
+    },
+    "8511501": {
+      "source": "TABULE",
+      "english": "Tabbouleh"
+    },
+    "8511701": {
+      "source": "SALADA DE LEGUMES E VERDURAS",
+      "english": "Mixed vegetable and leaf salad"
+    },
+    "8512101": {
+      "source": "LASANHA / LAZANHA DE FRANGO OU GALINHA",
+      "english": "Chicken lasagna"
+    },
+    "8512401": {
+      "source": "LASANHA / LAZANHA QUATRO QUEIJOS",
+      "english": "Four-cheese lasagna"
+    },
+    "8570107": {
+      "source": "ARROZ COM FEIJAO",
+      "english": "Rice and beans"
+    },
+    "8570328": {
+      "source": "PAO COM MANTEIGA",
+      "english": "Bread with butter"
+    },
+    "8570329": {
+      "source": "PAO COM MARGARINA",
+      "english": "Bread with margarine"
+    },
+    "8570330": {
+      "source": "PAO COM OVO",
+      "english": "Bread with egg"
+    },
+    "8570331": {
+      "source": "SANDUICHE DE OVO",
+      "english": "Bread with egg"
+    },
+    "8571110": {
+      "source": "CARNE COM BATATA, INHAME, BATATA BAROA OU AIPIM",
+      "english": "Meat with potatoes, taro, arracacha or cassava"
+    },
+    "8571111": {
+      "source": "CARNE COM LEGUMES (EXCETO BATATA, INHAME E AIPIM)",
+      "english": "Meat with non-starchy vegetables"
+    },
+    "8571112": {
+      "source": "FRANGO COM BATATA, INHAME BATATA BAROA OU AIPIM",
+      "english": "Chicken with potatoes, taro, arracacha or cassava"
+    },
+    "8571113": {
+      "source": "FRANGO COM LEGUMES (EXCETO BATATA,INHAME E AIPIM)",
+      "english": "Chicken with non-starchy vegetables"
+    },
+    "8579002": {
+      "source": "ARROZ CARRETEIRO",
+      "english": "Rice with dried beef (carreteiro)"
+    },
+    "8579003": {
+      "source": "MARIA IZABEL",
+      "english": "Rice with dried beef (Maria Izabel)"
+    },
+    "8579004": {
+      "source": "ARROZ DE LEITE",
+      "english": "Rice cooked with milk"
+    },
+    "8579005": {
+      "source": "ARROZ COM MANDIOCA",
+      "english": "Rice with cassava"
+    },
+    "8579006": {
+      "source": "ARROZ COM OVO",
+      "english": "Rice with egg"
+    },
+    "8579007": {
+      "source": "CARNE DE BOI COM LEGUMES",
+      "english": "Beef and vegetable stew"
+    },
+    "8579009": {
+      "source": "ENSOPADINHO DE CARNE COM LEGUMES",
+      "english": "Beef and vegetable stew"
+    },
+    "8579015": {
+      "source": "GUISADO / GUIZADO DE FRANGO OU GALINHA COM LEGUMES",
+      "english": "Chicken and vegetable stew"
+    },
+    "8579027": {
+      "source": "ARROZ COM LEGUMES",
+      "english": "Rice with vegetables"
+    },
+    "8579030": {
+      "source": "ARROZ COM LINGUICA",
+      "english": "Rice with fresh sausage"
+    },
+    "8579031": {
+      "source": "ARROZ COM MACARRAO / ALETRIA / ALITRIA / CABELO DE ANJO",
+      "english": "Rice with vermicelli"
+    },
+    "8579034": {
+      "source": "ARROZ COM SALSICHA / LINGUICA",
+      "english": "Rice with sausage"
+    },
+    "8579037": {
+      "source": "ARROZ DE FORNO",
+      "english": "Baked rice dish"
+    },
+    "8579038": {
+      "source": "ARROZ COM FRANGO / ARROZ COM CAPOTE",
+      "english": "Rice with chicken or guinea fowl"
+    },
+    "8579040": {
+      "source": "BACALHOADA",
+      "english": "Salted-cod casserole"
+    },
+    "8579046": {
+      "source": "BATATA, CENOURA E CHUCHU",
+      "english": "Potato, carrot and chayote dish"
+    },
+    "8579050": {
+      "source": "BIFE A PARMEGIANA",
+      "english": "Breaded beef with tomato sauce and cheese"
+    },
+    "8579052": {
+      "source": "BIFE DE FRANGO OU GALINHA A PARMEGIANA",
+      "english": "Breaded chicken with tomato sauce and cheese"
+    },
+    "8579053": {
+      "source": "BOLINHA DE QUEIJO",
+      "english": "Fried cheese ball"
+    },
+    "8579054": {
+      "source": "BOLINHO DE ARROZ",
+      "english": "Rice fritter"
+    },
+    "8579064": {
+      "source": "CARNE COZIDA COM LEGUMES E BATATA",
+      "english": "Meat stew with vegetables and potatoes"
+    },
+    "8579065": {
+      "source": "CARNE ENSOPADA COM LEGUMES E BATATA",
+      "english": "Meat stew with vegetables and potatoes"
+    },
+    "8579071": {
+      "source": "CALDEIRADA DE PEIXE",
+      "english": "Fish stew"
+    },
+    "8579091": {
+      "source": "CANJIQUINHA DE MILHO COM COSTELINHA DE PORCO",
+      "english": "Cracked corn with pork ribs"
+    },
+    "8579096": {
+      "source": "CARNE ASSADA RECHEADA",
+      "english": "Stuffed roast meat"
+    },
+    "8579110": {
+      "source": "CARNE SECA COM ABOBORA / LEGUMES",
+      "english": "Dried beef with pumpkin or vegetables"
+    },
+    "8579146": {
+      "source": "FRANGO CAIPIRA",
+      "english": "Free-range chicken dish"
+    },
+    "8579147": {
+      "source": "FRANGO ENSOPADO",
+      "english": "Chicken stew"
+    },
+    "8579150": {
+      "source": "FRANGO OU GALINHA AO MOLHO PARDO / GALINHA DE CABIDELA",
+      "english": "Chicken in blood sauce"
+    },
+    "8579153": {
+      "source": "FRANGO OU GALINHA COM QUIABO",
+      "english": "Chicken with okra"
+    },
+    "8579158": {
+      "source": "FRANGO OU GALINHA XADREZ",
+      "english": "Diced chicken with vegetables and soy sauce"
+    },
+    "8579160": {
+      "source": "FRICASSE DE FRANGO OU GALINHA",
+      "english": "Creamy chicken casserole"
+    },
+    "8579170": {
+      "source": "LEGUMES GRATINADOS",
+      "english": "Vegetable gratin"
+    },
+    "8579171": {
+      "source": "LEGUMES RECHEADOS COM CARNE",
+      "english": "Meat-stuffed vegetables"
+    },
+    "8579185": {
+      "source": "MAO DE VACA",
+      "english": "Beef-foot stew"
+    },
+    "8579206": {
+      "source": "PEIXADA",
+      "english": "Fish and vegetable stew"
+    },
+    "8579213": {
+      "source": "PEIXE ASSADO RECHEADO COM FAROFA",
+      "english": "Roast fish stuffed with toasted cassava flour"
+    },
+    "8579222": {
+      "source": "PICADINHO DE CARNE",
+      "english": "Diced meat stew"
+    },
+    "8579232": {
+      "source": "SUFLE DE LEGUMES (CHUCHU, CENOURA, ALHO-PORÃ”)",
+      "english": "Vegetable souffle"
+    },
+    "8579244": {
+      "source": "REFOGADINHO DE LEGUMES",
+      "english": "Sauteed vegetables"
+    },
+    "8579266": {
+      "source": "SAGU AO VINHO TINTO",
+      "english": "Tapioca pearls in red wine"
+    },
+    "8579269": {
+      "source": "SUFLE DE BACALHAU",
+      "english": "Salted-cod souffle"
+    },
+    "8579280": {
+      "source": "TEMAKI",
+      "english": "Hand-rolled sushi cone"
+    },
+    "8580001": {
+      "source": "PRATO FEITO",
+      "english": "Mixed prepared meal, unspecified"
+    },
+    "8580201": {
+      "source": "CUSCUZ DE ARROZ",
+      "english": "Rice couscous"
+    },
+    "8580301": {
+      "source": "SALADA DE LEGUMES, VERDURAS E FRUTAS",
+      "english": "Mixed vegetable, leaf and fruit salad"
+    },
+    "8580401": {
+      "source": "PAO COM LINGUICA",
+      "english": "Sausage sandwich"
+    },
+    "8580501": {
+      "source": "PAO COM TUCUMA",
+      "english": "Bread with tucuma palm fruit"
+    },
+    "8581001": {
+      "source": "CAFE COM PAO",
+      "english": "Coffee with bread"
+    },
+    "8581504": {
+      "source": "MACARRAO AO ALHO E OLEO",
+      "english": "Pasta with garlic and oil"
+    },
+    "8581505": {
+      "source": "MACARRAO COM FRANGO OU GALINHA",
+      "english": "Pasta with chicken"
+    },
+    "8581506": {
+      "source": "MACARRAO COM LEGUMES",
+      "english": "Pasta with vegetables"
+    },
+    "8581507": {
+      "source": "MACARRAO COM LINGUICA",
+      "english": "Pasta with fresh sausage"
+    },
+    "8581508": {
+      "source": "MACARRAO COM MOLHO BRANCO",
+      "english": "Pasta with white sauce"
+    },
+    "8581509": {
+      "source": "MACARRAO CREMOSO / SUGO / TOMATE",
+      "english": "Pasta with creamy or tomato sauce"
+    },
+    "8581511": {
+      "source": "MACARRAO COM SALSICHA",
+      "english": "Pasta with frankfurter sausage"
+    },
+    "8581602": {
+      "source": "STROGONOFF / ESTROGONOFE DE CARNE",
+      "english": "Beef stroganoff"
+    },
+    "8581604": {
+      "source": "STROGONOFF / ESTROGONOFE DE FRANGO OU GALINHA",
+      "english": "Chicken stroganoff"
+    },
+    "8581901": {
+      "source": "FEIJAO COM CARNES",
+      "english": "Beans with meat"
+    },
+    "8581902": {
+      "source": "FEIJAO COM BACON",
+      "english": "Beans with bacon"
+    },
+    "8581903": {
+      "source": "FEIJAO COM LINGUICA",
+      "english": "Beans with sausage"
+    },
+    "8582102": {
+      "source": "TORTA DE FRANGO OU GALINHA",
+      "english": "Chicken pie"
+    },
+    "8582112": {
+      "source": "TORTA DE QUEIJO / RICOTA",
+      "english": "Cheese or ricotta pie"
+    },
+    "8582302": {
+      "source": "ROCAMBOLE DE CARNE",
+      "english": "Stuffed meat roll"
+    }
+  }
+}

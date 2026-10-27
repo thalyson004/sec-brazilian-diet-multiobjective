@@ -1,0 +1,11 @@
+# 2026-10-02: Technical pilot and confirmatory execution rule
+
+Status: recorded before the main matrix. The frozen study ID, population, 1,650-evaluation limit, 20 replicates, four algorithms, ten objective subsets and 24 selected instances remain unchanged.
+
+Eight **technical** runs used one selected person-day, replicate 1, each of the four algorithms, and subsets `N,C` and `N,C,W`. Their output is under the ignored local `results/technical/`, not `results/runs/`; these runs will not enter the confirmatory analysis. Each stopped at exactly 1,650 evaluations without an error. End-to-end command wall times were approximately 1.6–1.8 s for NSGA-II, SPEA2 and NSGA-III and 8.3–8.4 s for SMS-EMOA on the local 12-logical-processor host. The eight directories used about 8.2 MB together. These are feasibility observations for scheduling and storage only; their objective indicators were not inspected for algorithm ranking.
+
+The confirmed evaluation limit is retained. The main matrix is scheduled with at most eight separate worker processes, one run per output directory. Each worker executes the same pinned library and recorded seed. Parallelism changes scheduling only; no objective evaluation inside a run is parallelized. A batch progress JSONL file records each completed ID, evaluation count and stop reason. The result checker independently rescales and scores every saved diet, reconstructs the feasible nondominated set, recomputes hypervolume, and reports each planned row as complete, incomplete, missing or invalid.
+
+No seed is replaced. On an infrastructure interruption, preserve the original run directory and batch event. Validate first; rerun only a **missing** ID in a separate attempt directory, with the same seed and committed code, and retain both attempt paths. A run with an exception or fewer than 1,650 evaluations remains incomplete until its cause is documented and a separately recorded corrective action is approved in a new decision entry. A corrected implementation cannot be mixed silently with the present frozen analysis. This rule prevents favorable-result selection among attempts.
+
+The main results directory and all derived instance files remain local. Publishing aggregate indicators or dietary examples will require a separate source-term review because the local artifacts contain POF-derived nutrient quantities.

@@ -1,0 +1,218 @@
+{
+  "F30": {
+    "conditions": {
+      "age_years": 30,
+      "energy_lower_kcal": 2058.98402,
+      "energy_upper_kcal": 2275.71918,
+      "maintenance_kcal": 2167.3516,
+      "physical_activity": "low_active",
+      "sex_code": "2"
+    },
+    "observed": {
+      "means": {
+        "all_targets_attained": 0.0,
+        "attained_targets": 9.74074074074074,
+        "attainment_percent": 74.9885233412079,
+        "carbon_kg": 5.525154871890669,
+        "energy_kcal": 2160.3360555555555,
+        "water_l": 5262.003157816428
+      },
+      "n": 27,
+      "sample_sd": {
+        "all_targets_attained": 0.0,
+        "attained_targets": 2.3953896839328124,
+        "attainment_percent": 5.519024841197625,
+        "carbon_kg": 3.7920952023187247,
+        "energy_kcal": 61.27811798932881,
+        "water_l": 4084.2202193217186
+      }
+    },
+    "optimized": {
+      "means": {
+        "all_targets_attained": 0.0,
+        "attained_targets": 18.922916666666666,
+        "attainment_percent": 97.2347999849196,
+        "carbon_kg": 4.605606164785022,
+        "energy_kcal": 2216.4453302083334,
+        "water_l": 6379.396686445279
+      },
+      "n": 480,
+      "sample_sd": {
+        "all_targets_attained": 0.0,
+        "attained_targets": 1.2696455513356648,
+        "attainment_percent": 1.0849001723219684,
+        "carbon_kg": 3.3699958543144723,
+        "energy_kcal": 54.083422702236156,
+        "water_l": 3820.8888692755568
+      }
+    }
+  },
+  "F60": {
+    "conditions": {
+      "age_years": 60,
+      "energy_lower_kcal": 1808.0860219519998,
+      "energy_upper_kcal": 1998.4108663680001,
+      "maintenance_kcal": 1903.24844416,
+      "physical_activity": "low_active",
+      "sex_code": "2"
+    },
+    "observed": {
+      "means": {
+        "all_targets_attained": 0.0,
+        "attained_targets": 10.210526315789474,
+        "attainment_percent": 74.92678733589818,
+        "carbon_kg": 5.175758595541434,
+        "energy_kcal": 1894.051210526316,
+        "water_l": 5704.911774298494
+      },
+      "n": 38,
+      "sample_sd": {
+        "all_targets_attained": 0.0,
+        "attained_targets": 2.905334280779502,
+        "attainment_percent": 6.772046367400613,
+        "carbon_kg": 3.730172561006593,
+        "energy_kcal": 55.228184677928176,
+        "water_l": 4691.313624534005
+      }
+    },
+    "optimized": {
+      "means": {
+        "all_targets_attained": 0.0,
+        "attained_targets": 19.045833333333334,
+        "attainment_percent": 97.97927055066087,
+        "carbon_kg": 2.9149066831237325,
+        "energy_kcal": 1935.2776833333335,
+        "water_l": 5921.030595500589
+      },
+      "n": 480,
+      "sample_sd": {
+        "all_targets_attained": 0.0,
+        "attained_targets": 1.2670479776205026,
+        "attainment_percent": 0.8822984655637806,
+        "carbon_kg": 1.0842529400223682,
+        "energy_kcal": 47.65297604246003,
+        "water_l": 2445.383340495362
+      }
+    }
+  },
+  "GLOBAL": {
+    "observed": {
+      "means": {
+        "all_targets_attained": 0.0,
+        "attained_targets": 10.527290448343079,
+        "attainment_percent": 75.77983931938773,
+        "carbon_kg": 6.40549583725811,
+        "energy_kcal": 2276.3371290204677,
+        "water_l": 5933.3278069387725
+      },
+      "n": 108
+    },
+    "optimized": {
+      "means": {
+        "all_targets_attained": 0.016666666666666666,
+        "attained_targets": 19.565104166666664,
+        "attainment_percent": 97.98214833798986,
+        "carbon_kg": 4.054941618043321,
+        "energy_kcal": 2312.1596929687503,
+        "water_l": 6151.566738964747
+      },
+      "n": 1920
+    }
+  },
+  "M30": {
+    "conditions": {
+      "age_years": 30,
+      "energy_lower_kcal": 2599.851562592,
+      "energy_upper_kcal": 2873.520148128,
+      "maintenance_kcal": 2736.68585536,
+      "physical_activity": "low_active",
+      "sex_code": "1"
+    },
+    "observed": {
+      "means": {
+        "all_targets_attained": 0.0,
+        "attained_targets": 11.0,
+        "attainment_percent": 76.23569580179189,
+        "carbon_kg": 6.516436118607927,
+        "energy_kcal": 2695.2312500000003,
+        "water_l": 6143.780136629287
+      },
+      "n": 24,
+      "sample_sd": {
+        "all_targets_attained": 0.0,
+        "attained_targets": 2.245768968720862,
+        "attainment_percent": 6.839260099575145,
+        "carbon_kg": 4.537449535071956,
+        "energy_kcal": 82.95168254773377,
+        "water_l": 3458.1473458567175
+      }
+    },
+    "optimized": {
+      "means": {
+        "all_targets_attained": 0.06666666666666667,
+        "attained_targets": 21.454166666666666,
+        "attainment_percent": 99.08594797767974,
+        "carbon_kg": 3.550421539000366,
+        "energy_kcal": 2676.3263375,
+        "water_l": 4560.921516732693
+      },
+      "n": 480,
+      "sample_sd": {
+        "all_targets_attained": 0.24970406980540674,
+        "attained_targets": 0.7900631124424872,
+        "attainment_percent": 0.6390516070133037,
+        "carbon_kg": 1.1070070004306147,
+        "energy_kcal": 69.74923670775064,
+        "water_l": 2642.4164341049654
+      }
+    }
+  },
+  "M60": {
+    "conditions": {
+      "age_years": 60,
+      "energy_lower_kcal": 2225.033666368,
+      "energy_upper_kcal": 2459.2477365120003,
+      "maintenance_kcal": 2342.14070144,
+      "physical_activity": "low_active",
+      "sex_code": "1"
+    },
+    "observed": {
+      "means": {
+        "all_targets_attained": 0.0,
+        "attained_targets": 11.157894736842104,
+        "attainment_percent": 76.96835079865298,
+        "carbon_kg": 8.40463376299241,
+        "energy_kcal": 2355.7299999999996,
+        "water_l": 6622.61615901088
+      },
+      "n": 19,
+      "sample_sd": {
+        "all_targets_attained": 0.0,
+        "attained_targets": 2.9488822344658896,
+        "attainment_percent": 7.026283560132203,
+        "carbon_kg": 5.042471164131794,
+        "energy_kcal": 69.27544217750538,
+        "water_l": 4275.142332755781
+      }
+    },
+    "optimized": {
+      "means": {
+        "all_targets_attained": 0.0,
+        "attained_targets": 18.8375,
+        "attainment_percent": 97.62857483869917,
+        "carbon_kg": 5.148832085264161,
+        "energy_kcal": 2420.5894208333334,
+        "water_l": 7744.918157180426
+      },
+      "n": 480,
+      "sample_sd": {
+        "all_targets_attained": 0.0,
+        "attained_targets": 1.2322434011113486,
+        "attainment_percent": 0.9150752746971279,
+        "carbon_kg": 2.4719367032038226,
+        "energy_kcal": 37.62376889289029,
+        "water_l": 5040.99912702699
+      }
+    }
+  }
+}

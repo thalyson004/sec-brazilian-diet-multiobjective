@@ -1,0 +1,150 @@
+{
+  "invalid_line_reasons": {
+    "Missing positive environmental linkage": 95
+  },
+  "mapping_counts": {
+    "1->breakfast": 7744,
+    "2->lunch": 10638,
+    "3->afternoon_snack": 3787,
+    "3->morning_snack": 785,
+    "4->dinner": 7133,
+    "5->supper": 248,
+    "6->afternoon_snack": 804,
+    "6->breakfast": 304,
+    "6->dinner": 884,
+    "6->lunch": 497,
+    "6->morning_snack": 622,
+    "6->supper": 915,
+    "9->afternoon_snack": 143,
+    "9->breakfast": 57,
+    "9->dinner": 163,
+    "9->lunch": 91,
+    "9->morning_snack": 105,
+    "9->supper": 302
+  },
+  "privacy": "Individual meals and composition amounts remain in ignored local results.",
+  "profiles": [
+    {
+      "distinct_observed_vectors": 437,
+      "eligible_days": 784,
+      "instance": {
+        "filename": "F30.json",
+        "sha256": "d9ffd5d733595b3885df71b4e5d634bba7b07ab52632a6537bac2a17a98f4fff"
+      },
+      "observed_blank_slot_counts": [
+        33,
+        268,
+        13,
+        121,
+        42,
+        237
+      ],
+      "observed_numerically_feasible": 27,
+      "pool_sizes": [
+        355,
+        98,
+        425,
+        284,
+        386,
+        86
+      ],
+      "profile_id": "F30",
+      "selected_distinct_respondents": 437
+    },
+    {
+      "distinct_observed_vectors": 339,
+      "eligible_days": 617,
+      "instance": {
+        "filename": "F60.json",
+        "sha256": "bdc69d70bef828ca330616f512f1376176adac9aed4587f9338917d27803c215"
+      },
+      "observed_blank_slot_counts": [
+        5,
+        205,
+        6,
+        68,
+        33,
+        169
+      ],
+      "observed_numerically_feasible": 38,
+      "pool_sizes": [
+        305,
+        100,
+        334,
+        236,
+        305,
+        70
+      ],
+      "profile_id": "F60",
+      "selected_distinct_respondents": 339
+    },
+    {
+      "distinct_observed_vectors": 347,
+      "eligible_days": 616,
+      "instance": {
+        "filename": "M30.json",
+        "sha256": "7f5de2ea77102b8881f76b6f5551ffe0440c30bb70937f840bcd0754dfb555ba"
+      },
+      "observed_blank_slot_counts": [
+        24,
+        231,
+        3,
+        123,
+        15,
+        177
+      ],
+      "observed_numerically_feasible": 24,
+      "pool_sizes": [
+        286,
+        75,
+        345,
+        187,
+        332,
+        82
+      ],
+      "profile_id": "M30",
+      "selected_distinct_respondents": 347
+    },
+    {
+      "distinct_observed_vectors": 248,
+      "eligible_days": 445,
+      "instance": {
+        "filename": "M60.json",
+        "sha256": "e39a94d6be127d848663f2f9aaac27d5fcbb5030a929722a51ce2198b2e7a8c1"
+      },
+      "observed_blank_slot_counts": [
+        5,
+        170,
+        5,
+        83,
+        19,
+        128
+      ],
+      "observed_numerically_feasible": 19,
+      "pool_sizes": [
+        216,
+        57,
+        244,
+        148,
+        230,
+        62
+      ],
+      "profile_id": "M60",
+      "selected_distinct_respondents": 248
+    }
+  ],
+  "reconstruction": "Whole observed slot intakes: sums of reported absolute nutrient quantities, without nutrient regression or portion scaling.",
+  "sources": {
+    "footprints": {
+      "bytes": 626724,
+      "filename": "pegadas_alimentos.xlsx",
+      "sha256": "988040f8e9c668d823c41b0839132a3494b9a3ad6e5a4945e18757542b16d4af"
+    },
+    "pof": {
+      "bytes": 146294013,
+      "filename": "Dados_20230713.zip",
+      "sha256": "f5b71f85452345e6e82caee15c70578c948981d8a8e5f99bd90ec60fac5b7932"
+    }
+  },
+  "study_id": "sec2026-pof-meals-v3"
+}

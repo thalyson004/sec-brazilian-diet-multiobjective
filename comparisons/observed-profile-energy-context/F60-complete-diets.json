@@ -1,0 +1,5913 @@
+[
+  {
+    "all_targets_attained": 0,
+    "attained_targets": 9,
+    "attainment_percent": 69.79185128583102,
+    "carbon_kg": 1.654196874699183,
+    "energy_kcal": 1846.2,
+    "meals": [
+      {
+        "items": [
+          {
+            "food_code": "6906602",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Sugar",
+            "grams": 5.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "7901602",
+            "food_group": "Dairy products",
+            "food_name": "Margarine, salted or unsalted",
+            "grams": 14.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "8000101",
+            "food_group": "Bread and baked goods",
+            "food_name": "Brazilian white bread roll",
+            "grams": 70.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8201004",
+            "food_group": "Nonalcoholic beverages and infusions",
+            "food_name": "Mineral water, unspecified",
+            "grams": 200.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8501303",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee with milk",
+            "grams": 50.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Breakfast"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6803001",
+            "food_group": "Fruit",
+            "food_name": "Apple",
+            "grams": 150.0,
+            "preparation_code": "4"
+          },
+          {
+            "food_code": "8201004",
+            "food_group": "Nonalcoholic beverages and infusions",
+            "food_name": "Mineral water, unspecified",
+            "grams": 200.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Morning snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6300113",
+            "food_group": "Cereals and pulses",
+            "food_name": "White rice",
+            "grams": 300.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6301603",
+            "food_group": "Cereals and pulses",
+            "food_name": "Cowpeas",
+            "grams": 140.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6503401",
+            "food_group": "Flours, starches and pasta",
+            "food_name": "Pasta",
+            "grams": 105.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "7803301",
+            "food_group": "Poultry and eggs",
+            "food_name": "Chicken egg",
+            "grams": 50.0,
+            "preparation_code": "7"
+          },
+          {
+            "food_code": "8201004",
+            "food_group": "Nonalcoholic beverages and infusions",
+            "food_name": "Mineral water, unspecified",
+            "grams": 200.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Lunch"
+      },
+      {
+        "items": [],
+        "position": "Afternoon snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6300113",
+            "food_group": "Cereals and pulses",
+            "food_name": "White rice",
+            "grams": 300.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6301603",
+            "food_group": "Cereals and pulses",
+            "food_name": "Cowpeas",
+            "grams": 140.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "7800302",
+            "food_group": "Poultry and eggs",
+            "food_name": "Chicken pieces",
+            "grams": 55.0,
+            "preparation_code": "7"
+          },
+          {
+            "food_code": "8201004",
+            "food_group": "Nonalcoholic beverages and infusions",
+            "food_name": "Mineral water, unspecified",
+            "grams": 400.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Dinner"
+      },
+      {
+        "items": [
+          {
+            "food_code": "8201004",
+            "food_group": "Nonalcoholic beverages and infusions",
+            "food_name": "Mineral water, unspecified",
+            "grams": 400.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Supper"
+      }
+    ],
+    "observed_day_id": "c946a4cd1eb830770acaaf9a",
+    "profile_id": "F60",
+    "retained_day_index": 3,
+    "water_l": 1526.8098694772377
+  },
+  {
+    "all_targets_attained": 0,
+    "attained_targets": 7,
+    "attainment_percent": 68.30322541752582,
+    "carbon_kg": 1.5094854835482414,
+    "energy_kcal": 1849.065,
+    "meals": [
+      {
+        "items": [
+          {
+            "food_code": "6501516",
+            "food_group": "Flours, starches and pasta",
+            "food_name": "Hydrated tapioca starch",
+            "grams": 70.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6906602",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Sugar",
+            "grams": 5.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "7901602",
+            "food_group": "Dairy products",
+            "food_name": "Margarine, salted or unsalted",
+            "grams": 5.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8501302",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee",
+            "grams": 50.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Breakfast"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6501516",
+            "food_group": "Flours, starches and pasta",
+            "food_name": "Hydrated tapioca starch",
+            "grams": 70.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6906602",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Sugar",
+            "grams": 5.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "7901602",
+            "food_group": "Dairy products",
+            "food_name": "Margarine, salted or unsalted",
+            "grams": 5.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8501302",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee",
+            "grams": 50.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Morning snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6300113",
+            "food_group": "Cereals and pulses",
+            "food_name": "White rice",
+            "grams": 90.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6303102",
+            "food_group": "Cereals and pulses",
+            "food_name": "Beans (black, brown or other varieties)",
+            "grams": 140.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "7800302",
+            "food_group": "Poultry and eggs",
+            "food_name": "Chicken pieces",
+            "grams": 55.0,
+            "preparation_code": "6"
+          },
+          {
+            "food_code": "8511201",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Vegetable salad",
+            "grams": 110.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Lunch"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6906602",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Sugar",
+            "grams": 24.5,
+            "preparation_code": null
+          },
+          {
+            "food_code": "8004601",
+            "food_group": "Bread and baked goods",
+            "food_name": "Plain cake",
+            "grams": 60.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8501302",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee",
+            "grams": 50.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8502301",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Porridge, unspecified cereal",
+            "grams": 195.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Afternoon snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6300113",
+            "food_group": "Cereals and pulses",
+            "food_name": "White rice",
+            "grams": 90.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "7800302",
+            "food_group": "Poultry and eggs",
+            "food_name": "Chicken pieces",
+            "grams": 55.0,
+            "preparation_code": "6"
+          },
+          {
+            "food_code": "8511201",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Vegetable salad",
+            "grams": 55.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Dinner"
+      },
+      {
+        "items": [
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 1600.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Supper"
+      }
+    ],
+    "observed_day_id": "169e5c931ef405b8616ac57a",
+    "profile_id": "F60",
+    "retained_day_index": 16,
+    "water_l": 1798.2702388828186
+  },
+  {
+    "all_targets_attained": 0,
+    "attained_targets": 10,
+    "attainment_percent": 78.5912044439949,
+    "carbon_kg": 8.234867922275717,
+    "energy_kcal": 1946.4599999999998,
+    "meals": [
+      {
+        "items": [
+          {
+            "food_code": "6801101",
+            "food_group": "Fruit",
+            "food_name": "Banana, unspecified variety",
+            "grams": 75.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6906602",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Sugar",
+            "grams": 20.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "7901602",
+            "food_group": "Dairy products",
+            "food_name": "Margarine, salted or unsalted",
+            "grams": 28.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "8000101",
+            "food_group": "Bread and baked goods",
+            "food_name": "Brazilian white bread roll",
+            "grams": 140.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8501302",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee",
+            "grams": 200.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Breakfast"
+      },
+      {
+        "items": [],
+        "position": "Morning snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6303102",
+            "food_group": "Cereals and pulses",
+            "food_name": "Beans (black, brown or other varieties)",
+            "grams": 70.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6401101",
+            "food_group": "Roots and tubers",
+            "food_name": "Beetroot",
+            "grams": 16.0,
+            "preparation_code": "4"
+          },
+          {
+            "food_code": "6401201",
+            "food_group": "Roots and tubers",
+            "food_name": "Carrot",
+            "grams": 12.0,
+            "preparation_code": "4"
+          },
+          {
+            "food_code": "6501401",
+            "food_group": "Flours, starches and pasta",
+            "food_name": "Cassava flour",
+            "grams": 32.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6906602",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Sugar",
+            "grams": 20.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "7109101",
+            "food_group": "Meat and offal",
+            "food_name": "Beef, unspecified cut",
+            "grams": 105.0,
+            "preparation_code": "7"
+          },
+          {
+            "food_code": "8500403",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Acerola cherry juice",
+            "grams": 200.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8510601",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Lettuce, tomato and onion salad",
+            "grams": 80.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Lunch"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6803001",
+            "food_group": "Fruit",
+            "food_name": "Apple",
+            "grams": 150.0,
+            "preparation_code": "4"
+          }
+        ],
+        "position": "Afternoon snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6902901",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Brazilian corn couscous",
+            "grams": 135.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6906602",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Sugar",
+            "grams": 20.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "7109101",
+            "food_group": "Meat and offal",
+            "food_name": "Beef, unspecified cut",
+            "grams": 70.0,
+            "preparation_code": "7"
+          },
+          {
+            "food_code": "8501302",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee",
+            "grams": 200.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Dinner"
+      },
+      {
+        "items": [
+          {
+            "food_code": "8201004",
+            "food_group": "Nonalcoholic beverages and infusions",
+            "food_name": "Mineral water, unspecified",
+            "grams": 800.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Supper"
+      }
+    ],
+    "observed_day_id": "88e2946f6491074fa35497d7",
+    "profile_id": "F60",
+    "retained_day_index": 21,
+    "water_l": 5993.601756418806
+  },
+  {
+    "all_targets_attained": 0,
+    "attained_targets": 6,
+    "attainment_percent": 62.89354374719288,
+    "carbon_kg": 3.8759220377133126,
+    "energy_kcal": 1964.2350000000001,
+    "meals": [
+      {
+        "items": [
+          {
+            "food_code": "6906602",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Sugar",
+            "grams": 22.5,
+            "preparation_code": null
+          },
+          {
+            "food_code": "8002225",
+            "food_group": "Bread and baked goods",
+            "food_name": "Savory crackers",
+            "grams": 10.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8002254",
+            "food_group": "Bread and baked goods",
+            "food_name": "Whole-grain toast",
+            "grams": 24.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8215901",
+            "food_group": "Nonalcoholic beverages and infusions",
+            "food_name": "Herbal tea, unspecified",
+            "grams": 200.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8501310",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Decaffeinated coffee",
+            "grams": 25.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Breakfast"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6801101",
+            "food_group": "Fruit",
+            "food_name": "Banana, unspecified variety",
+            "grams": 75.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8201005",
+            "food_group": "Nonalcoholic beverages and infusions",
+            "food_name": "Still mineral water",
+            "grams": 360.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Morning snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6300101",
+            "food_group": "Cereals and pulses",
+            "food_name": "Rice (polished, parboiled or long-grain)",
+            "grams": 100.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6303102",
+            "food_group": "Cereals and pulses",
+            "food_name": "Beans (black, brown or other varieties)",
+            "grams": 35.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6906602",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Sugar",
+            "grams": 36.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "8100102",
+            "food_group": "Processed meat",
+            "food_name": "Salt-dried beef",
+            "grams": 54.0,
+            "preparation_code": "7"
+          },
+          {
+            "food_code": "8500601",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Diluted fruit drink, unspecified",
+            "grams": 360.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8502201",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Toasted cassava-flour dish (farofa)",
+            "grams": 60.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Lunch"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6906602",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Sugar",
+            "grams": 5.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "8080101",
+            "food_group": "Bread and baked goods",
+            "food_name": "Tapioca pancake",
+            "grams": 140.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8501303",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee with milk",
+            "grams": 50.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Afternoon snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6301001",
+            "food_group": "Cereals and pulses",
+            "food_name": "Peanuts",
+            "grams": 50.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6900603",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Candy",
+            "grams": 5.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Dinner"
+      },
+      {
+        "items": [
+          {
+            "food_code": "8201004",
+            "food_group": "Nonalcoholic beverages and infusions",
+            "food_name": "Mineral water, unspecified",
+            "grams": 1920.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8201005",
+            "food_group": "Nonalcoholic beverages and infusions",
+            "food_name": "Still mineral water",
+            "grams": 1440.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Supper"
+      }
+    ],
+    "observed_day_id": "8e5907f500c894cb3d44add6",
+    "profile_id": "F60",
+    "retained_day_index": 25,
+    "water_l": 3301.1462857408665
+  },
+  {
+    "all_targets_attained": 0,
+    "attained_targets": 12,
+    "attainment_percent": 81.06714367532675,
+    "carbon_kg": 4.46434829544489,
+    "energy_kcal": 1894.3000000000002,
+    "meals": [
+      {
+        "items": [
+          {
+            "food_code": "6906602",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Sugar",
+            "grams": 20.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 200.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8501302",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee",
+            "grams": 200.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8570328",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Bread with butter",
+            "grams": 60.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Breakfast"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6801001",
+            "food_group": "Fruit",
+            "food_name": "Plantain",
+            "grams": 50.0,
+            "preparation_code": "3"
+          },
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 200.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Morning snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6300101",
+            "food_group": "Cereals and pulses",
+            "food_name": "Rice (polished, parboiled or long-grain)",
+            "grams": 45.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6303102",
+            "food_group": "Cereals and pulses",
+            "food_name": "Beans (black, brown or other varieties)",
+            "grams": 140.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6906602",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Sugar",
+            "grams": 20.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "7101301",
+            "food_group": "Meat and offal",
+            "food_name": "Beef ribs",
+            "grams": 40.0,
+            "preparation_code": "2"
+          },
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 200.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8500406",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Guava juice",
+            "grams": 200.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8511401",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Tomato salad",
+            "grams": 120.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Lunch"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6906602",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Sugar",
+            "grams": 20.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "7901602",
+            "food_group": "Dairy products",
+            "food_name": "Margarine, salted or unsalted",
+            "grams": 14.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "8000101",
+            "food_group": "Bread and baked goods",
+            "food_name": "Brazilian white bread roll",
+            "grams": 70.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 200.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8501303",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee with milk",
+            "grams": 200.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Afternoon snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6300101",
+            "food_group": "Cereals and pulses",
+            "food_name": "Rice (polished, parboiled or long-grain)",
+            "grams": 45.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6303102",
+            "food_group": "Cereals and pulses",
+            "food_name": "Beans (black, brown or other varieties)",
+            "grams": 140.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "7101301",
+            "food_group": "Meat and offal",
+            "food_name": "Beef ribs",
+            "grams": 40.0,
+            "preparation_code": "2"
+          },
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 200.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8511401",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Tomato salad",
+            "grams": 120.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Dinner"
+      },
+      {
+        "items": [
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 200.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Supper"
+      }
+    ],
+    "observed_day_id": "af5089ca26b17fd35c0f686b",
+    "profile_id": "F60",
+    "retained_day_index": 26,
+    "water_l": 3561.3435934425747
+  },
+  {
+    "all_targets_attained": 0,
+    "attained_targets": 10,
+    "attainment_percent": 78.6219545939597,
+    "carbon_kg": 2.8846356459102434,
+    "energy_kcal": 1991.625,
+    "meals": [
+      {
+        "items": [
+          {
+            "food_code": "6906602",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Sugar",
+            "grams": 20.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "8002212",
+            "food_group": "Bread and baked goods",
+            "food_name": "Cassava-starch biscuit",
+            "grams": 6.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8002612",
+            "food_group": "Bread and baked goods",
+            "food_name": "Corn cake",
+            "grams": 60.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 200.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8501303",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee with milk",
+            "grams": 200.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Breakfast"
+      },
+      {
+        "items": [],
+        "position": "Morning snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6300113",
+            "food_group": "Cereals and pulses",
+            "food_name": "White rice",
+            "grams": 90.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6303102",
+            "food_group": "Cereals and pulses",
+            "food_name": "Beans (black, brown or other varieties)",
+            "grams": 140.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6700501",
+            "food_group": "Leafy and other vegetables",
+            "food_name": "Collard greens",
+            "grams": 42.0,
+            "preparation_code": "2"
+          },
+          {
+            "food_code": "7104101",
+            "food_group": "Meat and offal",
+            "food_name": "Pork, unspecified cut",
+            "grams": 187.0,
+            "preparation_code": "2"
+          },
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 200.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Lunch"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6906602",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Sugar",
+            "grams": 20.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "8002612",
+            "food_group": "Bread and baked goods",
+            "food_name": "Corn cake",
+            "grams": 60.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 400.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8501303",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee with milk",
+            "grams": 200.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Afternoon snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6300113",
+            "food_group": "Cereals and pulses",
+            "food_name": "White rice",
+            "grams": 90.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6705101",
+            "food_group": "Leafy and other vegetables",
+            "food_name": "Tomato",
+            "grams": 30.0,
+            "preparation_code": "4"
+          },
+          {
+            "food_code": "6801101",
+            "food_group": "Fruit",
+            "food_name": "Banana, unspecified variety",
+            "grams": 75.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "7104101",
+            "food_group": "Meat and offal",
+            "food_name": "Pork, unspecified cut",
+            "grams": 93.5,
+            "preparation_code": "2"
+          },
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 400.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8400101",
+            "food_group": "Oils and fats",
+            "food_name": "Olive oil",
+            "grams": 6.0,
+            "preparation_code": null
+          }
+        ],
+        "position": "Dinner"
+      },
+      {
+        "items": [],
+        "position": "Supper"
+      }
+    ],
+    "observed_day_id": "5cd94eecf6e8a55998c996ad",
+    "profile_id": "F60",
+    "retained_day_index": 77,
+    "water_l": 4510.450520511182
+  },
+  {
+    "all_targets_attained": 0,
+    "attained_targets": 7,
+    "attainment_percent": 64.45458370711674,
+    "carbon_kg": 8.957268954788635,
+    "energy_kcal": 1860.8400000000001,
+    "meals": [
+      {
+        "items": [
+          {
+            "food_code": "6801101",
+            "food_group": "Fruit",
+            "food_name": "Banana, unspecified variety",
+            "grams": 75.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8501302",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee",
+            "grams": 50.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8570329",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Bread with margarine",
+            "grams": 15.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Breakfast"
+      },
+      {
+        "items": [
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 300.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Morning snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6300101",
+            "food_group": "Cereals and pulses",
+            "food_name": "Rice (polished, parboiled or long-grain)",
+            "grams": 45.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6400101",
+            "food_group": "Roots and tubers",
+            "food_name": "Potatoes",
+            "grams": 60.0,
+            "preparation_code": "3"
+          },
+          {
+            "food_code": "6501515",
+            "food_group": "Flours, starches and pasta",
+            "food_name": "Tapioca pearls",
+            "grams": 97.5,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6503401",
+            "food_group": "Flours, starches and pasta",
+            "food_name": "Pasta",
+            "grams": 110.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6700101",
+            "food_group": "Leafy and other vegetables",
+            "food_name": "Lettuce",
+            "grams": 10.0,
+            "preparation_code": "4"
+          },
+          {
+            "food_code": "7004301",
+            "food_group": "Salt and condiments",
+            "food_name": "Mayonnaise",
+            "grams": 12.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "7109101",
+            "food_group": "Meat and offal",
+            "food_name": "Beef, unspecified cut",
+            "grams": 70.0,
+            "preparation_code": "1"
+          },
+          {
+            "food_code": "8200102",
+            "food_group": "Nonalcoholic beverages and infusions",
+            "food_name": "Regular Coca-Cola",
+            "grams": 200.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8400101",
+            "food_group": "Oils and fats",
+            "food_name": "Olive oil",
+            "grams": 2.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "8502201",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Toasted cassava-flour dish (farofa)",
+            "grams": 15.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8579266",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Tapioca pearls in red wine",
+            "grams": 30.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Lunch"
+      },
+      {
+        "items": [
+          {
+            "food_code": "8501302",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee",
+            "grams": 50.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8582112",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Cheese or ricotta pie",
+            "grams": 110.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Afternoon snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6300101",
+            "food_group": "Cereals and pulses",
+            "food_name": "Rice (polished, parboiled or long-grain)",
+            "grams": 45.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6400101",
+            "food_group": "Roots and tubers",
+            "food_name": "Potatoes",
+            "grams": 60.0,
+            "preparation_code": "3"
+          },
+          {
+            "food_code": "6901701",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Gelatin dessert",
+            "grams": 20.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "7004301",
+            "food_group": "Salt and condiments",
+            "food_name": "Mayonnaise",
+            "grams": 12.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "7109101",
+            "food_group": "Meat and offal",
+            "food_name": "Beef, unspecified cut",
+            "grams": 75.0,
+            "preparation_code": "1"
+          },
+          {
+            "food_code": "7700902",
+            "food_group": "Fish and seafood",
+            "food_name": "Sauerkraut",
+            "grams": 75.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8102204",
+            "food_group": "Processed meat",
+            "food_name": "Fresh sausage, unspecified",
+            "grams": 60.0,
+            "preparation_code": "1"
+          },
+          {
+            "food_code": "8200102",
+            "food_group": "Nonalcoholic beverages and infusions",
+            "food_name": "Regular Coca-Cola",
+            "grams": 200.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Dinner"
+      },
+      {
+        "items": [
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 200.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Supper"
+      }
+    ],
+    "observed_day_id": "005ab3c2bc1507a8d23cae5e",
+    "profile_id": "F60",
+    "retained_day_index": 79,
+    "water_l": 6534.800647373521
+  },
+  {
+    "all_targets_attained": 0,
+    "attained_targets": 14,
+    "attainment_percent": 83.46030126687097,
+    "carbon_kg": 6.388376075212819,
+    "energy_kcal": 1812.7,
+    "meals": [
+      {
+        "items": [
+          {
+            "food_code": "6901801",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Artificial sweetener",
+            "grams": 1.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "6902901",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Brazilian corn couscous",
+            "grams": 405.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "7803301",
+            "food_group": "Poultry and eggs",
+            "food_name": "Chicken egg",
+            "grams": 100.0,
+            "preparation_code": "7"
+          },
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 2000.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8501303",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee with milk",
+            "grams": 50.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Breakfast"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6802201",
+            "food_group": "Fruit",
+            "food_name": "Tangerine",
+            "grams": 270.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Morning snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "7701901",
+            "food_group": "Fish and seafood",
+            "food_name": "Bean-and-meat stew (feijoada)",
+            "grams": 450.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Lunch"
+      },
+      {
+        "items": [],
+        "position": "Afternoon snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6400401",
+            "food_group": "Roots and tubers",
+            "food_name": "Sweet potatoes",
+            "grams": 280.0,
+            "preparation_code": "3"
+          },
+          {
+            "food_code": "6901801",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Artificial sweetener",
+            "grams": 1.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "7600101",
+            "food_group": "Fish and seafood",
+            "food_name": "Fish, unspecified species",
+            "grams": 90.0,
+            "preparation_code": "7"
+          },
+          {
+            "food_code": "8501303",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee with milk",
+            "grams": 50.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Dinner"
+      },
+      {
+        "items": [],
+        "position": "Supper"
+      }
+    ],
+    "observed_day_id": "146b1cf15a924a32226b25f2",
+    "profile_id": "F60",
+    "retained_day_index": 94,
+    "water_l": 3801.7355886483574
+  },
+  {
+    "all_targets_attained": 0,
+    "attained_targets": 10,
+    "attainment_percent": 80.06657682008223,
+    "carbon_kg": 5.8785538030461195,
+    "energy_kcal": 1961.3799999999999,
+    "meals": [
+      {
+        "items": [
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 200.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8501302",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee",
+            "grams": 50.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8570330",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Bread with egg",
+            "grams": 100.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Breakfast"
+      },
+      {
+        "items": [
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 200.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Morning snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "7104102",
+            "food_group": "Meat and offal",
+            "food_name": "Pork, unspecified cut",
+            "grams": 187.0,
+            "preparation_code": "7"
+          },
+          {
+            "food_code": "8217001",
+            "food_group": "Nonalcoholic beverages and infusions",
+            "food_name": "Fresh fruit juice",
+            "grams": 200.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8570107",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Rice and beans",
+            "grams": 222.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Lunch"
+      },
+      {
+        "items": [
+          {
+            "food_code": "8002612",
+            "food_group": "Bread and baked goods",
+            "food_name": "Corn cake",
+            "grams": 60.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 200.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8501302",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee",
+            "grams": 50.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Afternoon snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "7109101",
+            "food_group": "Meat and offal",
+            "food_name": "Beef, unspecified cut",
+            "grams": 90.0,
+            "preparation_code": "7"
+          },
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 400.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8217001",
+            "food_group": "Nonalcoholic beverages and infusions",
+            "food_name": "Fresh fruit juice",
+            "grams": 200.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8570107",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Rice and beans",
+            "grams": 222.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Dinner"
+      },
+      {
+        "items": [
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 200.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Supper"
+      }
+    ],
+    "observed_day_id": "8ec1ca19518004a08b87e33b",
+    "profile_id": "F60",
+    "retained_day_index": 124,
+    "water_l": 5680.551099620308
+  },
+  {
+    "all_targets_attained": 0,
+    "attained_targets": 4,
+    "attainment_percent": 63.63804885506097,
+    "carbon_kg": 1.1799538316708023,
+    "energy_kcal": 1993.1999999999998,
+    "meals": [
+      {
+        "items": [
+          {
+            "food_code": "6906602",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Sugar",
+            "grams": 5.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "7901602",
+            "food_group": "Dairy products",
+            "food_name": "Margarine, salted or unsalted",
+            "grams": 28.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "8000101",
+            "food_group": "Bread and baked goods",
+            "food_name": "Brazilian white bread roll",
+            "grams": 140.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8501302",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee",
+            "grams": 50.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Breakfast"
+      },
+      {
+        "items": [],
+        "position": "Morning snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6300101",
+            "food_group": "Cereals and pulses",
+            "food_name": "Rice (polished, parboiled or long-grain)",
+            "grams": 125.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6303102",
+            "food_group": "Cereals and pulses",
+            "food_name": "Beans (black, brown or other varieties)",
+            "grams": 50.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "7800302",
+            "food_group": "Poultry and eggs",
+            "food_name": "Chicken pieces",
+            "grams": 110.0,
+            "preparation_code": "1"
+          }
+        ],
+        "position": "Lunch"
+      },
+      {
+        "items": [
+          {
+            "food_code": "7901602",
+            "food_group": "Dairy products",
+            "food_name": "Margarine, salted or unsalted",
+            "grams": 4.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "8002225",
+            "food_group": "Bread and baked goods",
+            "food_name": "Savory crackers",
+            "grams": 20.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8200301",
+            "food_group": "Nonalcoholic beverages and infusions",
+            "food_name": "Regular guarana soda",
+            "grams": 200.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Afternoon snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6400610",
+            "food_group": "Roots and tubers",
+            "food_name": "Cassava",
+            "grams": 300.0,
+            "preparation_code": "3"
+          },
+          {
+            "food_code": "6906602",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Sugar",
+            "grams": 5.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "7901602",
+            "food_group": "Dairy products",
+            "food_name": "Margarine, salted or unsalted",
+            "grams": 60.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "8501302",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee",
+            "grams": 50.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Dinner"
+      },
+      {
+        "items": [
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 600.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Supper"
+      }
+    ],
+    "observed_day_id": "4699bf4cf7b9a437743ec24a",
+    "profile_id": "F60",
+    "retained_day_index": 131,
+    "water_l": 1603.7513022655703
+  },
+  {
+    "all_targets_attained": 0,
+    "attained_targets": 13,
+    "attainment_percent": 84.58468042296845,
+    "carbon_kg": 2.2886285344192525,
+    "energy_kcal": 1846.4,
+    "meals": [
+      {
+        "items": [
+          {
+            "food_code": "6901801",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Artificial sweetener",
+            "grams": 1.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "8500363",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Cheese sandwich",
+            "grams": 200.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8501303",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee with milk",
+            "grams": 50.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Breakfast"
+      },
+      {
+        "items": [],
+        "position": "Morning snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6303102",
+            "food_group": "Cereals and pulses",
+            "food_name": "Beans (black, brown or other varieties)",
+            "grams": 280.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6503401",
+            "food_group": "Flours, starches and pasta",
+            "food_name": "Pasta",
+            "grams": 320.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6801801",
+            "food_group": "Fruit",
+            "food_name": "Orange, unspecified variety",
+            "grams": 360.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8506501",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Omelet",
+            "grams": 65.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Lunch"
+      },
+      {
+        "items": [],
+        "position": "Afternoon snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6901801",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Artificial sweetener",
+            "grams": 1.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "8001401",
+            "food_group": "Bread and baked goods",
+            "food_name": "Whole-wheat bread",
+            "grams": 50.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8501303",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee with milk",
+            "grams": 50.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8506501",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Omelet",
+            "grams": 65.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Dinner"
+      },
+      {
+        "items": [
+          {
+            "food_code": "8201004",
+            "food_group": "Nonalcoholic beverages and infusions",
+            "food_name": "Mineral water, unspecified",
+            "grams": 1000.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Supper"
+      }
+    ],
+    "observed_day_id": "f26bd8a60e0d3ee90c0373e6",
+    "profile_id": "F60",
+    "retained_day_index": 135,
+    "water_l": 2318.1697637494085
+  },
+  {
+    "all_targets_attained": 0,
+    "attained_targets": 13,
+    "attainment_percent": 82.09637071619973,
+    "carbon_kg": 8.439420990845445,
+    "energy_kcal": 1914.06,
+    "meals": [
+      {
+        "items": [
+          {
+            "food_code": "6901001",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Fruit jam",
+            "grams": 25.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6906602",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Sugar",
+            "grams": 5.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "7902201",
+            "food_group": "Dairy products",
+            "food_name": "Ricotta",
+            "grams": 176.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8000106",
+            "food_group": "Bread and baked goods",
+            "food_name": "Wheat bread",
+            "grams": 50.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8202804",
+            "food_group": "Nonalcoholic beverages and infusions",
+            "food_name": "Hot mate infusion",
+            "grams": 1600.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8501303",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee with milk",
+            "grams": 50.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Breakfast"
+      },
+      {
+        "items": [],
+        "position": "Morning snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6300101",
+            "food_group": "Cereals and pulses",
+            "food_name": "Rice (polished, parboiled or long-grain)",
+            "grams": 90.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6400609",
+            "food_group": "Roots and tubers",
+            "food_name": "Cassava",
+            "grams": 300.0,
+            "preparation_code": "3"
+          },
+          {
+            "food_code": "6700904",
+            "food_group": "Leafy and other vegetables",
+            "food_name": "Green cabbage",
+            "grams": 72.0,
+            "preparation_code": "4"
+          },
+          {
+            "food_code": "7112802",
+            "food_group": "Meat and offal",
+            "food_name": "Braised beef",
+            "grams": 70.0,
+            "preparation_code": "6"
+          },
+          {
+            "food_code": "8400101",
+            "food_group": "Oils and fats",
+            "food_name": "Olive oil",
+            "grams": 14.4,
+            "preparation_code": null
+          }
+        ],
+        "position": "Lunch"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6906602",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Sugar",
+            "grams": 10.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "7903201",
+            "food_group": "Dairy products",
+            "food_name": "Thick cream",
+            "grams": 24.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8002001",
+            "food_group": "Bread and baked goods",
+            "food_name": "Sweet ring biscuit",
+            "grams": 60.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8501303",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee with milk",
+            "grams": 100.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Afternoon snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6906602",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Sugar",
+            "grams": 20.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "8000106",
+            "food_group": "Bread and baked goods",
+            "food_name": "Wheat bread",
+            "grams": 25.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8206301",
+            "food_group": "Nonalcoholic beverages and infusions",
+            "food_name": "Tea, unspecified",
+            "grams": 200.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8504501",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Soup, unspecified ingredients",
+            "grams": 260.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Dinner"
+      },
+      {
+        "items": [],
+        "position": "Supper"
+      }
+    ],
+    "observed_day_id": "61e353c9e533f15041f67c1e",
+    "profile_id": "F60",
+    "retained_day_index": 155,
+    "water_l": 17454.020063331165
+  },
+  {
+    "all_targets_attained": 0,
+    "attained_targets": 9,
+    "attainment_percent": 75.52635720231483,
+    "carbon_kg": 4.72255030907403,
+    "energy_kcal": 1896.1999999999998,
+    "meals": [
+      {
+        "items": [
+          {
+            "food_code": "6901801",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Artificial sweetener",
+            "grams": 1.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "6904502",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Cassava flatbread (beiju)",
+            "grams": 125.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 300.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8501303",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee with milk",
+            "grams": 200.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Breakfast"
+      },
+      {
+        "items": [
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 600.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Morning snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6300113",
+            "food_group": "Cereals and pulses",
+            "food_name": "White rice",
+            "grams": 200.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6301603",
+            "food_group": "Cereals and pulses",
+            "food_name": "Cowpeas",
+            "grams": 140.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "7105601",
+            "food_group": "Meat and offal",
+            "food_name": "Mutton",
+            "grams": 140.0,
+            "preparation_code": "2"
+          },
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 600.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8511401",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Tomato salad",
+            "grams": 75.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Lunch"
+      },
+      {
+        "items": [
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 600.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Afternoon snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6901801",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Artificial sweetener",
+            "grams": 1.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "6904502",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Cassava flatbread (beiju)",
+            "grams": 125.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "7803301",
+            "food_group": "Poultry and eggs",
+            "food_name": "Chicken egg",
+            "grams": 50.0,
+            "preparation_code": "7"
+          },
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 600.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8217001",
+            "food_group": "Nonalcoholic beverages and infusions",
+            "food_name": "Fresh fruit juice",
+            "grams": 300.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Dinner"
+      },
+      {
+        "items": [],
+        "position": "Supper"
+      }
+    ],
+    "observed_day_id": "80d4c28871fe47a594d8f90f",
+    "profile_id": "F60",
+    "retained_day_index": 166,
+    "water_l": 3095.7221058413315
+  },
+  {
+    "all_targets_attained": 0,
+    "attained_targets": 6,
+    "attainment_percent": 67.78294313877518,
+    "carbon_kg": 1.4571346056808825,
+    "energy_kcal": 1954.24,
+    "meals": [
+      {
+        "items": [
+          {
+            "food_code": "7900201",
+            "food_group": "Dairy products",
+            "food_name": "Fresh cow's milk",
+            "grams": 200.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8000801",
+            "food_group": "Bread and baked goods",
+            "food_name": "Cheese bread",
+            "grams": 80.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8004603",
+            "food_group": "Bread and baked goods",
+            "food_name": "Plain cake",
+            "grams": 60.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Breakfast"
+      },
+      {
+        "items": [],
+        "position": "Morning snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6300113",
+            "food_group": "Cereals and pulses",
+            "food_name": "White rice",
+            "grams": 200.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6303102",
+            "food_group": "Cereals and pulses",
+            "food_name": "Beans (black, brown or other varieties)",
+            "grams": 280.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6705001",
+            "food_group": "Leafy and other vegetables",
+            "food_name": "Okra",
+            "grams": 52.0,
+            "preparation_code": "9"
+          },
+          {
+            "food_code": "8571113",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Chicken with non-starchy vegetables",
+            "grams": 100.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Lunch"
+      },
+      {
+        "items": [
+          {
+            "food_code": "8000801",
+            "food_group": "Bread and baked goods",
+            "food_name": "Cheese bread",
+            "grams": 100.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8004603",
+            "food_group": "Bread and baked goods",
+            "food_name": "Plain cake",
+            "grams": 60.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Afternoon snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 2000.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Dinner"
+      },
+      {
+        "items": [],
+        "position": "Supper"
+      }
+    ],
+    "observed_day_id": "364b16d75428c53e770e7084",
+    "profile_id": "F60",
+    "retained_day_index": 172,
+    "water_l": 1838.1860094269823
+  },
+  {
+    "all_targets_attained": 0,
+    "attained_targets": 12,
+    "attainment_percent": 78.8398467189867,
+    "carbon_kg": 1.8468994703135497,
+    "energy_kcal": 1975.1,
+    "meals": [
+      {
+        "items": [
+          {
+            "food_code": "6906602",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Sugar",
+            "grams": 5.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "7901602",
+            "food_group": "Dairy products",
+            "food_name": "Margarine, salted or unsalted",
+            "grams": 28.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "8000101",
+            "food_group": "Bread and baked goods",
+            "food_name": "Brazilian white bread roll",
+            "grams": 140.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8501303",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee with milk",
+            "grams": 50.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Breakfast"
+      },
+      {
+        "items": [],
+        "position": "Morning snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6300113",
+            "food_group": "Cereals and pulses",
+            "food_name": "White rice",
+            "grams": 135.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6303102",
+            "food_group": "Cereals and pulses",
+            "food_name": "Beans (black, brown or other varieties)",
+            "grams": 140.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6501401",
+            "food_group": "Flours, starches and pasta",
+            "food_name": "Cassava flour",
+            "grams": 40.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6906602",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Sugar",
+            "grams": 20.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "7800303",
+            "food_group": "Poultry and eggs",
+            "food_name": "Chicken pieces",
+            "grams": 110.0,
+            "preparation_code": "8"
+          },
+          {
+            "food_code": "8201004",
+            "food_group": "Nonalcoholic beverages and infusions",
+            "food_name": "Mineral water, unspecified",
+            "grams": 2000.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8217001",
+            "food_group": "Nonalcoholic beverages and infusions",
+            "food_name": "Fresh fruit juice",
+            "grams": 200.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8510601",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Lettuce, tomato and onion salad",
+            "grams": 80.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Lunch"
+      },
+      {
+        "items": [],
+        "position": "Afternoon snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6801001",
+            "food_group": "Fruit",
+            "food_name": "Plantain",
+            "grams": 100.0,
+            "preparation_code": "3"
+          },
+          {
+            "food_code": "6906602",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Sugar",
+            "grams": 5.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "7901602",
+            "food_group": "Dairy products",
+            "food_name": "Margarine, salted or unsalted",
+            "grams": 14.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "8000101",
+            "food_group": "Bread and baked goods",
+            "food_name": "Brazilian white bread roll",
+            "grams": 70.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8201004",
+            "food_group": "Nonalcoholic beverages and infusions",
+            "food_name": "Mineral water, unspecified",
+            "grams": 500.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8501303",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee with milk",
+            "grams": 50.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Dinner"
+      },
+      {
+        "items": [],
+        "position": "Supper"
+      }
+    ],
+    "observed_day_id": "e0e6a4cede0235052512c322",
+    "profile_id": "F60",
+    "retained_day_index": 177,
+    "water_l": 1897.5415047877195
+  },
+  {
+    "all_targets_attained": 0,
+    "attained_targets": 10,
+    "attainment_percent": 75.41700330867567,
+    "carbon_kg": 1.3848078372936508,
+    "energy_kcal": 1815.03,
+    "meals": [
+      {
+        "items": [
+          {
+            "food_code": "6906602",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Sugar",
+            "grams": 5.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "7901602",
+            "food_group": "Dairy products",
+            "food_name": "Margarine, salted or unsalted",
+            "grams": 14.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "8000101",
+            "food_group": "Bread and baked goods",
+            "food_name": "Brazilian white bread roll",
+            "grams": 70.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8501302",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee",
+            "grams": 50.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Breakfast"
+      },
+      {
+        "items": [
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 240.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Morning snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6300101",
+            "food_group": "Cereals and pulses",
+            "food_name": "Rice (polished, parboiled or long-grain)",
+            "grams": 180.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6303102",
+            "food_group": "Cereals and pulses",
+            "food_name": "Beans (black, brown or other varieties)",
+            "grams": 140.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6503401",
+            "food_group": "Flours, starches and pasta",
+            "food_name": "Pasta",
+            "grams": 105.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6906602",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Sugar",
+            "grams": 24.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "7800302",
+            "food_group": "Poultry and eggs",
+            "food_name": "Chicken pieces",
+            "grams": 55.0,
+            "preparation_code": "1"
+          },
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 240.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8500401",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Juice, unspecified",
+            "grams": 240.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Lunch"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6906602",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Sugar",
+            "grams": 5.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "7901602",
+            "food_group": "Dairy products",
+            "food_name": "Margarine, salted or unsalted",
+            "grams": 14.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "8000101",
+            "food_group": "Bread and baked goods",
+            "food_name": "Brazilian white bread roll",
+            "grams": 70.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 240.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8501302",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee",
+            "grams": 50.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Afternoon snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6300101",
+            "food_group": "Cereals and pulses",
+            "food_name": "Rice (polished, parboiled or long-grain)",
+            "grams": 135.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6303102",
+            "food_group": "Cereals and pulses",
+            "food_name": "Beans (black, brown or other varieties)",
+            "grams": 140.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "7800302",
+            "food_group": "Poultry and eggs",
+            "food_name": "Chicken pieces",
+            "grams": 55.0,
+            "preparation_code": "1"
+          },
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 480.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Dinner"
+      },
+      {
+        "items": [],
+        "position": "Supper"
+      }
+    ],
+    "observed_day_id": "acc91259bd2df67945dac106",
+    "profile_id": "F60",
+    "retained_day_index": 195,
+    "water_l": 1785.646523545169
+  },
+  {
+    "all_targets_attained": 0,
+    "attained_targets": 7,
+    "attainment_percent": 70.19886286276534,
+    "carbon_kg": 12.137013835088576,
+    "energy_kcal": 1879.94,
+    "meals": [
+      {
+        "items": [],
+        "position": "Breakfast"
+      },
+      {
+        "items": [],
+        "position": "Morning snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6300113",
+            "food_group": "Cereals and pulses",
+            "food_name": "White rice",
+            "grams": 45.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "7109101",
+            "food_group": "Meat and offal",
+            "food_name": "Beef, unspecified cut",
+            "grams": 70.0,
+            "preparation_code": "1"
+          },
+          {
+            "food_code": "7800304",
+            "food_group": "Poultry and eggs",
+            "food_name": "Chicken pieces",
+            "grams": 110.0,
+            "preparation_code": "1"
+          },
+          {
+            "food_code": "8200102",
+            "food_group": "Nonalcoholic beverages and infusions",
+            "food_name": "Regular Coca-Cola",
+            "grams": 200.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8500802",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Vegetable salad with mayonnaise",
+            "grams": 140.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8510601",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Lettuce, tomato and onion salad",
+            "grams": 80.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Lunch"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6901301",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Fruit preserved in syrup",
+            "grams": 357.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8500202",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Filled fried pastry",
+            "grams": 64.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Afternoon snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6300113",
+            "food_group": "Cereals and pulses",
+            "food_name": "White rice",
+            "grams": 45.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "7109101",
+            "food_group": "Meat and offal",
+            "food_name": "Beef, unspecified cut",
+            "grams": 140.0,
+            "preparation_code": "1"
+          },
+          {
+            "food_code": "8300101",
+            "food_group": "Alcoholic beverages",
+            "food_name": "Beer, with or without alcohol",
+            "grams": 400.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8510601",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Lettuce, tomato and onion salad",
+            "grams": 160.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Dinner"
+      },
+      {
+        "items": [
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 400.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Supper"
+      }
+    ],
+    "observed_day_id": "1518a054496d8f699314e42e",
+    "profile_id": "F60",
+    "retained_day_index": 208,
+    "water_l": 8343.606753056543
+  },
+  {
+    "all_targets_attained": 0,
+    "attained_targets": 12,
+    "attainment_percent": 77.88262668925276,
+    "carbon_kg": 14.861006152988388,
+    "energy_kcal": 1841.85,
+    "meals": [
+      {
+        "items": [
+          {
+            "food_code": "6906602",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Sugar",
+            "grams": 20.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "7901602",
+            "food_group": "Dairy products",
+            "food_name": "Margarine, salted or unsalted",
+            "grams": 7.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "8002225",
+            "food_group": "Bread and baked goods",
+            "food_name": "Savory crackers",
+            "grams": 35.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8501302",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee",
+            "grams": 200.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Breakfast"
+      },
+      {
+        "items": [
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 400.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8273902",
+            "food_group": "Nonalcoholic beverages and infusions",
+            "food_name": "Coffee with flour",
+            "grams": 200.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Morning snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 200.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8504501",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Soup, unspecified ingredients",
+            "grams": 520.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Lunch"
+      },
+      {
+        "items": [
+          {
+            "food_code": "8273902",
+            "food_group": "Nonalcoholic beverages and infusions",
+            "food_name": "Coffee with flour",
+            "grams": 200.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Afternoon snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "8504501",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Soup, unspecified ingredients",
+            "grams": 520.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Dinner"
+      },
+      {
+        "items": [
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 400.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Supper"
+      }
+    ],
+    "observed_day_id": "8ec5ac2b63de39be24665f68",
+    "profile_id": "F60",
+    "retained_day_index": 211,
+    "water_l": 9611.079429733545
+  },
+  {
+    "all_targets_attained": 0,
+    "attained_targets": 9,
+    "attainment_percent": 70.81171416031421,
+    "carbon_kg": 10.395713359031506,
+    "energy_kcal": 1838.28,
+    "meals": [
+      {
+        "items": [
+          {
+            "food_code": "6801001",
+            "food_group": "Fruit",
+            "food_name": "Plantain",
+            "grams": 100.0,
+            "preparation_code": "3"
+          },
+          {
+            "food_code": "6906602",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Sugar",
+            "grams": 5.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "8501303",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee with milk",
+            "grams": 50.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Breakfast"
+      },
+      {
+        "items": [
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 200.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Morning snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6300113",
+            "food_group": "Cereals and pulses",
+            "food_name": "White rice",
+            "grams": 135.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6303102",
+            "food_group": "Cereals and pulses",
+            "food_name": "Beans (black, brown or other varieties)",
+            "grams": 140.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6501401",
+            "food_group": "Flours, starches and pasta",
+            "food_name": "Cassava flour",
+            "grams": 32.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6906602",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Sugar",
+            "grams": 20.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "7102801",
+            "food_group": "Meat and offal",
+            "food_name": "Oxtail",
+            "grams": 80.0,
+            "preparation_code": "2"
+          },
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 200.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8500402",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Pineapple juice",
+            "grams": 200.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8510601",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Lettuce, tomato and onion salad",
+            "grams": 30.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Lunch"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6906602",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Sugar",
+            "grams": 5.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "7902901",
+            "food_group": "Dairy products",
+            "food_name": "Cream cheese spread",
+            "grams": 30.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 400.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8501303",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee with milk",
+            "grams": 50.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Afternoon snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "7079202",
+            "food_group": "Salt and condiments",
+            "food_name": "Tomato-onion vinaigrette",
+            "grams": 90.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "7109101",
+            "food_group": "Meat and offal",
+            "food_name": "Beef, unspecified cut",
+            "grams": 140.0,
+            "preparation_code": "1"
+          },
+          {
+            "food_code": "8200101",
+            "food_group": "Nonalcoholic beverages and infusions",
+            "food_name": "Regular cola",
+            "grams": 200.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 200.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8502201",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Toasted cassava-flour dish (farofa)",
+            "grams": 45.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Dinner"
+      },
+      {
+        "items": [
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 200.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Supper"
+      }
+    ],
+    "observed_day_id": "e7daa71827297eb8df7dbedc",
+    "profile_id": "F60",
+    "retained_day_index": 220,
+    "water_l": 7187.644171083719
+  },
+  {
+    "all_targets_attained": 0,
+    "attained_targets": 12,
+    "attainment_percent": 78.17691710297963,
+    "carbon_kg": 1.8933238792988434,
+    "energy_kcal": 1973.5420000000001,
+    "meals": [
+      {
+        "items": [
+          {
+            "food_code": "6906602",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Sugar",
+            "grams": 20.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "7901602",
+            "food_group": "Dairy products",
+            "food_name": "Margarine, salted or unsalted",
+            "grams": 14.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "8000101",
+            "food_group": "Bread and baked goods",
+            "food_name": "Brazilian white bread roll",
+            "grams": 70.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8501303",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee with milk",
+            "grams": 200.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Breakfast"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6801101",
+            "food_group": "Fruit",
+            "food_name": "Banana, unspecified variety",
+            "grams": 337.8,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Morning snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6300101",
+            "food_group": "Cereals and pulses",
+            "food_name": "Rice (polished, parboiled or long-grain)",
+            "grams": 125.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6303102",
+            "food_group": "Cereals and pulses",
+            "food_name": "Beans (black, brown or other varieties)",
+            "grams": 50.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6501401",
+            "food_group": "Flours, starches and pasta",
+            "food_name": "Cassava flour",
+            "grams": 40.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6906602",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Sugar",
+            "grams": 30.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "7800302",
+            "food_group": "Poultry and eggs",
+            "food_name": "Chicken pieces",
+            "grams": 110.0,
+            "preparation_code": "3"
+          },
+          {
+            "food_code": "8500406",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Guava juice",
+            "grams": 300.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8511701",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Mixed vegetable and leaf salad",
+            "grams": 34.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Lunch"
+      },
+      {
+        "items": [],
+        "position": "Afternoon snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6300101",
+            "food_group": "Cereals and pulses",
+            "food_name": "Rice (polished, parboiled or long-grain)",
+            "grams": 125.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6303102",
+            "food_group": "Cereals and pulses",
+            "food_name": "Beans (black, brown or other varieties)",
+            "grams": 50.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "7800302",
+            "food_group": "Poultry and eggs",
+            "food_name": "Chicken pieces",
+            "grams": 55.0,
+            "preparation_code": "3"
+          },
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 2000.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Dinner"
+      },
+      {
+        "items": [],
+        "position": "Supper"
+      }
+    ],
+    "observed_day_id": "495a863dc861afbfcf0b6740",
+    "profile_id": "F60",
+    "retained_day_index": 221,
+    "water_l": 2490.156577164722
+  },
+  {
+    "all_targets_attained": 0,
+    "attained_targets": 10,
+    "attainment_percent": 81.30296176393368,
+    "carbon_kg": 6.445717270624673,
+    "energy_kcal": 1904.28,
+    "meals": [
+      {
+        "items": [
+          {
+            "food_code": "6801101",
+            "food_group": "Fruit",
+            "food_name": "Banana, unspecified variety",
+            "grams": 75.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6901602",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Honey",
+            "grams": 9.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6901602",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Honey",
+            "grams": 7.5,
+            "preparation_code": null
+          },
+          {
+            "food_code": "7903201",
+            "food_group": "Dairy products",
+            "food_name": "Thick cream",
+            "grams": 18.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8002503",
+            "food_group": "Bread and baked goods",
+            "food_name": "Sweet crumb cake",
+            "grams": 140.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8501302",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee",
+            "grams": 200.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Breakfast"
+      },
+      {
+        "items": [],
+        "position": "Morning snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6303102",
+            "food_group": "Cereals and pulses",
+            "food_name": "Beans (black, brown or other varieties)",
+            "grams": 35.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6401101",
+            "food_group": "Roots and tubers",
+            "food_name": "Beetroot",
+            "grams": 40.0,
+            "preparation_code": "3"
+          },
+          {
+            "food_code": "6401201",
+            "food_group": "Roots and tubers",
+            "food_name": "Carrot",
+            "grams": 24.0,
+            "preparation_code": "4"
+          },
+          {
+            "food_code": "6573225",
+            "food_group": "Flours, starches and pasta",
+            "food_name": "Pasta with meat",
+            "grams": 100.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6700901",
+            "food_group": "Leafy and other vegetables",
+            "food_name": "Cabbage",
+            "grams": 20.0,
+            "preparation_code": "4"
+          },
+          {
+            "food_code": "6703306",
+            "food_group": "Leafy and other vegetables",
+            "food_name": "Pumpkin",
+            "grams": 50.0,
+            "preparation_code": "2"
+          },
+          {
+            "food_code": "6904203",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Milk-and-egg confection (ambrosia)",
+            "grams": 40.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "7112802",
+            "food_group": "Meat and offal",
+            "food_name": "Braised beef",
+            "grams": 105.0,
+            "preparation_code": "2"
+          },
+          {
+            "food_code": "8500407",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Orange juice",
+            "grams": 200.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8500802",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Vegetable salad with mayonnaise",
+            "grams": 76.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8505401",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Rice with mixed vegetables",
+            "grams": 45.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8579266",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Tapioca pearls in red wine",
+            "grams": 30.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Lunch"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6803901",
+            "food_group": "Fruit",
+            "food_name": "Grapes",
+            "grams": 170.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "7901701",
+            "food_group": "Dairy products",
+            "food_name": "Prato cheese",
+            "grams": 30.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8002503",
+            "food_group": "Bread and baked goods",
+            "food_name": "Sweet crumb cake",
+            "grams": 70.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 200.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8501303",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee with milk",
+            "grams": 300.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Afternoon snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6803401",
+            "food_group": "Fruit",
+            "food_name": "Watermelon",
+            "grams": 200.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Dinner"
+      },
+      {
+        "items": [
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 300.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Supper"
+      }
+    ],
+    "observed_day_id": "b1e71862ae0a1f261187435b",
+    "profile_id": "F60",
+    "retained_day_index": 235,
+    "water_l": 4563.9428737091475
+  },
+  {
+    "all_targets_attained": 0,
+    "attained_targets": 12,
+    "attainment_percent": 83.83055919033447,
+    "carbon_kg": 5.26954034410957,
+    "energy_kcal": 1938.73,
+    "meals": [
+      {
+        "items": [
+          {
+            "food_code": "6901801",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Artificial sweetener",
+            "grams": 1.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "8500363",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Cheese sandwich",
+            "grams": 100.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8501303",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee with milk",
+            "grams": 75.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Breakfast"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6801101",
+            "food_group": "Fruit",
+            "food_name": "Banana, unspecified variety",
+            "grams": 75.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Morning snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6300113",
+            "food_group": "Cereals and pulses",
+            "food_name": "White rice",
+            "grams": 75.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6303102",
+            "food_group": "Cereals and pulses",
+            "food_name": "Beans (black, brown or other varieties)",
+            "grams": 140.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "7108902",
+            "food_group": "Meat and offal",
+            "food_name": "Beef steak",
+            "grams": 90.0,
+            "preparation_code": "1"
+          }
+        ],
+        "position": "Lunch"
+      },
+      {
+        "items": [],
+        "position": "Afternoon snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6400401",
+            "food_group": "Roots and tubers",
+            "food_name": "Sweet potatoes",
+            "grams": 355.0,
+            "preparation_code": "3"
+          },
+          {
+            "food_code": "6901801",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Artificial sweetener",
+            "grams": 1.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "6902901",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Brazilian corn couscous",
+            "grams": 24.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "7901602",
+            "food_group": "Dairy products",
+            "food_name": "Margarine, salted or unsalted",
+            "grams": 85.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "8000101",
+            "food_group": "Bread and baked goods",
+            "food_name": "Brazilian white bread roll",
+            "grams": 70.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8501302",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee",
+            "grams": 75.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Dinner"
+      },
+      {
+        "items": [
+          {
+            "food_code": "8201004",
+            "food_group": "Nonalcoholic beverages and infusions",
+            "food_name": "Mineral water, unspecified",
+            "grams": 1500.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Supper"
+      }
+    ],
+    "observed_day_id": "f7c256ba3ccad7e0de4341e3",
+    "profile_id": "F60",
+    "retained_day_index": 236,
+    "water_l": 3914.387660701345
+  },
+  {
+    "all_targets_attained": 0,
+    "attained_targets": 14,
+    "attainment_percent": 83.25096824257224,
+    "carbon_kg": 5.918133929384221,
+    "energy_kcal": 1822.9,
+    "meals": [
+      {
+        "items": [
+          {
+            "food_code": "7901602",
+            "food_group": "Dairy products",
+            "food_name": "Margarine, salted or unsalted",
+            "grams": 14.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "8000101",
+            "food_group": "Bread and baked goods",
+            "food_name": "Brazilian white bread roll",
+            "grams": 70.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8501303",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee with milk",
+            "grams": 150.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Breakfast"
+      },
+      {
+        "items": [
+          {
+            "food_code": "8201004",
+            "food_group": "Nonalcoholic beverages and infusions",
+            "food_name": "Mineral water, unspecified",
+            "grams": 300.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Morning snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6300113",
+            "food_group": "Cereals and pulses",
+            "food_name": "White rice",
+            "grams": 90.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6303102",
+            "food_group": "Cereals and pulses",
+            "food_name": "Beans (black, brown or other varieties)",
+            "grams": 280.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "7400101",
+            "food_group": "Fish and seafood",
+            "food_name": "Freshwater fish, unspecified species",
+            "grams": 270.0,
+            "preparation_code": "7"
+          },
+          {
+            "food_code": "8201004",
+            "food_group": "Nonalcoholic beverages and infusions",
+            "food_name": "Mineral water, unspecified",
+            "grams": 300.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Lunch"
+      },
+      {
+        "items": [
+          {
+            "food_code": "8002334",
+            "food_group": "Bread and baked goods",
+            "food_name": "Sweet biscuits",
+            "grams": 30.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8202402",
+            "food_group": "Nonalcoholic beverages and infusions",
+            "food_name": "Powdered fruit drink (Q-Suco)",
+            "grams": 300.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Afternoon snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6300113",
+            "food_group": "Cereals and pulses",
+            "food_name": "White rice",
+            "grams": 90.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6303102",
+            "food_group": "Cereals and pulses",
+            "food_name": "Beans (black, brown or other varieties)",
+            "grams": 280.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "7109101",
+            "food_group": "Meat and offal",
+            "food_name": "Beef, unspecified cut",
+            "grams": 70.0,
+            "preparation_code": "2"
+          },
+          {
+            "food_code": "8201004",
+            "food_group": "Nonalcoholic beverages and infusions",
+            "food_name": "Mineral water, unspecified",
+            "grams": 200.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Dinner"
+      },
+      {
+        "items": [
+          {
+            "food_code": "8201004",
+            "food_group": "Nonalcoholic beverages and infusions",
+            "food_name": "Mineral water, unspecified",
+            "grams": 300.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Supper"
+      }
+    ],
+    "observed_day_id": "e0fa7da124478e2c787bd535",
+    "profile_id": "F60",
+    "retained_day_index": 241,
+    "water_l": 6596.932537141862
+  },
+  {
+    "all_targets_attained": 0,
+    "attained_targets": 15,
+    "attainment_percent": 78.52259925686074,
+    "carbon_kg": 2.760064013593952,
+    "energy_kcal": 1832.98,
+    "meals": [
+      {
+        "items": [
+          {
+            "food_code": "6902901",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Brazilian corn couscous",
+            "grams": 135.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6906602",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Sugar",
+            "grams": 30.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 300.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8501303",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee with milk",
+            "grams": 300.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Breakfast"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6906602",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Sugar",
+            "grams": 30.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "8002225",
+            "food_group": "Bread and baked goods",
+            "food_name": "Savory crackers",
+            "grams": 10.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 300.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8501303",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee with milk",
+            "grams": 300.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Morning snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6300101",
+            "food_group": "Cereals and pulses",
+            "food_name": "Rice (polished, parboiled or long-grain)",
+            "grams": 90.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6303102",
+            "food_group": "Cereals and pulses",
+            "food_name": "Beans (black, brown or other varieties)",
+            "grams": 140.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6501401",
+            "food_group": "Flours, starches and pasta",
+            "food_name": "Cassava flour",
+            "grams": 16.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "7104102",
+            "food_group": "Meat and offal",
+            "food_name": "Pork, unspecified cut",
+            "grams": 93.5,
+            "preparation_code": "1"
+          },
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 300.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Lunch"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6906602",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Sugar",
+            "grams": 30.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "8002225",
+            "food_group": "Bread and baked goods",
+            "food_name": "Savory crackers",
+            "grams": 10.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8501302",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee",
+            "grams": 300.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Afternoon snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6300101",
+            "food_group": "Cereals and pulses",
+            "food_name": "Rice (polished, parboiled or long-grain)",
+            "grams": 90.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6303102",
+            "food_group": "Cereals and pulses",
+            "food_name": "Beans (black, brown or other varieties)",
+            "grams": 140.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "7104102",
+            "food_group": "Meat and offal",
+            "food_name": "Pork, unspecified cut",
+            "grams": 93.5,
+            "preparation_code": "1"
+          }
+        ],
+        "position": "Dinner"
+      },
+      {
+        "items": [
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 300.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Supper"
+      }
+    ],
+    "observed_day_id": "4d9e72f11309de4c7550aead",
+    "profile_id": "F60",
+    "retained_day_index": 247,
+    "water_l": 3717.32633384359
+  },
+  {
+    "all_targets_attained": 0,
+    "attained_targets": 12,
+    "attainment_percent": 75.71731766446807,
+    "carbon_kg": 1.6822411159780748,
+    "energy_kcal": 1830.3000000000002,
+    "meals": [
+      {
+        "items": [
+          {
+            "food_code": "8202804",
+            "food_group": "Nonalcoholic beverages and infusions",
+            "food_name": "Hot mate infusion",
+            "grams": 1440.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Breakfast"
+      },
+      {
+        "items": [
+          {
+            "food_code": "8216601",
+            "food_group": "Nonalcoholic beverages and infusions",
+            "food_name": "Lemonade",
+            "grams": 900.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Morning snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6300101",
+            "food_group": "Cereals and pulses",
+            "food_name": "Rice (polished, parboiled or long-grain)",
+            "grams": 225.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6303102",
+            "food_group": "Cereals and pulses",
+            "food_name": "Beans (black, brown or other varieties)",
+            "grams": 280.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "7800503",
+            "food_group": "Poultry and eggs",
+            "food_name": "Chicken leg or thigh",
+            "grams": 100.0,
+            "preparation_code": "7"
+          },
+          {
+            "food_code": "8400101",
+            "food_group": "Oils and fats",
+            "food_name": "Olive oil",
+            "grams": 18.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "8500218",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Polenta",
+            "grams": 120.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8508401",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Raw vegetables or vegetable salad",
+            "grams": 90.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Lunch"
+      },
+      {
+        "items": [
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 300.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Afternoon snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6906602",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Sugar",
+            "grams": 20.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "7901602",
+            "food_group": "Dairy products",
+            "food_name": "Margarine, salted or unsalted",
+            "grams": 10.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "8000106",
+            "food_group": "Bread and baked goods",
+            "food_name": "Wheat bread",
+            "grams": 50.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8501303",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee with milk",
+            "grams": 200.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Dinner"
+      },
+      {
+        "items": [],
+        "position": "Supper"
+      }
+    ],
+    "observed_day_id": "68f034192b3a70f17a89db30",
+    "profile_id": "F60",
+    "retained_day_index": 255,
+    "water_l": 12438.82963709482
+  },
+  {
+    "all_targets_attained": 0,
+    "attained_targets": 10,
+    "attainment_percent": 76.99941750871271,
+    "carbon_kg": 14.22624794109501,
+    "energy_kcal": 1874.284,
+    "meals": [
+      {
+        "items": [
+          {
+            "food_code": "6902901",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Brazilian corn couscous",
+            "grams": 85.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8501303",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee with milk",
+            "grams": 50.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Breakfast"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6801101",
+            "food_group": "Fruit",
+            "food_name": "Banana, unspecified variety",
+            "grams": 75.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6803101",
+            "food_group": "Fruit",
+            "food_name": "Papaya",
+            "grams": 170.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 50.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Morning snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6300113",
+            "food_group": "Cereals and pulses",
+            "food_name": "White rice",
+            "grams": 50.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6303102",
+            "food_group": "Cereals and pulses",
+            "food_name": "Beans (black, brown or other varieties)",
+            "grams": 70.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6501401",
+            "food_group": "Flours, starches and pasta",
+            "food_name": "Cassava flour",
+            "grams": 42.3,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6703901",
+            "food_group": "Leafy and other vegetables",
+            "food_name": "Pumpkin",
+            "grams": 72.0,
+            "preparation_code": "3"
+          },
+          {
+            "food_code": "6704301",
+            "food_group": "Leafy and other vegetables",
+            "food_name": "West Indian gherkin",
+            "grams": 80.0,
+            "preparation_code": "3"
+          },
+          {
+            "food_code": "7109101",
+            "food_group": "Meat and offal",
+            "food_name": "Beef, unspecified cut",
+            "grams": 160.0,
+            "preparation_code": "7"
+          }
+        ],
+        "position": "Lunch"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6803401",
+            "food_group": "Fruit",
+            "food_name": "Watermelon",
+            "grams": 200.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 50.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Afternoon snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6300113",
+            "food_group": "Cereals and pulses",
+            "food_name": "White rice",
+            "grams": 50.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6303102",
+            "food_group": "Cereals and pulses",
+            "food_name": "Beans (black, brown or other varieties)",
+            "grams": 70.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6501401",
+            "food_group": "Flours, starches and pasta",
+            "food_name": "Cassava flour",
+            "grams": 42.3,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6703901",
+            "food_group": "Leafy and other vegetables",
+            "food_name": "Pumpkin",
+            "grams": 72.0,
+            "preparation_code": "3"
+          },
+          {
+            "food_code": "6704301",
+            "food_group": "Leafy and other vegetables",
+            "food_name": "West Indian gherkin",
+            "grams": 80.0,
+            "preparation_code": "3"
+          },
+          {
+            "food_code": "7109101",
+            "food_group": "Meat and offal",
+            "food_name": "Beef, unspecified cut",
+            "grams": 160.0,
+            "preparation_code": "7"
+          }
+        ],
+        "position": "Dinner"
+      },
+      {
+        "items": [
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 100.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8280201",
+            "food_group": "Nonalcoholic beverages and infusions",
+            "food_name": "Regional fruit juice (caja, mangaba or tapereba)",
+            "grams": 50.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Supper"
+      }
+    ],
+    "observed_day_id": "3d1016abcfcaa514bb220d51",
+    "profile_id": "F60",
+    "retained_day_index": 256,
+    "water_l": 9941.86202399542
+  },
+  {
+    "all_targets_attained": 0,
+    "attained_targets": 15,
+    "attainment_percent": 79.58893409090909,
+    "carbon_kg": 3.361315116861653,
+    "energy_kcal": 1909.93,
+    "meals": [
+      {
+        "items": [
+          {
+            "food_code": "6906602",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Sugar",
+            "grams": 20.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "7901602",
+            "food_group": "Dairy products",
+            "food_name": "Margarine, salted or unsalted",
+            "grams": 5.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "8000101",
+            "food_group": "Bread and baked goods",
+            "food_name": "Brazilian white bread roll",
+            "grams": 25.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8501303",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee with milk",
+            "grams": 200.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Breakfast"
+      },
+      {
+        "items": [
+          {
+            "food_code": "8201004",
+            "food_group": "Nonalcoholic beverages and infusions",
+            "food_name": "Mineral water, unspecified",
+            "grams": 200.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Morning snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6501401",
+            "food_group": "Flours, starches and pasta",
+            "food_name": "Cassava flour",
+            "grams": 99.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "7400101",
+            "food_group": "Fish and seafood",
+            "food_name": "Freshwater fish, unspecified species",
+            "grams": 300.0,
+            "preparation_code": "6"
+          }
+        ],
+        "position": "Lunch"
+      },
+      {
+        "items": [
+          {
+            "food_code": "8201004",
+            "food_group": "Nonalcoholic beverages and infusions",
+            "food_name": "Mineral water, unspecified",
+            "grams": 400.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8501302",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee",
+            "grams": 200.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Afternoon snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6300113",
+            "food_group": "Cereals and pulses",
+            "food_name": "White rice",
+            "grams": 135.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6303102",
+            "food_group": "Cereals and pulses",
+            "food_name": "Beans (black, brown or other varieties)",
+            "grams": 280.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6501401",
+            "food_group": "Flours, starches and pasta",
+            "food_name": "Cassava flour",
+            "grams": 48.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "7800302",
+            "food_group": "Poultry and eggs",
+            "food_name": "Chicken pieces",
+            "grams": 110.0,
+            "preparation_code": "2"
+          }
+        ],
+        "position": "Dinner"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6906602",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Sugar",
+            "grams": 20.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "8201004",
+            "food_group": "Nonalcoholic beverages and infusions",
+            "food_name": "Mineral water, unspecified",
+            "grams": 200.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8501302",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee",
+            "grams": 200.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Supper"
+      }
+    ],
+    "observed_day_id": "2f29528fc57490c606e4b9a5",
+    "profile_id": "F60",
+    "retained_day_index": 258,
+    "water_l": 1688.213340348846
+  },
+  {
+    "all_targets_attained": 0,
+    "attained_targets": 11,
+    "attainment_percent": 72.42369865995087,
+    "carbon_kg": 8.902298151909807,
+    "energy_kcal": 1983.05,
+    "meals": [
+      {
+        "items": [
+          {
+            "food_code": "6906602",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Sugar",
+            "grams": 5.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "8501303",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee with milk",
+            "grams": 50.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8570328",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Bread with butter",
+            "grams": 60.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Breakfast"
+      },
+      {
+        "items": [],
+        "position": "Morning snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "8102205",
+            "food_group": "Processed meat",
+            "food_name": "Calabresa sausage",
+            "grams": 60.0,
+            "preparation_code": "7"
+          },
+          {
+            "food_code": "8500606",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Lemon-lime drink",
+            "grams": 200.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8570107",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Rice and beans",
+            "grams": 380.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Lunch"
+      },
+      {
+        "items": [
+          {
+            "food_code": "8202805",
+            "food_group": "Nonalcoholic beverages and infusions",
+            "food_name": "Cold mate infusion",
+            "grams": 960.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Afternoon snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "8200102",
+            "food_group": "Nonalcoholic beverages and infusions",
+            "food_name": "Regular Coca-Cola",
+            "grams": 400.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8503801",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Grilled meat, unspecified",
+            "grams": 360.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Dinner"
+      },
+      {
+        "items": [],
+        "position": "Supper"
+      }
+    ],
+    "observed_day_id": "937ff15d15f6957b470288e1",
+    "profile_id": "F60",
+    "retained_day_index": 259,
+    "water_l": 14368.996844968573
+  },
+  {
+    "all_targets_attained": 0,
+    "attained_targets": 9,
+    "attainment_percent": 71.77262957555652,
+    "carbon_kg": 4.154112644973879,
+    "energy_kcal": 1868.9299999999998,
+    "meals": [
+      {
+        "items": [
+          {
+            "food_code": "6906602",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Sugar",
+            "grams": 5.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 480.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8501303",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee with milk",
+            "grams": 50.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8570329",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Bread with margarine",
+            "grams": 60.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Breakfast"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6906602",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Sugar",
+            "grams": 5.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 240.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8501302",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee",
+            "grams": 50.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8570329",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Bread with margarine",
+            "grams": 60.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Morning snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6300101",
+            "food_group": "Cereals and pulses",
+            "food_name": "Rice (polished, parboiled or long-grain)",
+            "grams": 90.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6303102",
+            "food_group": "Cereals and pulses",
+            "food_name": "Beans (black, brown or other varieties)",
+            "grams": 420.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8102205",
+            "food_group": "Processed meat",
+            "food_name": "Calabresa sausage",
+            "grams": 120.0,
+            "preparation_code": "1"
+          },
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 240.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Lunch"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6906602",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Sugar",
+            "grams": 5.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 720.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8501302",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee",
+            "grams": 50.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8570329",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Bread with margarine",
+            "grams": 60.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Afternoon snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6300101",
+            "food_group": "Cereals and pulses",
+            "food_name": "Rice (polished, parboiled or long-grain)",
+            "grams": 75.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 240.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8502202",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Toasted cassava flour with meat, sausage or bacon",
+            "grams": 57.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Dinner"
+      },
+      {
+        "items": [
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 240.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Supper"
+      }
+    ],
+    "observed_day_id": "9ebe1d533c27e27242dfe4a6",
+    "profile_id": "F60",
+    "retained_day_index": 260,
+    "water_l": 4189.6732414890885
+  },
+  {
+    "all_targets_attained": 0,
+    "attained_targets": 10,
+    "attainment_percent": 64.39194235676436,
+    "carbon_kg": 1.519896260519888,
+    "energy_kcal": 1894.2500000000002,
+    "meals": [
+      {
+        "items": [
+          {
+            "food_code": "6906602",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Sugar",
+            "grams": 5.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "7901602",
+            "food_group": "Dairy products",
+            "food_name": "Margarine, salted or unsalted",
+            "grams": 14.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "8000101",
+            "food_group": "Bread and baked goods",
+            "food_name": "Brazilian white bread roll",
+            "grams": 70.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8501302",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee",
+            "grams": 50.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Breakfast"
+      },
+      {
+        "items": [],
+        "position": "Morning snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6300113",
+            "food_group": "Cereals and pulses",
+            "food_name": "White rice",
+            "grams": 400.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6301603",
+            "food_group": "Cereals and pulses",
+            "food_name": "Cowpeas",
+            "grams": 140.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "7800302",
+            "food_group": "Poultry and eggs",
+            "food_name": "Chicken pieces",
+            "grams": 55.0,
+            "preparation_code": "2"
+          }
+        ],
+        "position": "Lunch"
+      },
+      {
+        "items": [],
+        "position": "Afternoon snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6300113",
+            "food_group": "Cereals and pulses",
+            "food_name": "White rice",
+            "grams": 400.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6301603",
+            "food_group": "Cereals and pulses",
+            "food_name": "Cowpeas",
+            "grams": 140.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "7800302",
+            "food_group": "Poultry and eggs",
+            "food_name": "Chicken pieces",
+            "grams": 55.0,
+            "preparation_code": "2"
+          },
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 2000.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Dinner"
+      },
+      {
+        "items": [],
+        "position": "Supper"
+      }
+    ],
+    "observed_day_id": "86c72f927c6469aeccbcdd92",
+    "profile_id": "F60",
+    "retained_day_index": 278,
+    "water_l": 1652.149078573932
+  },
+  {
+    "all_targets_attained": 0,
+    "attained_targets": 9,
+    "attainment_percent": 63.62901369185402,
+    "carbon_kg": 1.794286605876054,
+    "energy_kcal": 1856.7000000000003,
+    "meals": [
+      {
+        "items": [
+          {
+            "food_code": "7901602",
+            "food_group": "Dairy products",
+            "food_name": "Margarine, salted or unsalted",
+            "grams": 7.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "8001101",
+            "food_group": "Bread and baked goods",
+            "food_name": "Corn bread",
+            "grams": 35.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8501303",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee with milk",
+            "grams": 50.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Breakfast"
+      },
+      {
+        "items": [],
+        "position": "Morning snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6400601",
+            "food_group": "Roots and tubers",
+            "food_name": "Cassava",
+            "grams": 160.0,
+            "preparation_code": "7"
+          },
+          {
+            "food_code": "6700901",
+            "food_group": "Leafy and other vegetables",
+            "food_name": "Cabbage",
+            "grams": 72.0,
+            "preparation_code": "4"
+          },
+          {
+            "food_code": "8202804",
+            "food_group": "Nonalcoholic beverages and infusions",
+            "food_name": "Hot mate infusion",
+            "grams": 3000.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 1000.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8570107",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Rice and beans",
+            "grams": 190.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Lunch"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6801001",
+            "food_group": "Fruit",
+            "food_name": "Plantain",
+            "grams": 100.0,
+            "preparation_code": "4"
+          },
+          {
+            "food_code": "6803001",
+            "food_group": "Fruit",
+            "food_name": "Apple",
+            "grams": 150.0,
+            "preparation_code": "4"
+          }
+        ],
+        "position": "Afternoon snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6400601",
+            "food_group": "Roots and tubers",
+            "food_name": "Cassava",
+            "grams": 160.0,
+            "preparation_code": "7"
+          },
+          {
+            "food_code": "6704001",
+            "food_group": "Leafy and other vegetables",
+            "food_name": "Cucumber",
+            "grams": 36.0,
+            "preparation_code": "4"
+          },
+          {
+            "food_code": "8570107",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Rice and beans",
+            "grams": 190.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Dinner"
+      },
+      {
+        "items": [],
+        "position": "Supper"
+      }
+    ],
+    "observed_day_id": "7d0ba1fefa3adfbf7e7fbe41",
+    "profile_id": "F60",
+    "retained_day_index": 286,
+    "water_l": 23295.303201730672
+  },
+  {
+    "all_targets_attained": 0,
+    "attained_targets": 9,
+    "attainment_percent": 79.32723463454899,
+    "carbon_kg": 2.751076130707941,
+    "energy_kcal": 1844.68,
+    "meals": [
+      {
+        "items": [
+          {
+            "food_code": "7901701",
+            "food_group": "Dairy products",
+            "food_name": "Prato cheese",
+            "grams": 30.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "7903102",
+            "food_group": "Dairy products",
+            "food_name": "Chocolate milk drink",
+            "grams": 300.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 300.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Breakfast"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6803001",
+            "food_group": "Fruit",
+            "food_name": "Apple",
+            "grams": 150.0,
+            "preparation_code": "4"
+          }
+        ],
+        "position": "Morning snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6300113",
+            "food_group": "Cereals and pulses",
+            "food_name": "White rice",
+            "grams": 250.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6303102",
+            "food_group": "Cereals and pulses",
+            "food_name": "Beans (black, brown or other varieties)",
+            "grams": 51.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6705101",
+            "food_group": "Leafy and other vegetables",
+            "food_name": "Tomato",
+            "grams": 50.0,
+            "preparation_code": "4"
+          },
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 300.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Lunch"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6900610",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Jelly candy",
+            "grams": 30.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 300.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Afternoon snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6300113",
+            "food_group": "Cereals and pulses",
+            "food_name": "White rice",
+            "grams": 250.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6303102",
+            "food_group": "Cereals and pulses",
+            "food_name": "Beans (black, brown or other varieties)",
+            "grams": 51.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "7800302",
+            "food_group": "Poultry and eggs",
+            "food_name": "Chicken pieces",
+            "grams": 110.0,
+            "preparation_code": "1"
+          },
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 300.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Dinner"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6804401",
+            "food_group": "Fruit",
+            "food_name": "Cashew apple",
+            "grams": 450.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8200101",
+            "food_group": "Nonalcoholic beverages and infusions",
+            "food_name": "Regular cola",
+            "grams": 300.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Supper"
+      }
+    ],
+    "observed_day_id": "5fbbbb6e8ca877bb19daafa6",
+    "profile_id": "F60",
+    "retained_day_index": 299,
+    "water_l": 6944.208466193989
+  },
+  {
+    "all_targets_attained": 0,
+    "attained_targets": 13,
+    "attainment_percent": 77.11712021409984,
+    "carbon_kg": 3.003104158949746,
+    "energy_kcal": 1830.4850000000001,
+    "meals": [
+      {
+        "items": [
+          {
+            "food_code": "6901801",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Artificial sweetener",
+            "grams": 1.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "8501302",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee",
+            "grams": 100.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8502204",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Toasted cassava flour with eggs",
+            "grams": 38.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Breakfast"
+      },
+      {
+        "items": [],
+        "position": "Morning snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6300113",
+            "food_group": "Cereals and pulses",
+            "food_name": "White rice",
+            "grams": 135.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6303102",
+            "food_group": "Cereals and pulses",
+            "food_name": "Beans (black, brown or other varieties)",
+            "grams": 280.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6704301",
+            "food_group": "Leafy and other vegetables",
+            "food_name": "West Indian gherkin",
+            "grams": 130.0,
+            "preparation_code": "3"
+          },
+          {
+            "food_code": "7104101",
+            "food_group": "Meat and offal",
+            "food_name": "Pork, unspecified cut",
+            "grams": 93.5,
+            "preparation_code": "2"
+          },
+          {
+            "food_code": "7800301",
+            "food_group": "Poultry and eggs",
+            "food_name": "Chicken, unspecified part",
+            "grams": 110.0,
+            "preparation_code": "7"
+          },
+          {
+            "food_code": "8201004",
+            "food_group": "Nonalcoholic beverages and infusions",
+            "food_name": "Mineral water, unspecified",
+            "grams": 2000.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Lunch"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6901801",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Artificial sweetener",
+            "grams": 1.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "8002612",
+            "food_group": "Bread and baked goods",
+            "food_name": "Corn cake",
+            "grams": 60.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8500401",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Juice, unspecified",
+            "grams": 300.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Afternoon snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6300113",
+            "food_group": "Cereals and pulses",
+            "food_name": "White rice",
+            "grams": 90.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6303102",
+            "food_group": "Cereals and pulses",
+            "food_name": "Beans (black, brown or other varieties)",
+            "grams": 70.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "7800301",
+            "food_group": "Poultry and eggs",
+            "food_name": "Chicken, unspecified part",
+            "grams": 110.0,
+            "preparation_code": "7"
+          }
+        ],
+        "position": "Dinner"
+      },
+      {
+        "items": [],
+        "position": "Supper"
+      }
+    ],
+    "observed_day_id": "bd7955b71adde749895022bb",
+    "profile_id": "F60",
+    "retained_day_index": 300,
+    "water_l": 3722.9355084412628
+  },
+  {
+    "all_targets_attained": 0,
+    "attained_targets": 11,
+    "attainment_percent": 76.81452256371844,
+    "carbon_kg": 1.9093149304924106,
+    "energy_kcal": 1856.3000000000002,
+    "meals": [
+      {
+        "items": [
+          {
+            "food_code": "6906602",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Sugar",
+            "grams": 20.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "8501303",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee with milk",
+            "grams": 200.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8570328",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Bread with butter",
+            "grams": 60.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Breakfast"
+      },
+      {
+        "items": [
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 720.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Morning snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6300113",
+            "food_group": "Cereals and pulses",
+            "food_name": "White rice",
+            "grams": 50.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6501401",
+            "food_group": "Flours, starches and pasta",
+            "food_name": "Cassava flour",
+            "grams": 16.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6503401",
+            "food_group": "Flours, starches and pasta",
+            "food_name": "Pasta",
+            "grams": 105.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "7800302",
+            "food_group": "Poultry and eggs",
+            "food_name": "Chicken pieces",
+            "grams": 110.0,
+            "preparation_code": "2"
+          },
+          {
+            "food_code": "8200301",
+            "food_group": "Nonalcoholic beverages and infusions",
+            "food_name": "Regular guarana soda",
+            "grams": 240.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 240.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Lunch"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6906602",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Sugar",
+            "grams": 20.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 480.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8501303",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee with milk",
+            "grams": 200.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8570328",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Bread with butter",
+            "grams": 60.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Afternoon snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6500617",
+            "food_group": "Flours, starches and pasta",
+            "food_name": "Multicereal porridge (Neston)",
+            "grams": 230.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6906602",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Sugar",
+            "grams": 23.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 480.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Dinner"
+      },
+      {
+        "items": [
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 240.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Supper"
+      }
+    ],
+    "observed_day_id": "daaf2e469f6bc6cd67a7fe7e",
+    "profile_id": "F60",
+    "retained_day_index": 310,
+    "water_l": 1825.8850354652925
+  },
+  {
+    "all_targets_attained": 0,
+    "attained_targets": 12,
+    "attainment_percent": 77.24750387461174,
+    "carbon_kg": 9.64800024116327,
+    "energy_kcal": 1901.1,
+    "meals": [
+      {
+        "items": [
+          {
+            "food_code": "6906602",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Sugar",
+            "grams": 5.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "8501303",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee with milk",
+            "grams": 50.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8570330",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Bread with egg",
+            "grams": 100.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Breakfast"
+      },
+      {
+        "items": [],
+        "position": "Morning snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6300113",
+            "food_group": "Cereals and pulses",
+            "food_name": "White rice",
+            "grams": 90.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6301603",
+            "food_group": "Cereals and pulses",
+            "food_name": "Cowpeas",
+            "grams": 140.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6503401",
+            "food_group": "Flours, starches and pasta",
+            "food_name": "Pasta",
+            "grams": 50.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6906602",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Sugar",
+            "grams": 30.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "7105402",
+            "food_group": "Meat and offal",
+            "food_name": "Goat meat",
+            "grams": 210.0,
+            "preparation_code": "3"
+          },
+          {
+            "food_code": "8500401",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Juice, unspecified",
+            "grams": 300.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8511201",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Vegetable salad",
+            "grams": 55.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Lunch"
+      },
+      {
+        "items": [],
+        "position": "Afternoon snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6300113",
+            "food_group": "Cereals and pulses",
+            "food_name": "White rice",
+            "grams": 135.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "7105402",
+            "food_group": "Meat and offal",
+            "food_name": "Goat meat",
+            "grams": 210.0,
+            "preparation_code": "3"
+          }
+        ],
+        "position": "Dinner"
+      },
+      {
+        "items": [],
+        "position": "Supper"
+      }
+    ],
+    "observed_day_id": "69c83f6fdb2b14425ff53e43",
+    "profile_id": "F60",
+    "retained_day_index": 318,
+    "water_l": 5572.271645342498
+  },
+  {
+    "all_targets_attained": 0,
+    "attained_targets": 2,
+    "attainment_percent": 59.25276991824076,
+    "carbon_kg": 3.777710893670961,
+    "energy_kcal": 1933.45,
+    "meals": [
+      {
+        "items": [
+          {
+            "food_code": "6901801",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Artificial sweetener",
+            "grams": 1.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "8501303",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee with milk",
+            "grams": 50.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8570329",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Bread with margarine",
+            "grams": 60.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Breakfast"
+      },
+      {
+        "items": [],
+        "position": "Morning snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6300101",
+            "food_group": "Cereals and pulses",
+            "food_name": "Rice (polished, parboiled or long-grain)",
+            "grams": 45.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6400101",
+            "food_group": "Roots and tubers",
+            "food_name": "Potatoes",
+            "grams": 280.0,
+            "preparation_code": "2"
+          },
+          {
+            "food_code": "6503401",
+            "food_group": "Flours, starches and pasta",
+            "food_name": "Pasta",
+            "grams": 105.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6700101",
+            "food_group": "Leafy and other vegetables",
+            "food_name": "Lettuce",
+            "grams": 20.0,
+            "preparation_code": "4"
+          },
+          {
+            "food_code": "6901801",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Artificial sweetener",
+            "grams": 1.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "7109101",
+            "food_group": "Meat and offal",
+            "food_name": "Beef, unspecified cut",
+            "grams": 70.0,
+            "preparation_code": "7"
+          },
+          {
+            "food_code": "8400101",
+            "food_group": "Oils and fats",
+            "food_name": "Olive oil",
+            "grams": 81.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "8500609",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Powdered fruit drink (Tang)",
+            "grams": 240.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Lunch"
+      },
+      {
+        "items": [],
+        "position": "Afternoon snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6901801",
+            "food_group": "Sugar and confectionery",
+            "food_name": "Artificial sweetener",
+            "grams": 1.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "8501303",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee with milk",
+            "grams": 50.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8570329",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Bread with margarine",
+            "grams": 60.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Dinner"
+      },
+      {
+        "items": [],
+        "position": "Supper"
+      }
+    ],
+    "observed_day_id": "b9127324509dc355bd207fad",
+    "profile_id": "F60",
+    "retained_day_index": 321,
+    "water_l": 6004.2830253921675
+  },
+  {
+    "all_targets_attained": 0,
+    "attained_targets": 13,
+    "attainment_percent": 81.3922443216868,
+    "carbon_kg": 8.427199050705493,
+    "energy_kcal": 1890.6000000000001,
+    "meals": [
+      {
+        "items": [
+          {
+            "food_code": "7901602",
+            "food_group": "Dairy products",
+            "food_name": "Margarine, salted or unsalted",
+            "grams": 20.0,
+            "preparation_code": null
+          },
+          {
+            "food_code": "8000107",
+            "food_group": "Bread and baked goods",
+            "food_name": "Brazilian white bread roll",
+            "grams": 100.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8501303",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee with milk",
+            "grams": 50.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Breakfast"
+      },
+      {
+        "items": [
+          {
+            "food_code": "8080101",
+            "food_group": "Bread and baked goods",
+            "food_name": "Tapioca pancake",
+            "grams": 70.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8500401",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Juice, unspecified",
+            "grams": 240.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Morning snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6300101",
+            "food_group": "Cereals and pulses",
+            "food_name": "Rice (polished, parboiled or long-grain)",
+            "grams": 90.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6303102",
+            "food_group": "Cereals and pulses",
+            "food_name": "Beans (black, brown or other varieties)",
+            "grams": 280.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6501401",
+            "food_group": "Flours, starches and pasta",
+            "food_name": "Cassava flour",
+            "grams": 80.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "7109101",
+            "food_group": "Meat and offal",
+            "food_name": "Beef, unspecified cut",
+            "grams": 70.0,
+            "preparation_code": "2"
+          }
+        ],
+        "position": "Lunch"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6500108",
+            "food_group": "Flours, starches and pasta",
+            "food_name": "Rice porridge",
+            "grams": 195.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 480.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Afternoon snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "8216301",
+            "food_group": "Tap water",
+            "food_name": "Tap water",
+            "grams": 240.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8504501",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Soup, unspecified ingredients",
+            "grams": 300.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Dinner"
+      },
+      {
+        "items": [],
+        "position": "Supper"
+      }
+    ],
+    "observed_day_id": "1bd6420e2843f9cd529e9b59",
+    "profile_id": "F60",
+    "retained_day_index": 325,
+    "water_l": 5976.8646874010155
+  },
+  {
+    "all_targets_attained": 0,
+    "attained_targets": 9,
+    "attainment_percent": 72.43072509911352,
+    "carbon_kg": 6.674459931613838,
+    "energy_kcal": 1946.35,
+    "meals": [
+      {
+        "items": [
+          {
+            "food_code": "8500302",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Hot dog",
+            "grams": 125.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "8501302",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Coffee",
+            "grams": 50.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Breakfast"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6801801",
+            "food_group": "Fruit",
+            "food_name": "Orange, unspecified variety",
+            "grams": 360.0,
+            "preparation_code": "99"
+          },
+          {
+            "food_code": "6803401",
+            "food_group": "Fruit",
+            "food_name": "Watermelon",
+            "grams": 400.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Morning snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "8579002",
+            "food_group": "Mixed dishes and other foods",
+            "food_name": "Rice with dried beef (carreteiro)",
+            "grams": 240.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Lunch"
+      },
+      {
+        "items": [
+          {
+            "food_code": "6801001",
+            "food_group": "Fruit",
+            "food_name": "Plantain",
+            "grams": 300.0,
+            "preparation_code": "4"
+          }
+        ],
+        "position": "Afternoon snack"
+      },
+      {
+        "items": [
+          {
+            "food_code": "8004603",
+            "food_group": "Bread and baked goods",
+            "food_name": "Plain cake",
+            "grams": 120.0,
+            "preparation_code": "99"
+          }
+        ],
+        "position": "Dinner"
+      },
+      {
+        "items": [],
+        "position": "Supper"
+      }
+    ],
+    "observed_day_id": "23ed3d4dacabf02fd0b9594a",
+    "profile_id": "F60",
+    "retained_day_index": 328,
+    "water_l": 6038.348477407688
+  }
+]

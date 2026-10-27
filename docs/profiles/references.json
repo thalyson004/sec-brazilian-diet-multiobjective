@@ -1,0 +1,98 @@
+{
+  "ibge2010anthropometry": {
+    "title": "Pesquisa de Orçamentos Familiares 2008-2009: Antropometria e estado nutricional de crianças, adolescentes e adultos no Brasil",
+    "year": 2010,
+    "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv45419.pdf",
+    "doi": null,
+    "decision_support": [
+      "National median heights in Table 1.1: males 171.6 cm (30-34), 168.2 cm (55-64); females 160.0 cm (30-34), 156.6 cm (55-64)."
+    ],
+    "limitations": [
+      "Historical age-band estimates, not anthropometry measured in POF 2017-2018."
+    ]
+  },
+  "brasil2004sisvan": {
+    "title": "Vigilância alimentar e nutricional - SISVAN: orientações básicas para a coleta, processamento, análise de dados e informação em serviços de saúde",
+    "year": 2004,
+    "url": "https://bvsms.saude.gov.br/bvs/publicacoes/orientacoes_basicas_sisvan.pdf",
+    "doi": null,
+    "decision_support": [
+      "Adult eutrophy at 18.5 <= BMI < 25; older-adult eutrophy at 22 < BMI < 27."
+    ],
+    "limitations": [
+      "These classifications justify choosing reference BMI 24; they do not recommend one optimum BMI or diagnose the survey respondents."
+    ]
+  },
+  "nases2023energy": {
+    "title": "Dietary Reference Intakes for Energy",
+    "year": 2023,
+    "url": "https://www.nationalacademies.org/publications/26818",
+    "doi": "10.17226/26818",
+    "decision_support": [
+      "Low-active adult EER equations, height in cm, mass in kg, age in years. Women: 575.77 - 7.01 age + 6.60 height + 12.14 weight. Men: 581.47 - 10.83 age + 8.30 height + 14.94 weight."
+    ],
+    "limitations": [
+      "Prediction equations developed for United States and Canada; low-active status is a study assumption and not observed POF activity."
+    ]
+  },
+  "healthcanada2025vitamins": {
+    "title": "Dietary reference intakes tables: Reference values for vitamins",
+    "year": 2025,
+    "url": "https://www.canada.ca/en/health-canada/services/food-nutrition/healthy-eating/dietary-reference-intakes/tables/reference-values-vitamins.html",
+    "doi": null,
+    "decision_support": [
+      "Sex/age RDA and total-intake UL values, including vitamin D 2011 revision. A is RAE, E alpha-tocopherol, niacin NE."
+    ],
+    "limitations": [
+      "Official web tables are the cited source. The NASEM vitamin summary PDF is supporting material. Upper limits for preformed A, synthetic niacin and supplemental vitamin E cannot be imposed on total food values. Folate DFE correspondence in POF remains unresolved."
+    ]
+  },
+  "healthcanada2025elements": {
+    "title": "Dietary reference intakes tables: Reference values for elements",
+    "year": 2025,
+    "url": "https://www.canada.ca/en/health-canada/services/food-nutrition/healthy-eating/dietary-reference-intakes/tables/reference-values-elements.html",
+    "doi": null,
+    "decision_support": [
+      "Sex/age RDA and total-intake UL for modeled minerals. Current potassium AI: women 2600 mg, men 3400 mg."
+    ],
+    "limitations": [
+      "Official web tables include 2019 potassium and 2011 calcium revisions. Older NASEM elements-summary PDF supports unchanged mineral definitions but is not used for potassium. Magnesium UL concerns supplements, not ordinary dietary magnesium."
+    ]
+  },
+  "healthcanada2025macronutrients": {
+    "title": "Dietary reference intakes tables: Reference values for macronutrients",
+    "year": 2025,
+    "url": "https://www.canada.ca/en/health-canada/services/food-nutrition/healthy-eating/dietary-reference-intakes/tables/reference-values-macronutrients.html",
+    "doi": null,
+    "decision_support": [
+      "Protein RDA 0.8 g/kg/day and AMDR 10-35% energy; total-fat AMDR 20-35%; sex/age fiber AI."
+    ],
+    "limitations": [
+      "Official Health Canada tables are cross-checked against the supporting NASEM macronutrient PDF. Digestible carbohydrate is not separately identified by POF."
+    ]
+  },
+  "who2023fatsupdate": {
+    "title": "WHO updates guidelines on fats and carbohydrates",
+    "year": 2023,
+    "url": "https://www.who.int/news/item/17-07-2023-who-updates-guidelines-on-fats-and-carbohydrates",
+    "doi": null,
+    "decision_support": [
+      "Total fat <=30% energy; saturated fat <=10%; trans fat <=1%; adults >=25 g/day naturally occurring dietary fiber."
+    ],
+    "limitations": [
+      "An official summary is used for these explicit numeric recommendations. Full guideline PDF retrieval returned non-PDF content."
+    ]
+  },
+  "who2012sodium": {
+    "title": "Guideline: sodium intake for adults and children",
+    "year": 2012,
+    "url": "https://www.who.int/publications/i/item/9789241504836/",
+    "doi": null,
+    "decision_support": [
+      "Adult sodium maximum 2000 mg/day, corroborated by the official WHO 2013 release."
+    ],
+    "limitations": [
+      "The full guideline PDF could not be retrieved as PDF. The endpoint is not mislabeled as a downloaded full text."
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "audit_date": "2026-10-01",
+  "cohort": {
+    "eligible_respondents_by_stratum": {
+      "age_19-39_sex_1": 6842,
+      "age_19-39_sex_2": 7975,
+      "age_40-59_sex_1": 5660,
+      "age_40-59_sex_2": 7004
+    },
+    "note": "The 24 days form an algorithm benchmark, not a probability sample for Brazilian population estimates. The manifest publishes no food or nutrient quantities.",
+    "ordered_filter_counts": {
+      "adult_19_to_59": 55329,
+      "all_environmental_coefficients_strictly_positive": 53632,
+      "all_occasion_codes_known": 48920,
+      "at_least_five_food_occasion_keys": 48323,
+      "at_least_two_occasions": 48736,
+      "matched_resident": 85018,
+      "one_eligible_day_per_respondent": 27481,
+      "person_days_with_records": 85018,
+      "positive_observed_energy": 48323
+    },
+    "selected_instances": [
+      {
+        "age_band": "19-39",
+        "day": 1,
+        "food_occasion_variables": 10,
+        "person_day_id": "42f590352d4c1f8217f16d9ee42b3d33",
+        "sex_code": "1"
+      },
+      {
+        "age_band": "19-39",
+        "day": 1,
+        "food_occasion_variables": 19,
+        "person_day_id": "ad36661d9afbf120cc769fceae268a3f",
+        "sex_code": "1"
+      },
+      {
+        "age_band": "19-39",
+        "day": 1,
+        "food_occasion_variables": 14,
+        "person_day_id": "63cfb32ef2ecd47ba9f2f9f502e97c71",
+        "sex_code": "1"
+      },
+      {
+        "age_band": "19-39",
+        "day": 1,
+        "food_occasion_variables": 10,
+        "person_day_id": "2d50c82227b48aabcd311a7469f72576",
+        "sex_code": "1"
+      },
+      {
+        "age_band": "19-39",
+        "day": 1,
+        "food_occasion_variables": 13,
+        "person_day_id": "357cf4216eee35adb4068eb241e65054",
+        "sex_code": "1"
+      },
+      {
+        "age_band": "19-39",
+        "day": 1,
+        "food_occasion_variables": 14,
+        "person_day_id": "40ee609f61ff45c22874b9f2b8e5440d",
+        "sex_code": "1"
+      },
+      {
+        "age_band": "19-39",
+        "day": 1,
+        "food_occasion_variables": 11,
+        "person_day_id": "79da618ad6c74bc45a8ebcfabd2ef815",
+        "sex_code": "2"
+      },
+      {
+        "age_band": "19-39",
+        "day": 1,
+        "food_occasion_variables": 8,
+        "person_day_id": "cceb84c4572547048b0542150e634673",
+        "sex_code": "2"
+      },
+      {
+        "age_band": "19-39",
+        "day": 1,
+        "food_occasion_variables": 9,
+        "person_day_id": "45ff408708d8c1a522381894a341491d",
+        "sex_code": "2"
+      },
+      {
+        "age_band": "19-39",
+        "day": 1,
+        "food_occasion_variables": 5,
+        "person_day_id": "b668bd91cca11a3e8fdc8c6590e93f38",
+        "sex_code": "2"
+      },
+      {
+        "age_band": "19-39",
+        "day": 1,
+        "food_occasion_variables": 14,
+        "person_day_id": "275467328b07c47ea8950285eb15c668",
+        "sex_code": "2"
+      },
+      {
+        "age_band": "19-39",
+        "day": 1,
+        "food_occasion_variables": 13,
+        "person_day_id": "26472cbc1d6e63b0b096673adc8f8369",
+        "sex_code": "2"
+      },
+      {
+        "age_band": "40-59",
+        "day": 1,
+        "food_occasion_variables": 13,
+        "person_day_id": "f4994db70a70ab6687b0ecde426b71ab",
+        "sex_code": "1"
+      },
+      {
+        "age_band": "40-59",
+        "day": 1,
+        "food_occasion_variables": 14,
+        "person_day_id": "bb7a9fe4617d144d97fd29098c533612",
+        "sex_code": "1"
+      },
+      {
+        "age_band": "40-59",
+        "day": 1,
+        "food_occasion_variables": 11,
+        "person_day_id": "a785518205d6fb8ea980bf45c67a270f",
+        "sex_code": "1"
+      },
+      {
+        "age_band": "40-59",
+        "day": 1,
+        "food_occasion_variables": 7,
+        "person_day_id": "697617513df52c6ca8c4b4c0eaf67a4a",
+        "sex_code": "1"
+      },
+      {
+        "age_band": "40-59",
+        "day": 1,
+        "food_occasion_variables": 11,
+        "person_day_id": "6518e1ad624f7445dcf80a43b86fdb7c",
+        "sex_code": "1"
+      },
+      {
+        "age_band": "40-59",
+        "day": 1,
+        "food_occasion_variables": 12,
+        "person_day_id": "712cf8ddf1177184bec2ba753553d9ab",
+        "sex_code": "1"
+      },
+      {
+        "age_band": "40-59",
+        "day": 1,
+        "food_occasion_variables": 11,
+        "person_day_id": "3068e5f71a197e94a09b923b82d1b811",
+        "sex_code": "2"
+      },
+      {
+        "age_band": "40-59",
+        "day": 1,
+        "food_occasion_variables": 18,
+        "person_day_id": "1a2df08db95d9ab137365b02d5b84424",
+        "sex_code": "2"
+      },
+      {
+        "age_band": "40-59",
+        "day": 1,
+        "food_occasion_variables": 9,
+        "person_day_id": "5ca3eaf00fc178ae5c5261b5fc5d978d",
+        "sex_code": "2"
+      },
+      {
+        "age_band": "40-59",
+        "day": 1,
+        "food_occasion_variables": 14,
+        "person_day_id": "682ac1804d4e40d9b3dffb833b2f6b13",
+        "sex_code": "2"
+      },
+      {
+        "age_band": "40-59",
+        "day": 1,
+        "food_occasion_variables": 9,
+        "person_day_id": "58c55d38a52155a08fa59d846519d039",
+        "sex_code": "2"
+      },
+      {
+        "age_band": "40-59",
+        "day": 1,
+        "food_occasion_variables": 8,
+        "person_day_id": "c38b5f0593d074cb38765381fedbb8fd",
+        "sex_code": "2"
+      }
+    ],
+    "selection": {
+      "environment": "Every optimized food line has strictly positive carbon and water coefficients; blank addition lines use the unique preparation-99 workbook row. Public tap water 8216301#99 is fixed outside the decision vector and excluded from the departure denominator. Its reported nutrient contribution remains in modeled daily totals.",
+      "minimum_variables": 5,
+      "observed_energy": "At least one positive ENERGIA_KCAL amount",
+      "occasions": "All occasion codes are 1-6, at least two distinct occasions",
+      "population": "POF respondents aged 19-59 with sex code 1 or 2 in MORADOR.txt",
+      "repeated_days": "First eligible QUADRO in code order, 72 then 73, per respondent",
+      "sampling": "Six lowest SHA-256 ranks of sec2026-benchmark-v1| plus the six-part source key in each sex-by-age stratum",
+      "strata": [
+        "age 19-39, sex 1",
+        "age 19-39, sex 2",
+        "age 40-59, sex 1",
+        "age 40-59, sex 2"
+      ]
+    }
+  },
+  "consumption": {
+    "counts": {
+      "fixed_tap_water_records": 120011,
+      "fixed_tap_water_records_with_positive_reported_sodium": 120011,
+      "source_records": 1175390
+    },
+    "distinct_food_preparation_keys_including_blank_additions": 2545,
+    "food_preparation_keys_with_multiple_tbca_identifiers": 0,
+    "note": "Per-100-g consistency is checked within POF food/preparation keys using recorded absolute amounts divided by grams. A five-percent difference is a diagnostic threshold, not an imputation rule. No coefficient values are exported.",
+    "nutrient_coefficient_consistency": {
+      "ENERGIA_KCAL": {
+        "keys_with_over_five_percent_per_100g_difference": 0,
+        "keys_with_zero_positive_disagreement": 0
+      },
+      "FIBRA": {
+        "keys_with_over_five_percent_per_100g_difference": 0,
+        "keys_with_zero_positive_disagreement": 0
+      },
+      "SODIO": {
+        "keys_with_over_five_percent_per_100g_difference": 0,
+        "keys_with_zero_positive_disagreement": 0
+      }
+    }
+  },
+  "environment": {
+    "blank_addition_foods_with_unique_positive_99_crosswalk": 1300,
+    "duplicate_food_preparation_keys": 0,
+    "fixed_tap_water_key": "8216301#99",
+    "positive_food_preparation_keys": 2643
+  },
+  "inputs": {
+    "footprints": {
+      "bytes": 626724,
+      "filename": "pegadas_alimentos.xlsx",
+      "sha256": "988040f8e9c668d823c41b0839132a3494b9a3ad6e5a4945e18757542b16d4af",
+      "source_url": "https://osf.io/download/fv3tx/"
+    },
+    "pof": {
+      "bytes": 146294013,
+      "filename": "Dados_20230713.zip",
+      "sha256": "f5b71f85452345e6e82caee15c70578c948981d8a8e5f99bd90ec60fac5b7932",
+      "source_url": "https://ftp.ibge.gov.br/Orcamentos_Familiares/Pesquisa_de_Orcamentos_Familiares_2017_2018/Microdados/Dados_20230713.zip"
+    }
+  },
+  "residents": {
+    "records": 178431
+  },
+  "schema_version": "1.0"
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "all23": 0,
+    "attained_targets": 19.41875,
+    "attainment_percent": 98.03538890328736,
+    "n": 480,
+    "profile_id": "F30",
+    "selection": "nutrition_max"
+  },
+  {
+    "all23": 0,
+    "attained_targets": 18.922916666666666,
+    "attainment_percent": 97.2347999849196,
+    "n": 480,
+    "profile_id": "F30",
+    "selection": "compromise"
+  },
+  {
+    "all23": 0,
+    "attained_targets": 18.683333333333334,
+    "attainment_percent": 96.95111848188803,
+    "n": 480,
+    "profile_id": "F30",
+    "selection": "departure_min"
+  },
+  {
+    "all23": 0,
+    "attained_targets": 19.410416666666666,
+    "attainment_percent": 98.33602463233034,
+    "n": 480,
+    "profile_id": "F60",
+    "selection": "nutrition_max"
+  },
+  {
+    "all23": 0,
+    "attained_targets": 19.045833333333334,
+    "attainment_percent": 97.97927055066087,
+    "n": 480,
+    "profile_id": "F60",
+    "selection": "compromise"
+  },
+  {
+    "all23": 0,
+    "attained_targets": 19.008333333333333,
+    "attainment_percent": 97.91646888789195,
+    "n": 480,
+    "profile_id": "F60",
+    "selection": "departure_min"
+  },
+  {
+    "all23": 291,
+    "attained_targets": 22.40625,
+    "attainment_percent": 99.82462610290183,
+    "n": 480,
+    "profile_id": "M30",
+    "selection": "nutrition_max"
+  },
+  {
+    "all23": 32,
+    "attained_targets": 21.454166666666666,
+    "attainment_percent": 99.08594797767974,
+    "n": 480,
+    "profile_id": "M30",
+    "selection": "compromise"
+  },
+  {
+    "all23": 30,
+    "attained_targets": 21.14375,
+    "attainment_percent": 98.63818569003016,
+    "n": 480,
+    "profile_id": "M30",
+    "selection": "departure_min"
+  },
+  {
+    "all23": 0,
+    "attained_targets": 20.114583333333332,
+    "attainment_percent": 98.48725333233051,
+    "n": 480,
+    "profile_id": "M60",
+    "selection": "nutrition_max"
+  },
+  {
+    "all23": 0,
+    "attained_targets": 18.8375,
+    "attainment_percent": 97.62857483869917,
+    "n": 480,
+    "profile_id": "M60",
+    "selection": "compromise"
+  },
+  {
+    "all23": 0,
+    "attained_targets": 18.991666666666667,
+    "attainment_percent": 97.69569050257968,
+    "n": 480,
+    "profile_id": "M60",
+    "selection": "departure_min"
+  },
+  {
+    "all23": 291,
+    "attained_targets": 20.3375,
+    "attainment_percent": 98.6708232427125,
+    "n": 1920,
+    "profile_id": "GLOBAL",
+    "selection": "nutrition_max"
+  },
+  {
+    "all23": 32,
+    "attained_targets": 19.565104166666668,
+    "attainment_percent": 97.98214833798984,
+    "n": 1920,
+    "profile_id": "GLOBAL",
+    "selection": "compromise"
+  },
+  {
+    "all23": 30,
+    "attained_targets": 19.456770833333334,
+    "attainment_percent": 97.80036589059745,
+    "n": 1920,
+    "profile_id": "GLOBAL",
+    "selection": "departure_min"
+  }
+]

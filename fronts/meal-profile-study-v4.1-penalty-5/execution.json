@@ -1,0 +1,15 @@
+{
+  "catalogue_sha256": "3f2983506cbf3d6a60acb58c1837554d7f8a6d6cef607c930e457cedf9dd29eb",
+  "code_revision": "b36df1b943a9f24b338656d006c720da1ff891f5",
+  "environment": {
+    "matplotlib": "3.11.2",
+    "numpy": "2.4.1",
+    "openpyxl": "3.1.5",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "pymoo": "0.6.1.6",
+    "python": "3.14.4",
+    "scipy": "1.17.0"
+  },
+  "instance_manifest_sha256": "11da93cbe44a381a897d379eb5874b5e35b5d81699ad223c99881d39b27e28b4",
+  "signature": "90ef22662db507698d2ec74d4699694e0acba68e5c777e1a61ed18d79a345ae5"
+}

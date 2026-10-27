@@ -1,0 +1,670 @@
+{
+  "footprint_checks": {
+    "blank_addition_foods_with_unique_positive_99_crosswalk": 1300,
+    "duplicate_food_preparation_keys": 0,
+    "fixed_tap_water_key": "8216301#99",
+    "positive_food_preparation_keys": 2643
+  },
+  "inputs": {
+    "catalogue": {
+      "bytes": 2839,
+      "filename": "catalogue.json",
+      "sha256": "c94c9093555d7948dd98a5223268dd36e21f9609f668f864b8c8a08e44db6cd9"
+    },
+    "footprints": {
+      "bytes": 626724,
+      "filename": "pegadas_alimentos.xlsx",
+      "sha256": "988040f8e9c668d823c41b0839132a3494b9a3ad6e5a4945e18757542b16d4af"
+    },
+    "pof": {
+      "bytes": 146294013,
+      "filename": "Dados_20230713.zip",
+      "sha256": "f5b71f85452345e6e82caee15c70578c948981d8a8e5f99bd90ec60fac5b7932"
+    }
+  },
+  "interpretation": "Numerical presence of nutrient values is not confirmation that every reported zero is a measured absence. This characterization does not define nutrient targets or run optimization.",
+  "profiles": [
+    {
+      "age_years": 30,
+      "eligible_days": 712,
+      "eligible_food_preparation_occasion_combinations": 1289,
+      "nutrient_record_status": {
+        "AGMONO": {
+          "missing_or_invalid": 0,
+          "positive": 7303,
+          "zero": 3556
+        },
+        "AGPOLI": {
+          "missing_or_invalid": 0,
+          "positive": 6813,
+          "zero": 4046
+        },
+        "AGSAT": {
+          "missing_or_invalid": 0,
+          "positive": 9144,
+          "zero": 1715
+        },
+        "AGTRANS": {
+          "missing_or_invalid": 0,
+          "positive": 5120,
+          "zero": 5739
+        },
+        "CALCIO": {
+          "missing_or_invalid": 0,
+          "positive": 10788,
+          "zero": 71
+        },
+        "CHOTOT": {
+          "missing_or_invalid": 0,
+          "positive": 8244,
+          "zero": 2615
+        },
+        "COBALAMINA": {
+          "missing_or_invalid": 0,
+          "positive": 2606,
+          "zero": 8253
+        },
+        "COBRE": {
+          "missing_or_invalid": 0,
+          "positive": 8155,
+          "zero": 2704
+        },
+        "COLEST": {
+          "missing_or_invalid": 0,
+          "positive": 2865,
+          "zero": 7994
+        },
+        "ENERGIA_KCAL": {
+          "missing_or_invalid": 0,
+          "positive": 9368,
+          "zero": 1491
+        },
+        "ENERGIA_KJ": {
+          "missing_or_invalid": 0,
+          "positive": 9370,
+          "zero": 1489
+        },
+        "FERRO": {
+          "missing_or_invalid": 0,
+          "positive": 8496,
+          "zero": 2363
+        },
+        "FIBRA": {
+          "missing_or_invalid": 0,
+          "positive": 5427,
+          "zero": 5432
+        },
+        "FOLATO": {
+          "missing_or_invalid": 0,
+          "positive": 7729,
+          "zero": 3130
+        },
+        "FOSFORO": {
+          "missing_or_invalid": 0,
+          "positive": 8113,
+          "zero": 2746
+        },
+        "LIP": {
+          "missing_or_invalid": 0,
+          "positive": 7985,
+          "zero": 2874
+        },
+        "MAGNESIO": {
+          "missing_or_invalid": 0,
+          "positive": 10380,
+          "zero": 479
+        },
+        "NIACINA": {
+          "missing_or_invalid": 0,
+          "positive": 4235,
+          "zero": 6624
+        },
+        "PIRIDOXAMINA": {
+          "missing_or_invalid": 0,
+          "positive": 4812,
+          "zero": 6047
+        },
+        "POTASSIO": {
+          "missing_or_invalid": 0,
+          "positive": 10856,
+          "zero": 3
+        },
+        "PTN": {
+          "missing_or_invalid": 0,
+          "positive": 8536,
+          "zero": 2323
+        },
+        "RIBOFLAVINA": {
+          "missing_or_invalid": 0,
+          "positive": 4705,
+          "zero": 6154
+        },
+        "SODIO": {
+          "missing_or_invalid": 0,
+          "positive": 10463,
+          "zero": 396
+        },
+        "TIAMINA": {
+          "missing_or_invalid": 0,
+          "positive": 5968,
+          "zero": 4891
+        },
+        "VITA_RAE": {
+          "missing_or_invalid": 0,
+          "positive": 4547,
+          "zero": 6312
+        },
+        "VITC": {
+          "missing_or_invalid": 0,
+          "positive": 4139,
+          "zero": 6720
+        },
+        "VITD": {
+          "missing_or_invalid": 0,
+          "positive": 1453,
+          "zero": 9406
+        },
+        "VITE": {
+          "missing_or_invalid": 0,
+          "positive": 7322,
+          "zero": 3537
+        },
+        "ZINCO": {
+          "missing_or_invalid": 0,
+          "positive": 6741,
+          "zero": 4118
+        }
+      },
+      "observed_days": 804,
+      "profile_id": "F30",
+      "residents_of_requested_age_and_sex": 1378,
+      "respondents_with_consumption": 438,
+      "respondents_with_eligible_days": 399,
+      "sex_code": "2"
+    },
+    {
+      "age_years": 60,
+      "eligible_days": 562,
+      "eligible_food_preparation_occasion_combinations": 1179,
+      "nutrient_record_status": {
+        "AGMONO": {
+          "missing_or_invalid": 0,
+          "positive": 5959,
+          "zero": 3105
+        },
+        "AGPOLI": {
+          "missing_or_invalid": 0,
+          "positive": 5609,
+          "zero": 3455
+        },
+        "AGSAT": {
+          "missing_or_invalid": 0,
+          "positive": 7645,
+          "zero": 1419
+        },
+        "AGTRANS": {
+          "missing_or_invalid": 0,
+          "positive": 3956,
+          "zero": 5108
+        },
+        "CALCIO": {
+          "missing_or_invalid": 0,
+          "positive": 8826,
+          "zero": 238
+        },
+        "CHOTOT": {
+          "missing_or_invalid": 0,
+          "positive": 6944,
+          "zero": 2120
+        },
+        "COBALAMINA": {
+          "missing_or_invalid": 0,
+          "positive": 2079,
+          "zero": 6985
+        },
+        "COBRE": {
+          "missing_or_invalid": 0,
+          "positive": 6821,
+          "zero": 2243
+        },
+        "COLEST": {
+          "missing_or_invalid": 0,
+          "positive": 2273,
+          "zero": 6791
+        },
+        "ENERGIA_KCAL": {
+          "missing_or_invalid": 0,
+          "positive": 7800,
+          "zero": 1264
+        },
+        "ENERGIA_KJ": {
+          "missing_or_invalid": 0,
+          "positive": 7801,
+          "zero": 1263
+        },
+        "FERRO": {
+          "missing_or_invalid": 0,
+          "positive": 7115,
+          "zero": 1949
+        },
+        "FIBRA": {
+          "missing_or_invalid": 0,
+          "positive": 4511,
+          "zero": 4553
+        },
+        "FOLATO": {
+          "missing_or_invalid": 0,
+          "positive": 6422,
+          "zero": 2642
+        },
+        "FOSFORO": {
+          "missing_or_invalid": 0,
+          "positive": 6713,
+          "zero": 2351
+        },
+        "LIP": {
+          "missing_or_invalid": 0,
+          "positive": 6653,
+          "zero": 2411
+        },
+        "MAGNESIO": {
+          "missing_or_invalid": 0,
+          "positive": 8538,
+          "zero": 526
+        },
+        "NIACINA": {
+          "missing_or_invalid": 0,
+          "positive": 3433,
+          "zero": 5631
+        },
+        "PIRIDOXAMINA": {
+          "missing_or_invalid": 0,
+          "positive": 4012,
+          "zero": 5052
+        },
+        "POTASSIO": {
+          "missing_or_invalid": 0,
+          "positive": 9063,
+          "zero": 1
+        },
+        "PTN": {
+          "missing_or_invalid": 0,
+          "positive": 6970,
+          "zero": 2094
+        },
+        "RIBOFLAVINA": {
+          "missing_or_invalid": 0,
+          "positive": 3929,
+          "zero": 5135
+        },
+        "SODIO": {
+          "missing_or_invalid": 0,
+          "positive": 8699,
+          "zero": 365
+        },
+        "TIAMINA": {
+          "missing_or_invalid": 0,
+          "positive": 4994,
+          "zero": 4070
+        },
+        "VITA_RAE": {
+          "missing_or_invalid": 0,
+          "positive": 3966,
+          "zero": 5098
+        },
+        "VITC": {
+          "missing_or_invalid": 0,
+          "positive": 3424,
+          "zero": 5640
+        },
+        "VITD": {
+          "missing_or_invalid": 0,
+          "positive": 1060,
+          "zero": 8004
+        },
+        "VITE": {
+          "missing_or_invalid": 0,
+          "positive": 6115,
+          "zero": 2949
+        },
+        "ZINCO": {
+          "missing_or_invalid": 0,
+          "positive": 5794,
+          "zero": 3270
+        }
+      },
+      "observed_days": 638,
+      "profile_id": "F60",
+      "residents_of_requested_age_and_sex": 1011,
+      "respondents_with_consumption": 344,
+      "respondents_with_eligible_days": 315,
+      "sex_code": "2"
+    },
+    {
+      "age_years": 30,
+      "eligible_days": 550,
+      "eligible_food_preparation_occasion_combinations": 1098,
+      "nutrient_record_status": {
+        "AGMONO": {
+          "missing_or_invalid": 0,
+          "positive": 5954,
+          "zero": 2953
+        },
+        "AGPOLI": {
+          "missing_or_invalid": 0,
+          "positive": 5395,
+          "zero": 3512
+        },
+        "AGSAT": {
+          "missing_or_invalid": 0,
+          "positive": 7502,
+          "zero": 1405
+        },
+        "AGTRANS": {
+          "missing_or_invalid": 0,
+          "positive": 4227,
+          "zero": 4680
+        },
+        "CALCIO": {
+          "missing_or_invalid": 0,
+          "positive": 8873,
+          "zero": 34
+        },
+        "CHOTOT": {
+          "missing_or_invalid": 0,
+          "positive": 6628,
+          "zero": 2279
+        },
+        "COBALAMINA": {
+          "missing_or_invalid": 0,
+          "positive": 2016,
+          "zero": 6891
+        },
+        "COBRE": {
+          "missing_or_invalid": 0,
+          "positive": 6678,
+          "zero": 2229
+        },
+        "COLEST": {
+          "missing_or_invalid": 0,
+          "positive": 2281,
+          "zero": 6626
+        },
+        "ENERGIA_KCAL": {
+          "missing_or_invalid": 0,
+          "positive": 7553,
+          "zero": 1354
+        },
+        "ENERGIA_KJ": {
+          "missing_or_invalid": 0,
+          "positive": 7553,
+          "zero": 1354
+        },
+        "FERRO": {
+          "missing_or_invalid": 0,
+          "positive": 6728,
+          "zero": 2179
+        },
+        "FIBRA": {
+          "missing_or_invalid": 0,
+          "positive": 4412,
+          "zero": 4495
+        },
+        "FOLATO": {
+          "missing_or_invalid": 0,
+          "positive": 6182,
+          "zero": 2725
+        },
+        "FOSFORO": {
+          "missing_or_invalid": 0,
+          "positive": 6571,
+          "zero": 2336
+        },
+        "LIP": {
+          "missing_or_invalid": 0,
+          "positive": 6418,
+          "zero": 2489
+        },
+        "MAGNESIO": {
+          "missing_or_invalid": 0,
+          "positive": 8510,
+          "zero": 397
+        },
+        "NIACINA": {
+          "missing_or_invalid": 0,
+          "positive": 3372,
+          "zero": 5535
+        },
+        "PIRIDOXAMINA": {
+          "missing_or_invalid": 0,
+          "positive": 3952,
+          "zero": 4955
+        },
+        "POTASSIO": {
+          "missing_or_invalid": 0,
+          "positive": 8901,
+          "zero": 6
+        },
+        "PTN": {
+          "missing_or_invalid": 0,
+          "positive": 6987,
+          "zero": 1920
+        },
+        "RIBOFLAVINA": {
+          "missing_or_invalid": 0,
+          "positive": 3631,
+          "zero": 5276
+        },
+        "SODIO": {
+          "missing_or_invalid": 0,
+          "positive": 8612,
+          "zero": 295
+        },
+        "TIAMINA": {
+          "missing_or_invalid": 0,
+          "positive": 4799,
+          "zero": 4108
+        },
+        "VITA_RAE": {
+          "missing_or_invalid": 0,
+          "positive": 3539,
+          "zero": 5368
+        },
+        "VITC": {
+          "missing_or_invalid": 0,
+          "positive": 3368,
+          "zero": 5539
+        },
+        "VITD": {
+          "missing_or_invalid": 0,
+          "positive": 1149,
+          "zero": 7758
+        },
+        "VITE": {
+          "missing_or_invalid": 0,
+          "positive": 5887,
+          "zero": 3020
+        },
+        "ZINCO": {
+          "missing_or_invalid": 0,
+          "positive": 5375,
+          "zero": 3532
+        }
+      },
+      "observed_days": 637,
+      "profile_id": "M30",
+      "residents_of_requested_age_and_sex": 1325,
+      "respondents_with_consumption": 353,
+      "respondents_with_eligible_days": 315,
+      "sex_code": "1"
+    },
+    {
+      "age_years": 60,
+      "eligible_days": 401,
+      "eligible_food_preparation_occasion_combinations": 964,
+      "nutrient_record_status": {
+        "AGMONO": {
+          "missing_or_invalid": 0,
+          "positive": 4346,
+          "zero": 2141
+        },
+        "AGPOLI": {
+          "missing_or_invalid": 0,
+          "positive": 4001,
+          "zero": 2486
+        },
+        "AGSAT": {
+          "missing_or_invalid": 0,
+          "positive": 5479,
+          "zero": 1008
+        },
+        "AGTRANS": {
+          "missing_or_invalid": 0,
+          "positive": 2976,
+          "zero": 3511
+        },
+        "CALCIO": {
+          "missing_or_invalid": 0,
+          "positive": 6391,
+          "zero": 96
+        },
+        "CHOTOT": {
+          "missing_or_invalid": 0,
+          "positive": 4935,
+          "zero": 1552
+        },
+        "COBALAMINA": {
+          "missing_or_invalid": 0,
+          "positive": 1422,
+          "zero": 5065
+        },
+        "COBRE": {
+          "missing_or_invalid": 0,
+          "positive": 4884,
+          "zero": 1603
+        },
+        "COLEST": {
+          "missing_or_invalid": 0,
+          "positive": 1538,
+          "zero": 4949
+        },
+        "ENERGIA_KCAL": {
+          "missing_or_invalid": 0,
+          "positive": 5594,
+          "zero": 893
+        },
+        "ENERGIA_KJ": {
+          "missing_or_invalid": 0,
+          "positive": 5594,
+          "zero": 893
+        },
+        "FERRO": {
+          "missing_or_invalid": 0,
+          "positive": 4961,
+          "zero": 1526
+        },
+        "FIBRA": {
+          "missing_or_invalid": 0,
+          "positive": 3212,
+          "zero": 3275
+        },
+        "FOLATO": {
+          "missing_or_invalid": 0,
+          "positive": 4686,
+          "zero": 1801
+        },
+        "FOSFORO": {
+          "missing_or_invalid": 0,
+          "positive": 4896,
+          "zero": 1591
+        },
+        "LIP": {
+          "missing_or_invalid": 0,
+          "positive": 4783,
+          "zero": 1704
+        },
+        "MAGNESIO": {
+          "missing_or_invalid": 0,
+          "positive": 6173,
+          "zero": 314
+        },
+        "NIACINA": {
+          "missing_or_invalid": 0,
+          "positive": 2436,
+          "zero": 4051
+        },
+        "PIRIDOXAMINA": {
+          "missing_or_invalid": 0,
+          "positive": 2923,
+          "zero": 3564
+        },
+        "POTASSIO": {
+          "missing_or_invalid": 0,
+          "positive": 6480,
+          "zero": 7
+        },
+        "PTN": {
+          "missing_or_invalid": 0,
+          "positive": 5056,
+          "zero": 1431
+        },
+        "RIBOFLAVINA": {
+          "missing_or_invalid": 0,
+          "positive": 2776,
+          "zero": 3711
+        },
+        "SODIO": {
+          "missing_or_invalid": 0,
+          "positive": 6256,
+          "zero": 231
+        },
+        "TIAMINA": {
+          "missing_or_invalid": 0,
+          "positive": 3637,
+          "zero": 2850
+        },
+        "VITA_RAE": {
+          "missing_or_invalid": 0,
+          "positive": 2748,
+          "zero": 3739
+        },
+        "VITC": {
+          "missing_or_invalid": 0,
+          "positive": 2523,
+          "zero": 3964
+        },
+        "VITD": {
+          "missing_or_invalid": 0,
+          "positive": 900,
+          "zero": 5587
+        },
+        "VITE": {
+          "missing_or_invalid": 0,
+          "positive": 4457,
+          "zero": 2030
+        },
+        "ZINCO": {
+          "missing_or_invalid": 0,
+          "positive": 4055,
+          "zero": 2432
+        }
+      },
+      "observed_days": 462,
+      "profile_id": "M60",
+      "residents_of_requested_age_and_sex": 897,
+      "respondents_with_consumption": 252,
+      "respondents_with_eligible_days": 226,
+      "sex_code": "1"
+    }
+  ],
+  "resident_checks": {
+    "records": 178431
+  },
+  "schema_version": "1.0",
+  "selection": "Exact age and recorded sex. Counts include both recorded days; eligible respondents count each person once. No age-band widening or anthropometric imputation.",
+  "source_counts": {
+    "rows_in_requested_profiles": 35317,
+    "source_consumption_rows": 1175390
+  },
+  "study_id": "sec2026-pof-profiles-v2"
+}

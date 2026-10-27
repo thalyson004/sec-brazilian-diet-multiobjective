@@ -1,0 +1,34 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sec-brazilian-diet-multiobjective"
+version = "0.1.0"
+description = "Reproducible multiobjective diet benchmark based on POF 2017-2018"
+readme = "README.md"
+requires-python = ">=3.11"
+license = {file = "LICENSE"}
+dependencies = ["openpyxl==3.1.5"]
+
+[project.scripts]
+sec-data-validation = "sec_diet.source_checks:main"
+sec-diet-extract = "sec_diet.extract:main"
+sec-cohort-validation = "sec_diet.cohort:main"
+sec-plan-matrix = "sec_diet.plan:main"
+sec-build-instances = "sec_diet.instances:main"
+sec-run = "sec_diet.runner:main"
+sec-check-results = "sec_diet.check:main"
+sec-analyze = "sec_diet.analysis:main"
+sec-analyze-secondary = "sec_diet.secondary:main"
+sec-render-analysis = "sec_diet.presentation:main"
+sec-analyze-fronts = "sec_diet.front_analysis:main"
+sec-describe-profiles = "sec_diet.profiles:main"
+sec-profile-study = "sec_diet.profile_pipeline:main"
+
+[project.optional-dependencies]
+experiment = ["pymoo==0.6.1.6", "numpy==2.4.1", "scipy==1.17.0"]
+figures = ["matplotlib==3.11.2", "numpy==2.4.1"]
+
+[tool.setuptools.packages.find]
+where = ["src"]

@@ -1,0 +1,126 @@
+{
+  "eligible_weights": [
+    5.0,
+    10.0,
+    25.0,
+    50.0
+  ],
+  "outcomes_sha256": "e9d2dda8f8b6858994e27eea976c47f5f269b3f8dfffef769c30d458f7b9271e",
+  "protocol": {
+    "algorithms": [
+      "NSGA2",
+      "SPEA2",
+      "NSGA3",
+      "SMSEMOA"
+    ],
+    "evaluations": 3300,
+    "main_seeds": "separate main-study namespace; no calibration seeds reused",
+    "objective_subsets": [
+      "N,C",
+      "N,W",
+      "N,C,D"
+    ],
+    "profiles": [
+      "F30",
+      "F60",
+      "M30",
+      "M60"
+    ],
+    "replicates": 3,
+    "role": "exploratory calibration; no confirmatory p-values or population inference",
+    "schema_version": "4.1",
+    "seed_namespace": "sec2026-pof-meals-v4-penalty-calibration",
+    "selection_rule": "nearest unpenalized normalized origin among reporting-front points",
+    "spea2_constant_coordinate_guard": true,
+    "weight_rule": "eligible within 0.5 percentage point of best mean capped adequacy and 0.5 criterion of best mean attained count; minimize mean included non-N normalized objective among eligible weights; smallest weight breaks ties",
+    "weights": [
+      0.0,
+      1.0,
+      5.0,
+      10.0,
+      25.0,
+      50.0
+    ]
+  },
+  "provenance": {
+    "code_revision": "21be27a4264a809d191086cff969b88d7fc50d18",
+    "environment": {
+      "numpy": "2.4.1",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "pymoo": "0.6.1.6",
+      "python": "3.14.4",
+      "scipy": "1.17.0"
+    },
+    "prepared_manifest_sha256": "f6355817ef6ed813ff99d73b3cc5f60ee70f945fa7b2d678cad7a6be7f314e6b",
+    "protocol_sha256": "faa6facbbf38ea662a18ca3e276debceb93222ea4d4464a55243e1ef214c99f6"
+  },
+  "selected_weight": 5.0,
+  "summaries": [
+    {
+      "all_targets_fraction": 0.0,
+      "mean_adequacy_percent": 94.23555311921777,
+      "mean_attained_targets": 17.47222222222222,
+      "mean_carbon_kg": 2.904057406863529,
+      "mean_departure_percent": 199.74730764943024,
+      "mean_water_l": 3950.3311651449644,
+      "other_objective_mean": 0.03401022785749982,
+      "runs": 144,
+      "weight": 0.0
+    },
+    {
+      "all_targets_fraction": 0.0,
+      "mean_adequacy_percent": 95.51583297834185,
+      "mean_attained_targets": 17.9375,
+      "mean_carbon_kg": 3.0451680113038386,
+      "mean_departure_percent": 208.95054644673488,
+      "mean_water_l": 4856.03296336141,
+      "other_objective_mean": 0.03939612279814834,
+      "runs": 144,
+      "weight": 1.0
+    },
+    {
+      "all_targets_fraction": 0.006944444444444444,
+      "mean_adequacy_percent": 95.92366431040108,
+      "mean_attained_targets": 18.430555555555557,
+      "mean_carbon_kg": 4.1042216152411015,
+      "mean_departure_percent": 222.2791762930068,
+      "mean_water_l": 6225.367271281181,
+      "other_objective_mean": 0.05694187503002689,
+      "runs": 144,
+      "weight": 5.0
+    },
+    {
+      "all_targets_fraction": 0.0,
+      "mean_adequacy_percent": 96.12323485213136,
+      "mean_attained_targets": 18.65277777777778,
+      "mean_carbon_kg": 4.539464558663358,
+      "mean_departure_percent": 225.46270624826576,
+      "mean_water_l": 7722.096912133106,
+      "other_objective_mean": 0.07293781563957477,
+      "runs": 144,
+      "weight": 10.0
+    },
+    {
+      "all_targets_fraction": 0.0,
+      "mean_adequacy_percent": 96.24249341277421,
+      "mean_attained_targets": 18.72222222222222,
+      "mean_carbon_kg": 5.1050369727391125,
+      "mean_departure_percent": 229.42960145798466,
+      "mean_water_l": 7920.239531434436,
+      "other_objective_mean": 0.08241190537548684,
+      "runs": 144,
+      "weight": 25.0
+    },
+    {
+      "all_targets_fraction": 0.0,
+      "mean_adequacy_percent": 96.37356044615537,
+      "mean_attained_targets": 18.79861111111111,
+      "mean_carbon_kg": 5.441581662395673,
+      "mean_departure_percent": 229.9473856222403,
+      "mean_water_l": 8565.55577077609,
+      "other_objective_mean": 0.08926869339892943,
+      "runs": 144,
+      "weight": 50.0
+    }
+  ]
+}

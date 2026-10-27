@@ -1,0 +1,41 @@
+{
+  "profiles": [
+    {
+      "all_nutrient_goals_feasible_in_relaxation": true,
+      "interpretation": "Infeasibility rules out simultaneous strict target attainment by any whole-meal combination. Fractional feasibility does not prove existence of an admissible integer menu.",
+      "message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+      "profile_id": "F30",
+      "scope": "One fractional convex combination of observed meals per position; all energy and nutrient inequalities. Binary selection is relaxed.",
+      "solver": "scipy.optimize.linprog/highs",
+      "status": 0
+    },
+    {
+      "all_nutrient_goals_feasible_in_relaxation": true,
+      "interpretation": "Infeasibility rules out simultaneous strict target attainment by any whole-meal combination. Fractional feasibility does not prove existence of an admissible integer menu.",
+      "message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+      "profile_id": "F60",
+      "scope": "One fractional convex combination of observed meals per position; all energy and nutrient inequalities. Binary selection is relaxed.",
+      "solver": "scipy.optimize.linprog/highs",
+      "status": 0
+    },
+    {
+      "all_nutrient_goals_feasible_in_relaxation": true,
+      "interpretation": "Infeasibility rules out simultaneous strict target attainment by any whole-meal combination. Fractional feasibility does not prove existence of an admissible integer menu.",
+      "message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+      "profile_id": "M30",
+      "scope": "One fractional convex combination of observed meals per position; all energy and nutrient inequalities. Binary selection is relaxed.",
+      "solver": "scipy.optimize.linprog/highs",
+      "status": 0
+    },
+    {
+      "all_nutrient_goals_feasible_in_relaxation": true,
+      "interpretation": "Infeasibility rules out simultaneous strict target attainment by any whole-meal combination. Fractional feasibility does not prove existence of an admissible integer menu.",
+      "message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+      "profile_id": "M60",
+      "scope": "One fractional convex combination of observed meals per position; all energy and nutrient inequalities. Binary selection is relaxed.",
+      "solver": "scipy.optimize.linprog/highs",
+      "status": 0
+    }
+  ],
+  "study_id": "sec2026-pof-meals-v3"
+}

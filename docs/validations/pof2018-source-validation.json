@@ -1,0 +1,230 @@
+{
+  "audit_date": "2026-10-01",
+  "consumption": {
+    "counts": {
+      "blank_preparation_rows": 168264,
+      "positive_quantity_rows": 1175390,
+      "records": 1175390,
+      "rows_with_all_embedded_nutrients_numeric": 1175390
+    },
+    "distinct_food_codes_with_blank_preparation": 12,
+    "distinct_food_preparation_keys_with_positive_quantity": 2534,
+    "embedded_nutrients": {
+      "fields": {
+        "AGMONO": {
+          "positive": 788068,
+          "zero": 387322
+        },
+        "AGPOLI": {
+          "positive": 731138,
+          "zero": 444252
+        },
+        "AGSAT": {
+          "positive": 991193,
+          "zero": 184197
+        },
+        "AGTRANS": {
+          "positive": 547928,
+          "zero": 627462
+        },
+        "CALCIO": {
+          "positive": 1163193,
+          "zero": 12197
+        },
+        "CHOTOT": {
+          "positive": 891035,
+          "zero": 284355
+        },
+        "COBALAMINA": {
+          "positive": 278565,
+          "zero": 896825
+        },
+        "COBRE": {
+          "positive": 888437,
+          "zero": 286953
+        },
+        "COLEST": {
+          "positive": 304979,
+          "zero": 870411
+        },
+        "ENERGIA_KCAL": {
+          "positive": 1009717,
+          "zero": 165673
+        },
+        "ENERGIA_KJ": {
+          "positive": 1009913,
+          "zero": 165477
+        },
+        "FERRO": {
+          "positive": 914273,
+          "zero": 261117
+        },
+        "FIBRA": {
+          "positive": 589858,
+          "zero": 585532
+        },
+        "FOLATO": {
+          "positive": 834354,
+          "zero": 341036
+        },
+        "FOSFORO": {
+          "positive": 877042,
+          "zero": 298348
+        },
+        "LIP": {
+          "positive": 863773,
+          "zero": 311617
+        },
+        "MAGNESIO": {
+          "positive": 1121150,
+          "zero": 54240
+        },
+        "NIACINA": {
+          "positive": 448397,
+          "zero": 726993
+        },
+        "PIRIDOXAMINA": {
+          "positive": 530121,
+          "zero": 645269
+        },
+        "POTASSIO": {
+          "positive": 1174953,
+          "zero": 437
+        },
+        "PTN": {
+          "positive": 921137,
+          "zero": 254253
+        },
+        "RIBOFLAVINA": {
+          "positive": 498655,
+          "zero": 676735
+        },
+        "SODIO": {
+          "positive": 1133149,
+          "zero": 42241
+        },
+        "TIAMINA": {
+          "positive": 646685,
+          "zero": 528705
+        },
+        "VITA_RAE": {
+          "positive": 494024,
+          "zero": 681366
+        },
+        "VITC": {
+          "positive": 453232,
+          "zero": 722158
+        },
+        "VITD": {
+          "positive": 155605,
+          "zero": 1019785
+        },
+        "VITE": {
+          "positive": 793348,
+          "zero": 382042
+        },
+        "ZINCO": {
+          "positive": 736455,
+          "zero": 438935
+        }
+      },
+      "note": "The IBGE dictionary warns that some zero nutrient values can mean near zero or not examined. Numeric coverage does not establish a valid coefficient for a candidate food or permission to redistribute TBCA-derived values. No nutrient amounts are exported.",
+      "source": "Absolute nutrient quantities in each IBGE CONSUMO_ALIMENTAR record, not independently verified per-100-g composition coefficients"
+    },
+    "person_days_with_records": 85018,
+    "quantity_diagnostics": {
+      "bins": {
+        "1000-5000 g": 28415,
+        "500-1000 g": 41018,
+        "<=500 g": 1105759,
+        ">5000 g": 198
+      },
+      "max_positive_g": 12000.0,
+      "min_positive_g": 0.008,
+      "note": "The 1000 g and 5000 g thresholds flag records for review; no records are excluded by them.",
+      "unit": "g per consumption record, as labeled in the IBGE dictionary"
+    },
+    "records_by_eating_occasion": {
+      "1": 255092,
+      "2": 353428,
+      "3": 158454,
+      "4": 239709,
+      "5": 10395,
+      "6": 130534,
+      "9": 27778
+    },
+    "records_by_quadro": {
+      "72": 644610,
+      "73": 530780
+    },
+    "respondents_with_records": 46164,
+    "selection": "All valid respondent-day records with positive numeric QTD are audited. No age, meal, or nutrient filter has been applied."
+  },
+  "footprints": {
+    "coefficient_units_per_100g": {
+      "carbon": "g CO2e",
+      "water": "L"
+    },
+    "counts": {
+      "carbon_positive_rows": 2700,
+      "carbon_zero_rows": 1,
+      "data_rows": 2701,
+      "water_positive_rows": 2643,
+      "water_zero_rows": 58
+    },
+    "coverage_of_positive_consumption_rows": {
+      "blank_addition_carbon_positive_records": 168264,
+      "blank_addition_codes_with_unique_99_crosswalk": 12,
+      "blank_addition_records_with_unique_99_crosswalk": 168264,
+      "blank_addition_water_positive_records": 168264,
+      "carbon_and_water_available_keys": 2484,
+      "carbon_and_water_available_records": 883923,
+      "carbon_positive_records": 886903,
+      "carbon_zero_records": 120011,
+      "incomplete_or_zero_coefficient_keys": 49,
+      "incomplete_or_zero_coefficient_records": 122991,
+      "unmatched_key_keys": 1,
+      "unmatched_key_records": 212,
+      "water_positive_records": 883923,
+      "water_zero_records": 122991
+    },
+    "note": "Blank preparation marks addition lines in the IBGE dictionary. The 99 crosswalk is reported separately and is possible only when that food has exactly one workbook preparation, 99. It is not silently applied to exact-key coverage. Zero, missing, and invalid coefficients remain distinct. No food-description matching is used.",
+    "person_day_coverage": {
+      "all_rows_both_numeric_including_zero": 84851,
+      "all_rows_both_strictly_positive": 36096,
+      "all_rows_carbon_numeric_including_zero": 84851,
+      "all_rows_water_numeric_including_zero": 84851,
+      "note": "Includes the documented blank-addition crosswalk. A zero coefficient is counted as numeric but still requires source-specific interpretation before optimization.",
+      "person_days": 85018
+    },
+    "sheet": "Tab_Preparacoes_100g_2018",
+    "unmatched_food_preparation_keys": [
+      "7800301#1"
+    ]
+  },
+  "inputs": {
+    "documentation": {
+      "bytes": 5203471,
+      "filename": "Documentacao_20230713.zip",
+      "sha256": "cbb075d2a8b986f0ddbe4800b09f972139d1d757dc3f3d373c76e9432048d755",
+      "source_url": "https://ftp.ibge.gov.br/Orcamentos_Familiares/Pesquisa_de_Orcamentos_Familiares_2017_2018/Microdados/Documentacao_20230713.zip"
+    },
+    "footprints": {
+      "bytes": 626724,
+      "filename": "pegadas_alimentos.xlsx",
+      "sha256": "988040f8e9c668d823c41b0839132a3494b9a3ad6e5a4945e18757542b16d4af",
+      "source_url": "https://osf.io/download/fv3tx/"
+    },
+    "pof": {
+      "bytes": 146294013,
+      "filename": "Dados_20230713.zip",
+      "sha256": "f5b71f85452345e6e82caee15c70578c948981d8a8e5f99bd90ec60fac5b7932",
+      "source_url": "https://ftp.ibge.gov.br/Orcamentos_Familiares/Pesquisa_de_Orcamentos_Familiares_2017_2018/Microdados/Dados_20230713.zip"
+    }
+  },
+  "nutrients": {
+    "note": "Nutrient linkage and its permission remain unresolved.",
+    "status": "not_supplied"
+  },
+  "schema_version": "1.0"
+}

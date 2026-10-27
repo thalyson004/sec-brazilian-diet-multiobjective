@@ -1,0 +1,657 @@
+{
+  "definition": "Original D of each energy-matched observed day relative to the full retained profile mean food/preparation/position vector; excludes tap water",
+  "generator_sha256": "531bda2e1170066c15b34fb0b50e713a8ea5a11fbb693b4428e6dcf936188350",
+  "rows": [
+    {
+      "departure_percent": 157.98318115165117,
+      "observed_day_id": "cd7b35ca6b6097053fe7e8ab",
+      "profile_id": "F30",
+      "retained_day_index": 12
+    },
+    {
+      "departure_percent": 173.1584373848019,
+      "observed_day_id": "b920d042cda01ff1be169d3a",
+      "profile_id": "F30",
+      "retained_day_index": 17
+    },
+    {
+      "departure_percent": 174.68659321942533,
+      "observed_day_id": "b2f7de85468e5dfd69987334",
+      "profile_id": "F30",
+      "retained_day_index": 19
+    },
+    {
+      "departure_percent": 159.3961593478068,
+      "observed_day_id": "65855ea9b765947b9231e6f3",
+      "profile_id": "F30",
+      "retained_day_index": 43
+    },
+    {
+      "departure_percent": 229.12718736778598,
+      "observed_day_id": "a5aa0289ec8a7f1b2ebce204",
+      "profile_id": "F30",
+      "retained_day_index": 44
+    },
+    {
+      "departure_percent": 194.42361085776238,
+      "observed_day_id": "6056080e5055e236c4d9aaef",
+      "profile_id": "F30",
+      "retained_day_index": 54
+    },
+    {
+      "departure_percent": 252.8552646839578,
+      "observed_day_id": "2df9405d9c96b6dfbb0abe93",
+      "profile_id": "F30",
+      "retained_day_index": 60
+    },
+    {
+      "departure_percent": 301.62769240151573,
+      "observed_day_id": "075a3acf9b1ad80ba1617afa",
+      "profile_id": "F30",
+      "retained_day_index": 92
+    },
+    {
+      "departure_percent": 170.4004223225453,
+      "observed_day_id": "ee78515c6348da94a5502984",
+      "profile_id": "F30",
+      "retained_day_index": 117
+    },
+    {
+      "departure_percent": 201.06355202881986,
+      "observed_day_id": "3cf288a47ec4bee4c3b27aaa",
+      "profile_id": "F30",
+      "retained_day_index": 133
+    },
+    {
+      "departure_percent": 159.6350362181332,
+      "observed_day_id": "e10d8f5333131a4df636f3f9",
+      "profile_id": "F30",
+      "retained_day_index": 142
+    },
+    {
+      "departure_percent": 148.35854508903023,
+      "observed_day_id": "4b7007551d78c78d16106600",
+      "profile_id": "F30",
+      "retained_day_index": 164
+    },
+    {
+      "departure_percent": 215.90796352431326,
+      "observed_day_id": "9dc155f05c244c61ee84d6ec",
+      "profile_id": "F30",
+      "retained_day_index": 172
+    },
+    {
+      "departure_percent": 173.9755846820411,
+      "observed_day_id": "0096c73c033c99575566d134",
+      "profile_id": "F30",
+      "retained_day_index": 177
+    },
+    {
+      "departure_percent": 247.8210585180268,
+      "observed_day_id": "cc730faab42eb219aa64902c",
+      "profile_id": "F30",
+      "retained_day_index": 180
+    },
+    {
+      "departure_percent": 165.5007307334397,
+      "observed_day_id": "0fa9cca15ad222f9fdb96446",
+      "profile_id": "F30",
+      "retained_day_index": 181
+    },
+    {
+      "departure_percent": 201.27840236186984,
+      "observed_day_id": "ee6a8a3d1021250078062361",
+      "profile_id": "F30",
+      "retained_day_index": 203
+    },
+    {
+      "departure_percent": 170.8212474632605,
+      "observed_day_id": "9ff9545660463d7d05ae196d",
+      "profile_id": "F30",
+      "retained_day_index": 218
+    },
+    {
+      "departure_percent": 142.0948336274599,
+      "observed_day_id": "d6dd2ad4d353131ecbc2edca",
+      "profile_id": "F30",
+      "retained_day_index": 327
+    },
+    {
+      "departure_percent": 161.5261765380115,
+      "observed_day_id": "f958427d6200442d5d2f00d8",
+      "profile_id": "F30",
+      "retained_day_index": 332
+    },
+    {
+      "departure_percent": 233.25186998607688,
+      "observed_day_id": "00d416a350d7c9f0b165f3a3",
+      "profile_id": "F30",
+      "retained_day_index": 345
+    },
+    {
+      "departure_percent": 170.21860337346197,
+      "observed_day_id": "7164a0216a0d79184e3afdb9",
+      "profile_id": "F30",
+      "retained_day_index": 347
+    },
+    {
+      "departure_percent": 148.30775584790942,
+      "observed_day_id": "9b3b9c716f43fc79de0caba0",
+      "profile_id": "F30",
+      "retained_day_index": 359
+    },
+    {
+      "departure_percent": 190.18935906182978,
+      "observed_day_id": "9f41bedd362ac1896eb05e71",
+      "profile_id": "F30",
+      "retained_day_index": 388
+    },
+    {
+      "departure_percent": 130.82388289533796,
+      "observed_day_id": "853dc402ce23ee1d07e5f0ec",
+      "profile_id": "F30",
+      "retained_day_index": 396
+    },
+    {
+      "departure_percent": 169.43288115344802,
+      "observed_day_id": "87ab314624d54ee89b9392f7",
+      "profile_id": "F30",
+      "retained_day_index": 424
+    },
+    {
+      "departure_percent": 183.30048118415846,
+      "observed_day_id": "de82a3914cba9440f493d1a2",
+      "profile_id": "F30",
+      "retained_day_index": 435
+    },
+    {
+      "departure_percent": 223.8649833461846,
+      "observed_day_id": "c946a4cd1eb830770acaaf9a",
+      "profile_id": "F60",
+      "retained_day_index": 3
+    },
+    {
+      "departure_percent": 145.81693994756532,
+      "observed_day_id": "169e5c931ef405b8616ac57a",
+      "profile_id": "F60",
+      "retained_day_index": 16
+    },
+    {
+      "departure_percent": 213.13405390731327,
+      "observed_day_id": "88e2946f6491074fa35497d7",
+      "profile_id": "F60",
+      "retained_day_index": 21
+    },
+    {
+      "departure_percent": 389.4888623612317,
+      "observed_day_id": "8e5907f500c894cb3d44add6",
+      "profile_id": "F60",
+      "retained_day_index": 25
+    },
+    {
+      "departure_percent": 169.82739480567432,
+      "observed_day_id": "af5089ca26b17fd35c0f686b",
+      "profile_id": "F60",
+      "retained_day_index": 26
+    },
+    {
+      "departure_percent": 152.95794937858656,
+      "observed_day_id": "5cd94eecf6e8a55998c996ad",
+      "profile_id": "F60",
+      "retained_day_index": 77
+    },
+    {
+      "departure_percent": 179.84520838412266,
+      "observed_day_id": "005ab3c2bc1507a8d23cae5e",
+      "profile_id": "F60",
+      "retained_day_index": 79
+    },
+    {
+      "departure_percent": 200.89671159929122,
+      "observed_day_id": "146b1cf15a924a32226b25f2",
+      "profile_id": "F60",
+      "retained_day_index": 94
+    },
+    {
+      "departure_percent": 177.27534530870602,
+      "observed_day_id": "8ec1ca19518004a08b87e33b",
+      "profile_id": "F60",
+      "retained_day_index": 124
+    },
+    {
+      "departure_percent": 152.90438073521915,
+      "observed_day_id": "4699bf4cf7b9a437743ec24a",
+      "profile_id": "F60",
+      "retained_day_index": 131
+    },
+    {
+      "departure_percent": 221.54641180770494,
+      "observed_day_id": "f26bd8a60e0d3ee90c0373e6",
+      "profile_id": "F60",
+      "retained_day_index": 135
+    },
+    {
+      "departure_percent": 284.3995930615816,
+      "observed_day_id": "61e353c9e533f15041f67c1e",
+      "profile_id": "F60",
+      "retained_day_index": 155
+    },
+    {
+      "departure_percent": 171.40749796826697,
+      "observed_day_id": "80d4c28871fe47a594d8f90f",
+      "profile_id": "F60",
+      "retained_day_index": 166
+    },
+    {
+      "departure_percent": 155.38455546903205,
+      "observed_day_id": "364b16d75428c53e770e7084",
+      "profile_id": "F60",
+      "retained_day_index": 172
+    },
+    {
+      "departure_percent": 297.8090501225721,
+      "observed_day_id": "e0e6a4cede0235052512c322",
+      "profile_id": "F60",
+      "retained_day_index": 177
+    },
+    {
+      "departure_percent": 153.93167306174956,
+      "observed_day_id": "acc91259bd2df67945dac106",
+      "profile_id": "F60",
+      "retained_day_index": 195
+    },
+    {
+      "departure_percent": 204.76335202254083,
+      "observed_day_id": "1518a054496d8f699314e42e",
+      "profile_id": "F60",
+      "retained_day_index": 208
+    },
+    {
+      "departure_percent": 201.36577131687417,
+      "observed_day_id": "8ec5ac2b63de39be24665f68",
+      "profile_id": "F60",
+      "retained_day_index": 211
+    },
+    {
+      "departure_percent": 156.39625065314223,
+      "observed_day_id": "e7daa71827297eb8df7dbedc",
+      "profile_id": "F60",
+      "retained_day_index": 220
+    },
+    {
+      "departure_percent": 173.49824050106344,
+      "observed_day_id": "495a863dc861afbfcf0b6740",
+      "profile_id": "F60",
+      "retained_day_index": 221
+    },
+    {
+      "departure_percent": 212.30639354931208,
+      "observed_day_id": "b1e71862ae0a1f261187435b",
+      "profile_id": "F60",
+      "retained_day_index": 235
+    },
+    {
+      "departure_percent": 228.4331706356017,
+      "observed_day_id": "f7c256ba3ccad7e0de4341e3",
+      "profile_id": "F60",
+      "retained_day_index": 236
+    },
+    {
+      "departure_percent": 213.1900088943802,
+      "observed_day_id": "e0fa7da124478e2c787bd535",
+      "profile_id": "F60",
+      "retained_day_index": 241
+    },
+    {
+      "departure_percent": 186.91434114291354,
+      "observed_day_id": "4d9e72f11309de4c7550aead",
+      "profile_id": "F60",
+      "retained_day_index": 247
+    },
+    {
+      "departure_percent": 304.68633993866905,
+      "observed_day_id": "68f034192b3a70f17a89db30",
+      "profile_id": "F60",
+      "retained_day_index": 255
+    },
+    {
+      "departure_percent": 169.97191178011883,
+      "observed_day_id": "3d1016abcfcaa514bb220d51",
+      "profile_id": "F60",
+      "retained_day_index": 256
+    },
+    {
+      "departure_percent": 211.80150049473676,
+      "observed_day_id": "2f29528fc57490c606e4b9a5",
+      "profile_id": "F60",
+      "retained_day_index": 258
+    },
+    {
+      "departure_percent": 249.73428540174285,
+      "observed_day_id": "937ff15d15f6957b470288e1",
+      "profile_id": "F60",
+      "retained_day_index": 259
+    },
+    {
+      "departure_percent": 146.8548085493722,
+      "observed_day_id": "9ebe1d533c27e27242dfe4a6",
+      "profile_id": "F60",
+      "retained_day_index": 260
+    },
+    {
+      "departure_percent": 165.39383548241082,
+      "observed_day_id": "86c72f927c6469aeccbcdd92",
+      "profile_id": "F60",
+      "retained_day_index": 278
+    },
+    {
+      "departure_percent": 356.6130833870579,
+      "observed_day_id": "7d0ba1fefa3adfbf7e7fbe41",
+      "profile_id": "F60",
+      "retained_day_index": 286
+    },
+    {
+      "departure_percent": 208.70921905661538,
+      "observed_day_id": "5fbbbb6e8ca877bb19daafa6",
+      "profile_id": "F60",
+      "retained_day_index": 299
+    },
+    {
+      "departure_percent": 293.91094814398775,
+      "observed_day_id": "bd7955b71adde749895022bb",
+      "profile_id": "F60",
+      "retained_day_index": 300
+    },
+    {
+      "departure_percent": 164.36291591345704,
+      "observed_day_id": "daaf2e469f6bc6cd67a7fe7e",
+      "profile_id": "F60",
+      "retained_day_index": 310
+    },
+    {
+      "departure_percent": 167.12212104337056,
+      "observed_day_id": "69c83f6fdb2b14425ff53e43",
+      "profile_id": "F60",
+      "retained_day_index": 318
+    },
+    {
+      "departure_percent": 155.54235960519566,
+      "observed_day_id": "b9127324509dc355bd207fad",
+      "profile_id": "F60",
+      "retained_day_index": 321
+    },
+    {
+      "departure_percent": 174.32494632158483,
+      "observed_day_id": "1bd6420e2843f9cd529e9b59",
+      "profile_id": "F60",
+      "retained_day_index": 325
+    },
+    {
+      "departure_percent": 196.46269409803747,
+      "observed_day_id": "23ed3d4dacabf02fd0b9594a",
+      "profile_id": "F60",
+      "retained_day_index": 328
+    },
+    {
+      "departure_percent": 211.1698668717705,
+      "observed_day_id": "084395c10934d6dd757a21aa",
+      "profile_id": "M30",
+      "retained_day_index": 18
+    },
+    {
+      "departure_percent": 158.66108794754672,
+      "observed_day_id": "2fd6f738b3b098e107ad9847",
+      "profile_id": "M30",
+      "retained_day_index": 32
+    },
+    {
+      "departure_percent": 185.18151328054572,
+      "observed_day_id": "540b1faf0534d50fe259de70",
+      "profile_id": "M30",
+      "retained_day_index": 49
+    },
+    {
+      "departure_percent": 174.23273418763688,
+      "observed_day_id": "afe7720892ab1cc6678a0cfb",
+      "profile_id": "M30",
+      "retained_day_index": 53
+    },
+    {
+      "departure_percent": 157.94943145010473,
+      "observed_day_id": "651e86542a3f627b6bfb7a6f",
+      "profile_id": "M30",
+      "retained_day_index": 55
+    },
+    {
+      "departure_percent": 144.89491729077452,
+      "observed_day_id": "c87d5d6d18a5aa44573bebcb",
+      "profile_id": "M30",
+      "retained_day_index": 61
+    },
+    {
+      "departure_percent": 170.0479163010471,
+      "observed_day_id": "2964b0a467017d6f9bef2f65",
+      "profile_id": "M30",
+      "retained_day_index": 65
+    },
+    {
+      "departure_percent": 251.4398149394664,
+      "observed_day_id": "de9652099f731ffb4eceb04f",
+      "profile_id": "M30",
+      "retained_day_index": 106
+    },
+    {
+      "departure_percent": 228.9221832912864,
+      "observed_day_id": "be8be94dac54fa8d88680f69",
+      "profile_id": "M30",
+      "retained_day_index": 128
+    },
+    {
+      "departure_percent": 151.1157643689701,
+      "observed_day_id": "f8a481238714033855d68baf",
+      "profile_id": "M30",
+      "retained_day_index": 144
+    },
+    {
+      "departure_percent": 195.08000701989548,
+      "observed_day_id": "fc42e43134cb0c561c4a6f48",
+      "profile_id": "M30",
+      "retained_day_index": 147
+    },
+    {
+      "departure_percent": 144.60695884440324,
+      "observed_day_id": "01528686f9625cbc5dd7f389",
+      "profile_id": "M30",
+      "retained_day_index": 151
+    },
+    {
+      "departure_percent": 153.08696657796645,
+      "observed_day_id": "e282abb57a10a7217a7e5723",
+      "profile_id": "M30",
+      "retained_day_index": 154
+    },
+    {
+      "departure_percent": 184.69562232962565,
+      "observed_day_id": "7d9a9ffd8afc0b65c5d1cc1c",
+      "profile_id": "M30",
+      "retained_day_index": 186
+    },
+    {
+      "departure_percent": 157.39056472852891,
+      "observed_day_id": "15e0d7f4bad58b5870c68744",
+      "profile_id": "M30",
+      "retained_day_index": 194
+    },
+    {
+      "departure_percent": 202.3245131569514,
+      "observed_day_id": "b9dfe48751a9ca0124d01bfa",
+      "profile_id": "M30",
+      "retained_day_index": 227
+    },
+    {
+      "departure_percent": 147.75747753487485,
+      "observed_day_id": "578b0af764655adc761904ce",
+      "profile_id": "M30",
+      "retained_day_index": 255
+    },
+    {
+      "departure_percent": 226.39566972365168,
+      "observed_day_id": "bd7ee61bbbea6e97426142ff",
+      "profile_id": "M30",
+      "retained_day_index": 264
+    },
+    {
+      "departure_percent": 171.60376388367607,
+      "observed_day_id": "dea07f66b006a75a613df4c8",
+      "profile_id": "M30",
+      "retained_day_index": 292
+    },
+    {
+      "departure_percent": 172.18619461654473,
+      "observed_day_id": "8cce249da6b221f89cea4813",
+      "profile_id": "M30",
+      "retained_day_index": 300
+    },
+    {
+      "departure_percent": 248.24251857239204,
+      "observed_day_id": "112121fd18553ec14f1e32d8",
+      "profile_id": "M30",
+      "retained_day_index": 303
+    },
+    {
+      "departure_percent": 142.60567878398805,
+      "observed_day_id": "f831c53171084c64cc8a78f2",
+      "profile_id": "M30",
+      "retained_day_index": 310
+    },
+    {
+      "departure_percent": 161.19638611630774,
+      "observed_day_id": "6913eb8d7e6700687f09251e",
+      "profile_id": "M30",
+      "retained_day_index": 320
+    },
+    {
+      "departure_percent": 149.95383542886728,
+      "observed_day_id": "a73d9dc7b1ab8f5515a0d2ba",
+      "profile_id": "M30",
+      "retained_day_index": 323
+    },
+    {
+      "departure_percent": 158.28005269243656,
+      "observed_day_id": "86dacb7fbb89b37644b4fa97",
+      "profile_id": "M60",
+      "retained_day_index": 4
+    },
+    {
+      "departure_percent": 265.6946950988442,
+      "observed_day_id": "e4e625300da6d9585565e3cc",
+      "profile_id": "M60",
+      "retained_day_index": 44
+    },
+    {
+      "departure_percent": 212.1861031644487,
+      "observed_day_id": "48cb1d4ac87e8a721a1e7986",
+      "profile_id": "M60",
+      "retained_day_index": 55
+    },
+    {
+      "departure_percent": 235.30531185625284,
+      "observed_day_id": "f8d004e3758e18671e2c1fbc",
+      "profile_id": "M60",
+      "retained_day_index": 56
+    },
+    {
+      "departure_percent": 238.857151671743,
+      "observed_day_id": "deb5fdeb3b32625c8e0075e2",
+      "profile_id": "M60",
+      "retained_day_index": 59
+    },
+    {
+      "departure_percent": 219.51595944144896,
+      "observed_day_id": "dc2d9b3e0419f6413cb2bb81",
+      "profile_id": "M60",
+      "retained_day_index": 63
+    },
+    {
+      "departure_percent": 191.32244408636274,
+      "observed_day_id": "890f359ed3f26651ef4913de",
+      "profile_id": "M60",
+      "retained_day_index": 89
+    },
+    {
+      "departure_percent": 163.92938657093552,
+      "observed_day_id": "cf393a984f8c52c083889302",
+      "profile_id": "M60",
+      "retained_day_index": 103
+    },
+    {
+      "departure_percent": 171.27898133551153,
+      "observed_day_id": "ef820b1ad2a6dadf8138e26b",
+      "profile_id": "M60",
+      "retained_day_index": 108
+    },
+    {
+      "departure_percent": 284.19855581879153,
+      "observed_day_id": "05b33b38c5e14d52b64554d5",
+      "profile_id": "M60",
+      "retained_day_index": 113
+    },
+    {
+      "departure_percent": 146.6937625330168,
+      "observed_day_id": "3404160b10759cc22d4d9314",
+      "profile_id": "M60",
+      "retained_day_index": 134
+    },
+    {
+      "departure_percent": 136.38292836860117,
+      "observed_day_id": "4a11047a68d0e735c8eed058",
+      "profile_id": "M60",
+      "retained_day_index": 136
+    },
+    {
+      "departure_percent": 156.39418008362514,
+      "observed_day_id": "75e97ca87ef0b4b914873144",
+      "profile_id": "M60",
+      "retained_day_index": 172
+    },
+    {
+      "departure_percent": 193.87469269836433,
+      "observed_day_id": "8d8e9a981392211a31abc891",
+      "profile_id": "M60",
+      "retained_day_index": 198
+    },
+    {
+      "departure_percent": 171.26157416536603,
+      "observed_day_id": "9516d99db986ad51e5f2199f",
+      "profile_id": "M60",
+      "retained_day_index": 208
+    },
+    {
+      "departure_percent": 163.72104450325668,
+      "observed_day_id": "304da1f3af1f5fa300ad51d0",
+      "profile_id": "M60",
+      "retained_day_index": 222
+    },
+    {
+      "departure_percent": 311.25430278630125,
+      "observed_day_id": "47b67e81f92566d4c32d6d57",
+      "profile_id": "M60",
+      "retained_day_index": 235
+    },
+    {
+      "departure_percent": 176.67170710446837,
+      "observed_day_id": "17ef4b9206e3929226c2f3df",
+      "profile_id": "M60",
+      "retained_day_index": 242
+    },
+    {
+      "departure_percent": 209.54064071052963,
+      "observed_day_id": "3fc1af56f69de0a2bd369931",
+      "profile_id": "M60",
+      "retained_day_index": 244
+    }
+  ],
+  "source_execution_sha256": "a4cb4a6fea6dbf03636bf0f087b8af367cbaab5445713ff3b5a29374f4b4b604",
+  "source_input_manifest_sha256": "11da93cbe44a381a897d379eb5874b5e35b5d81699ad223c99881d39b27e28b4",
+  "source_observed_outcomes_sha256": "7616e48becb7d0ea53f6fcabd229e699b8a319515661e3df73176568534cc65a"
+}

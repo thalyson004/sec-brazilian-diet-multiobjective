@@ -1,0 +1,90 @@
+{
+  "schema_version": "3.0",
+  "study_id": "sec2026-pof-meals-v3",
+  "status": "reference_profiles_and_targets_defined",
+  "goal": "weight_maintenance",
+  "anthropometry_source": "Historical national median heights from POF 2008-2009 Table 1.1, total urban+rural, sex-specific. Weights are synthetic at reference BMI 24, not measured POF 2017-2018 values.",
+  "profiles": [
+    {
+      "profile_id": "F30",
+      "age_years": 30,
+      "sex_code": "2",
+      "height_m": 1.6,
+      "weight_kg": 61.44,
+      "bmi_kg_m2": 24.0,
+      "physical_activity": "low_active",
+      "height_source_age_band": "30-34",
+      "height_citation_key": "ibge2010anthropometry",
+      "weight_rule": "24 * height_m squared",
+      "bmi_citation_key": "brasil2004sisvan",
+      "energy_citation_key": "nases2023energy",
+      "maintenance_kcal": 2167.3516
+    },
+    {
+      "profile_id": "F60",
+      "age_years": 60,
+      "sex_code": "2",
+      "height_m": 1.566,
+      "weight_kg": 58.856544,
+      "bmi_kg_m2": 24.0,
+      "physical_activity": "low_active",
+      "height_source_age_band": "55-64",
+      "height_citation_key": "ibge2010anthropometry",
+      "weight_rule": "24 * height_m squared",
+      "bmi_citation_key": "brasil2004sisvan",
+      "energy_citation_key": "nases2023energy",
+      "maintenance_kcal": 1903.24844416
+    },
+    {
+      "profile_id": "M30",
+      "age_years": 30,
+      "sex_code": "1",
+      "height_m": 1.716,
+      "weight_kg": 70.671744,
+      "bmi_kg_m2": 24.0,
+      "physical_activity": "low_active",
+      "height_source_age_band": "30-34",
+      "height_citation_key": "ibge2010anthropometry",
+      "weight_rule": "24 * height_m squared",
+      "bmi_citation_key": "brasil2004sisvan",
+      "energy_citation_key": "nases2023energy",
+      "maintenance_kcal": 2736.68585536
+    },
+    {
+      "profile_id": "M60",
+      "age_years": 60,
+      "sex_code": "1",
+      "height_m": 1.682,
+      "weight_kg": 67.898976,
+      "bmi_kg_m2": 24.0,
+      "physical_activity": "low_active",
+      "height_source_age_band": "55-64",
+      "height_citation_key": "ibge2010anthropometry",
+      "weight_rule": "24 * height_m squared",
+      "bmi_citation_key": "brasil2004sisvan",
+      "energy_citation_key": "nases2023energy",
+      "maintenance_kcal": 2342.14070144
+    }
+  ],
+  "objective_pairs": [
+    "N,C",
+    "N,W",
+    "N,D"
+  ],
+  "objective_triples": [
+    "N,C,W",
+    "N,C,D",
+    "N,W,D"
+  ],
+  "nutrient_targets": "targets.json",
+  "note": "Age and sex select the POF 2017-2018 meals. Height, reference weight and low-active physical activity define explicit maintenance scenarios for apparently healthy, nonpregnant, nonlactating, nonsmoking adults. Survey respondents are not diagnosed or assigned these measurements.",
+  "decision_unit": "one complete observed meal in each of six daily positions",
+  "meal_slots": [
+    "breakfast",
+    "morning_snack",
+    "lunch",
+    "afternoon_snack",
+    "dinner",
+    "supper"
+  ]
+}

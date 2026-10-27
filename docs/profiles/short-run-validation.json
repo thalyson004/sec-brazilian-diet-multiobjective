@@ -1,0 +1,263 @@
+{
+  "purpose": "Short implementation checks only; not scientific main-campaign outcomes",
+  "runs": [
+    {
+      "algorithm": "NSGA2",
+      "evaluations": 132,
+      "feasible_candidates": 5,
+      "front_size": 2,
+      "profile": "F30",
+      "scenario": "N,C"
+    },
+    {
+      "algorithm": "SPEA2",
+      "evaluations": 132,
+      "feasible_candidates": 5,
+      "front_size": 2,
+      "profile": "F30",
+      "scenario": "N,C"
+    },
+    {
+      "algorithm": "NSGA3",
+      "evaluations": 132,
+      "feasible_candidates": 5,
+      "front_size": 2,
+      "profile": "F30",
+      "scenario": "N,C"
+    },
+    {
+      "algorithm": "SMSEMOA",
+      "evaluations": 132,
+      "feasible_candidates": 13,
+      "front_size": 3,
+      "profile": "F30",
+      "scenario": "N,C"
+    },
+    {
+      "algorithm": "NSGA2",
+      "evaluations": 132,
+      "feasible_candidates": 12,
+      "front_size": 5,
+      "profile": "F30",
+      "scenario": "N,C,W"
+    },
+    {
+      "algorithm": "SPEA2",
+      "evaluations": 132,
+      "feasible_candidates": 12,
+      "front_size": 5,
+      "profile": "F30",
+      "scenario": "N,C,W"
+    },
+    {
+      "algorithm": "NSGA3",
+      "evaluations": 132,
+      "feasible_candidates": 12,
+      "front_size": 5,
+      "profile": "F30",
+      "scenario": "N,C,W"
+    },
+    {
+      "algorithm": "SMSEMOA",
+      "evaluations": 132,
+      "feasible_candidates": 14,
+      "front_size": 5,
+      "profile": "F30",
+      "scenario": "N,C,W"
+    },
+    {
+      "algorithm": "NSGA2",
+      "evaluations": 132,
+      "feasible_candidates": 18,
+      "front_size": 2,
+      "profile": "F60",
+      "scenario": "N,C"
+    },
+    {
+      "algorithm": "SPEA2",
+      "evaluations": 132,
+      "feasible_candidates": 18,
+      "front_size": 2,
+      "profile": "F60",
+      "scenario": "N,C"
+    },
+    {
+      "algorithm": "NSGA3",
+      "evaluations": 132,
+      "feasible_candidates": 18,
+      "front_size": 2,
+      "profile": "F60",
+      "scenario": "N,C"
+    },
+    {
+      "algorithm": "SMSEMOA",
+      "evaluations": 132,
+      "feasible_candidates": 21,
+      "front_size": 5,
+      "profile": "F60",
+      "scenario": "N,C"
+    },
+    {
+      "algorithm": "NSGA2",
+      "evaluations": 132,
+      "feasible_candidates": 13,
+      "front_size": 7,
+      "profile": "F60",
+      "scenario": "N,C,W"
+    },
+    {
+      "algorithm": "SPEA2",
+      "evaluations": 132,
+      "feasible_candidates": 13,
+      "front_size": 7,
+      "profile": "F60",
+      "scenario": "N,C,W"
+    },
+    {
+      "algorithm": "NSGA3",
+      "evaluations": 132,
+      "feasible_candidates": 13,
+      "front_size": 7,
+      "profile": "F60",
+      "scenario": "N,C,W"
+    },
+    {
+      "algorithm": "SMSEMOA",
+      "evaluations": 132,
+      "feasible_candidates": 13,
+      "front_size": 5,
+      "profile": "F60",
+      "scenario": "N,C,W"
+    },
+    {
+      "algorithm": "NSGA2",
+      "evaluations": 132,
+      "feasible_candidates": 13,
+      "front_size": 4,
+      "profile": "M30",
+      "scenario": "N,C"
+    },
+    {
+      "algorithm": "SPEA2",
+      "evaluations": 132,
+      "feasible_candidates": 13,
+      "front_size": 4,
+      "profile": "M30",
+      "scenario": "N,C"
+    },
+    {
+      "algorithm": "NSGA3",
+      "evaluations": 132,
+      "feasible_candidates": 13,
+      "front_size": 4,
+      "profile": "M30",
+      "scenario": "N,C"
+    },
+    {
+      "algorithm": "SMSEMOA",
+      "evaluations": 132,
+      "feasible_candidates": 9,
+      "front_size": 5,
+      "profile": "M30",
+      "scenario": "N,C"
+    },
+    {
+      "algorithm": "NSGA2",
+      "evaluations": 132,
+      "feasible_candidates": 10,
+      "front_size": 2,
+      "profile": "M30",
+      "scenario": "N,C,W"
+    },
+    {
+      "algorithm": "SPEA2",
+      "evaluations": 132,
+      "feasible_candidates": 10,
+      "front_size": 2,
+      "profile": "M30",
+      "scenario": "N,C,W"
+    },
+    {
+      "algorithm": "NSGA3",
+      "evaluations": 132,
+      "feasible_candidates": 10,
+      "front_size": 2,
+      "profile": "M30",
+      "scenario": "N,C,W"
+    },
+    {
+      "algorithm": "SMSEMOA",
+      "evaluations": 132,
+      "feasible_candidates": 14,
+      "front_size": 4,
+      "profile": "M30",
+      "scenario": "N,C,W"
+    },
+    {
+      "algorithm": "NSGA2",
+      "evaluations": 132,
+      "feasible_candidates": 13,
+      "front_size": 3,
+      "profile": "M60",
+      "scenario": "N,C"
+    },
+    {
+      "algorithm": "SPEA2",
+      "evaluations": 132,
+      "feasible_candidates": 13,
+      "front_size": 3,
+      "profile": "M60",
+      "scenario": "N,C"
+    },
+    {
+      "algorithm": "NSGA3",
+      "evaluations": 132,
+      "feasible_candidates": 13,
+      "front_size": 3,
+      "profile": "M60",
+      "scenario": "N,C"
+    },
+    {
+      "algorithm": "SMSEMOA",
+      "evaluations": 132,
+      "feasible_candidates": 13,
+      "front_size": 3,
+      "profile": "M60",
+      "scenario": "N,C"
+    },
+    {
+      "algorithm": "NSGA2",
+      "evaluations": 132,
+      "feasible_candidates": 11,
+      "front_size": 3,
+      "profile": "M60",
+      "scenario": "N,C,W"
+    },
+    {
+      "algorithm": "SPEA2",
+      "evaluations": 132,
+      "feasible_candidates": 12,
+      "front_size": 4,
+      "profile": "M60",
+      "scenario": "N,C,W"
+    },
+    {
+      "algorithm": "NSGA3",
+      "evaluations": 132,
+      "feasible_candidates": 15,
+      "front_size": 3,
+      "profile": "M60",
+      "scenario": "N,C,W"
+    },
+    {
+      "algorithm": "SMSEMOA",
+      "evaluations": 132,
+      "feasible_candidates": 19,
+      "front_size": 5,
+      "profile": "M60",
+      "scenario": "N,C,W"
+    }
+  ],
+  "total_evaluations": 4224,
+  "total_runs": 32
+}

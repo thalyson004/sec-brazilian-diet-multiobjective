@@ -1,0 +1,7 @@
+# Literature positioning
+
+[`comparison.json`](comparison.json) records seven representative studies with citation keys, reviewed PDF pages, hashes and the evidence used in each comparison cell. The studies cover Brazilian nutrient models, matched evolutionary menu comparisons, bilevel representation, health/environment compromise, departure modeling and demographic food-group interpretation. These dimensions justify the present study's combination of methods and outcomes. They do not establish numerical superiority across different datasets or exhaustive novelty.
+
+`sec_diet.profile_methods.export_methods` generates `literature-comparison.tex`, `profile-definitions.tex`, `profile-assumptions.tex` and `nutrient-targets.tex` for the profile design. The unified campaign includes these files in `article/methods/` and copies the literature evidence register into `article/literature-comparison-evidence.json`. Energy bounds use the configured tolerance; nutrient bounds use the same `targets` and `bounds` functions as the evaluator. Energy is a hard constraint; the 23 nutrient criteria are optimized deviations whose attainment is reported separately.
+
+The `respondent-day-methods/` tables retain the earlier study's comparison row and three criteria. Their energy and nutrient values are generated from `docs/protocol/design.json`; they do not use the new profile targets. Manuscript tables must be selected to match the experiment actually reported.

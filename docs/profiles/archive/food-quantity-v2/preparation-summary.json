@@ -1,0 +1,658 @@
+{
+  "study_id": "sec2026-pof-profiles-v2",
+  "sources": {
+    "footprints": {
+      "bytes": 626724,
+      "filename": "pegadas_alimentos.xlsx",
+      "sha256": "988040f8e9c668d823c41b0839132a3494b9a3ad6e5a4945e18757542b16d4af"
+    },
+    "pof": {
+      "bytes": 146294013,
+      "filename": "Dados_20230713.zip",
+      "sha256": "f5b71f85452345e6e82caee15c70578c948981d8a8e5f99bd90ec60fac5b7932"
+    }
+  },
+  "profiles": [
+    {
+      "composition_fit_summary": {
+        "AGMONO": {
+          "daily_rmse": 4.2787298348711664e-15,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 2.842170943040401e-14
+        },
+        "AGPOLI": {
+          "daily_rmse": 2.7127467130081897e-15,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 1.0658141036401503e-14
+        },
+        "AGSAT": {
+          "daily_rmse": 0.09431598682658139,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 0.5142934837092721
+        },
+        "AGTRANS": {
+          "daily_rmse": 2.947473541278229e-16,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 1.7763568394002505e-15
+        },
+        "CALCIO": {
+          "daily_rmse": 28.294796047974284,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 154.28804511278196
+        },
+        "CHOTOT": {
+          "daily_rmse": 8.5780745836706e-14,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 4.547473508864641e-13
+        },
+        "COBALAMINA": {
+          "daily_rmse": 6.160894083556135e-16,
+          "days_with_zero_reported_total": 4,
+          "maximum_absolute_daily_difference": 7.105427357601002e-15
+        },
+        "COBRE": {
+          "daily_rmse": 0.09431598682658093,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 0.514293483709273
+        },
+        "COLEST": {
+          "daily_rmse": 3.174742991396908e-14,
+          "days_with_zero_reported_total": 1,
+          "maximum_absolute_daily_difference": 2.2737367544323206e-13
+        },
+        "ENERGIA_KCAL": {
+          "daily_rmse": 1.9948549329419682e-13,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 9.094947017729282e-13
+        },
+        "ENERGIA_KJ": {
+          "daily_rmse": 9.250330859506668e-13,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 3.637978807091713e-12
+        },
+        "FERRO": {
+          "daily_rmse": 4.487587607921109e-15,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 1.7763568394002505e-14
+        },
+        "FIBRA": {
+          "daily_rmse": 1.8481117054114414e-14,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 9.237055564881302e-14
+        },
+        "FOLATO": {
+          "daily_rmse": 1.7931391518018982e-13,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 7.958078640513122e-13
+        },
+        "FOSFORO": {
+          "daily_rmse": 1.426914569505281e-13,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 4.547473508864641e-13
+        },
+        "LIP": {
+          "daily_rmse": 1.142773188658133e-14,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 5.684341886080802e-14
+        },
+        "MAGNESIO": {
+          "daily_rmse": 9.431598682658095,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 51.42934837092733
+        },
+        "NIACINA": {
+          "daily_rmse": 3.62764694432511e-15,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 2.842170943040401e-14
+        },
+        "PIRIDOXAMINA": {
+          "daily_rmse": 4.1728674985091206e-16,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 1.7763568394002505e-15
+        },
+        "POTASSIO": {
+          "daily_rmse": 9.431598682658109,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 51.42934837092707
+        },
+        "PTN": {
+          "daily_rmse": 1.6418195161939106e-14,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 1.1368683772161603e-13
+        },
+        "RIBOFLAVINA": {
+          "daily_rmse": 2.737656592584443e-16,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 1.3322676295501878e-15
+        },
+        "SODIO": {
+          "daily_rmse": 28.294796047974224,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 154.2880451127819
+        },
+        "TIAMINA": {
+          "daily_rmse": 2.6230625478064317e-16,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 1.7763568394002505e-15
+        },
+        "VITA_RAE": {
+          "daily_rmse": 1.884640321526722e-13,
+          "days_with_zero_reported_total": 2,
+          "maximum_absolute_daily_difference": 1.8189894035458565e-12
+        },
+        "VITC": {
+          "daily_rmse": 3.614851831936581e-14,
+          "days_with_zero_reported_total": 2,
+          "maximum_absolute_daily_difference": 4.547473508864641e-13
+        },
+        "VITD": {
+          "daily_rmse": 1.965909438183457e-16,
+          "days_with_zero_reported_total": 72,
+          "maximum_absolute_daily_difference": 1.7763568394002505e-15
+        },
+        "VITE": {
+          "daily_rmse": 1.2885428813154061e-15,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 7.105427357601002e-15
+        },
+        "ZINCO": {
+          "daily_rmse": 3.631608859239592e-15,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 1.4210854715202004e-14
+        }
+      },
+      "distinct_respondents": 399,
+      "eligible_days": 712,
+      "food_groups": 18,
+      "instance": {
+        "bytes": 4902249,
+        "filename": "F30.json",
+        "sha256": "3c6a0c9f04fc02053f49de4c240ca1b80dc8effec3d9796d2dc1b43bc2a3372e"
+      },
+      "observed_feasible_diets": 25,
+      "profile_id": "F30",
+      "variables": 955
+    },
+    {
+      "composition_fit_summary": {
+        "AGMONO": {
+          "daily_rmse": 2.422737563772707e-15,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 1.4210854715202004e-14
+        },
+        "AGPOLI": {
+          "daily_rmse": 3.0030862596539775e-15,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 1.4210854715202004e-14
+        },
+        "AGSAT": {
+          "daily_rmse": 0.08426134069011404,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 0.39286984126984237
+        },
+        "AGTRANS": {
+          "daily_rmse": 3.592111416711162e-16,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 1.7763568394002505e-15
+        },
+        "CALCIO": {
+          "daily_rmse": 25.27840220703417,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 117.86095238095237
+        },
+        "CHOTOT": {
+          "daily_rmse": 5.679546519519322e-14,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 2.8421709430404007e-13
+        },
+        "COBALAMINA": {
+          "daily_rmse": 6.124502745378772e-16,
+          "days_with_zero_reported_total": 7,
+          "maximum_absolute_daily_difference": 7.105427357601002e-15
+        },
+        "COBRE": {
+          "daily_rmse": 0.08426134069011386,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 0.39286984126984126
+        },
+        "COLEST": {
+          "daily_rmse": 2.3736722731508684e-14,
+          "days_with_zero_reported_total": 7,
+          "maximum_absolute_daily_difference": 1.1368683772161603e-13
+        },
+        "ENERGIA_KCAL": {
+          "daily_rmse": 1.6901977282453381e-13,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 9.094947017729282e-13
+        },
+        "ENERGIA_KJ": {
+          "daily_rmse": 7.514969832489915e-13,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 2.7284841053187847e-12
+        },
+        "FERRO": {
+          "daily_rmse": 2.5392062440847722e-15,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 1.0658141036401503e-14
+        },
+        "FIBRA": {
+          "daily_rmse": 2.0650303639399328e-14,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 9.947598300641403e-14
+        },
+        "FOLATO": {
+          "daily_rmse": 1.9285020219282038e-13,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 1.0231815394945443e-12
+        },
+        "FOSFORO": {
+          "daily_rmse": 1.9247917769614018e-13,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 6.821210263296962e-13
+        },
+        "LIP": {
+          "daily_rmse": 7.392853777126862e-15,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 2.842170943040401e-14
+        },
+        "MAGNESIO": {
+          "daily_rmse": 8.426134069011384,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 39.286984126984066
+        },
+        "NIACINA": {
+          "daily_rmse": 1.8326608355033543e-15,
+          "days_with_zero_reported_total": 1,
+          "maximum_absolute_daily_difference": 1.4210854715202004e-14
+        },
+        "PIRIDOXAMINA": {
+          "daily_rmse": 3.178084710372643e-16,
+          "days_with_zero_reported_total": 1,
+          "maximum_absolute_daily_difference": 1.5543122344752192e-15
+        },
+        "POTASSIO": {
+          "daily_rmse": 8.426134069011402,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 39.28698412698441
+        },
+        "PTN": {
+          "daily_rmse": 1.5727339732844166e-14,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 8.526512829121202e-14
+        },
+        "RIBOFLAVINA": {
+          "daily_rmse": 2.795651673019374e-16,
+          "days_with_zero_reported_total": 1,
+          "maximum_absolute_daily_difference": 1.3322676295501878e-15
+        },
+        "SODIO": {
+          "daily_rmse": 25.27840220703416,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 117.86095238095231
+        },
+        "TIAMINA": {
+          "daily_rmse": 2.7369830976323005e-16,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 1.3322676295501878e-15
+        },
+        "VITA_RAE": {
+          "daily_rmse": 3.7606325522419495e-14,
+          "days_with_zero_reported_total": 1,
+          "maximum_absolute_daily_difference": 2.2737367544323206e-13
+        },
+        "VITC": {
+          "daily_rmse": 1.82119007682406e-14,
+          "days_with_zero_reported_total": 2,
+          "maximum_absolute_daily_difference": 1.1368683772161603e-13
+        },
+        "VITD": {
+          "daily_rmse": 1.9969159463488478e-16,
+          "days_with_zero_reported_total": 67,
+          "maximum_absolute_daily_difference": 1.7763568394002505e-15
+        },
+        "VITE": {
+          "daily_rmse": 1.9868842031077547e-15,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 8.881784197001252e-15
+        },
+        "ZINCO": {
+          "daily_rmse": 1.944573779616477e-15,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 7.105427357601002e-15
+        }
+      },
+      "distinct_respondents": 315,
+      "eligible_days": 562,
+      "food_groups": 18,
+      "instance": {
+        "bytes": 3772483,
+        "filename": "F60.json",
+        "sha256": "5b296045b75e945d8c0d58c7967be96e5eb01906749a94c8532856a37c408e1a"
+      },
+      "observed_feasible_diets": 36,
+      "profile_id": "F60",
+      "variables": 897
+    },
+    {
+      "composition_fit_summary": {
+        "AGMONO": {
+          "daily_rmse": 4.364600634756909e-15,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 2.842170943040401e-14
+        },
+        "AGPOLI": {
+          "daily_rmse": 4.301749531094042e-15,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 2.1316282072803006e-14
+        },
+        "AGSAT": {
+          "daily_rmse": 0.10523993946048578,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 0.40813650793650424
+        },
+        "AGTRANS": {
+          "daily_rmse": 3.570122379084245e-16,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 1.7763568394002505e-15
+        },
+        "CALCIO": {
+          "daily_rmse": 31.5719818381458,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 122.4409523809523
+        },
+        "CHOTOT": {
+          "daily_rmse": 6.246672476250508e-14,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 2.2737367544323206e-13
+        },
+        "COBALAMINA": {
+          "daily_rmse": 1.662647862214068e-15,
+          "days_with_zero_reported_total": 4,
+          "maximum_absolute_daily_difference": 2.842170943040401e-14
+        },
+        "COBRE": {
+          "daily_rmse": 0.10523993946048604,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 0.40813650793650913
+        },
+        "COLEST": {
+          "daily_rmse": 4.6305416065939083e-14,
+          "days_with_zero_reported_total": 1,
+          "maximum_absolute_daily_difference": 2.2737367544323206e-13
+        },
+        "ENERGIA_KCAL": {
+          "daily_rmse": 2.6798158577323653e-13,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 1.3642420526593924e-12
+        },
+        "ENERGIA_KJ": {
+          "daily_rmse": 1.025204648829716e-12,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 3.637978807091713e-12
+        },
+        "FERRO": {
+          "daily_rmse": 4.654150699025051e-15,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 2.1316282072803006e-14
+        },
+        "FIBRA": {
+          "daily_rmse": 2.792823338554151e-14,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 9.947598300641403e-14
+        },
+        "FOLATO": {
+          "daily_rmse": 9.780154050807086e-14,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 3.410605131648481e-13
+        },
+        "FOSFORO": {
+          "daily_rmse": 1.609528237427578e-13,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 9.094947017729282e-13
+        },
+        "LIP": {
+          "daily_rmse": 9.58375983479689e-15,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 5.684341886080802e-14
+        },
+        "MAGNESIO": {
+          "daily_rmse": 10.523993946048597,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 40.81365079365088
+        },
+        "NIACINA": {
+          "daily_rmse": 3.4909605190432176e-15,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 1.4210854715202004e-14
+        },
+        "PIRIDOXAMINA": {
+          "daily_rmse": 3.363019672429487e-16,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 1.7763568394002505e-15
+        },
+        "POTASSIO": {
+          "daily_rmse": 10.523993946048517,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 40.813650793650595
+        },
+        "PTN": {
+          "daily_rmse": 1.9352936001468413e-14,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 1.1368683772161603e-13
+        },
+        "RIBOFLAVINA": {
+          "daily_rmse": 1.6699906708538908e-16,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 8.881784197001252e-16
+        },
+        "SODIO": {
+          "daily_rmse": 31.57198183814582,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 122.4409523809527
+        },
+        "TIAMINA": {
+          "daily_rmse": 1.8688206260224085e-16,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 8.881784197001252e-16
+        },
+        "VITA_RAE": {
+          "daily_rmse": 4.1158601505574786e-13,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 7.275957614183426e-12
+        },
+        "VITC": {
+          "daily_rmse": 2.808333016873188e-14,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 2.2737367544323206e-13
+        },
+        "VITD": {
+          "daily_rmse": 2.1688582993688693e-16,
+          "days_with_zero_reported_total": 43,
+          "maximum_absolute_daily_difference": 1.7763568394002505e-15
+        },
+        "VITE": {
+          "daily_rmse": 1.6163517743600094e-15,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 1.4210854715202004e-14
+        },
+        "ZINCO": {
+          "daily_rmse": 4.404013499867733e-15,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 1.7763568394002505e-14
+        }
+      },
+      "distinct_respondents": 315,
+      "eligible_days": 550,
+      "food_groups": 18,
+      "instance": {
+        "bytes": 3577492,
+        "filename": "M30.json",
+        "sha256": "4a215588a0d9a748df1fb89e174baf22862780713e88dbc293536f7681509a1d"
+      },
+      "observed_feasible_diets": 23,
+      "profile_id": "M30",
+      "variables": 851
+    },
+    {
+      "composition_fit_summary": {
+        "AGMONO": {
+          "daily_rmse": 3.2970949144312684e-15,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 1.4210854715202004e-14
+        },
+        "AGPOLI": {
+          "daily_rmse": 3.5176930875893267e-15,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 1.4210854715202004e-14
+        },
+        "AGSAT": {
+          "daily_rmse": 0.11878268717640719,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 0.6844579646017692
+        },
+        "AGTRANS": {
+          "daily_rmse": 1.819684951867889e-16,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 8.881784197001252e-16
+        },
+        "CALCIO": {
+          "daily_rmse": 35.63480615292227,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 205.337389380531
+        },
+        "CHOTOT": {
+          "daily_rmse": 6.986852583894107e-14,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 2.2737367544323206e-13
+        },
+        "COBALAMINA": {
+          "daily_rmse": 7.214583616832304e-16,
+          "days_with_zero_reported_total": 4,
+          "maximum_absolute_daily_difference": 5.329070518200751e-15
+        },
+        "COBRE": {
+          "daily_rmse": 0.11878268717640761,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 0.6844579646017704
+        },
+        "COLEST": {
+          "daily_rmse": 4.352262731705952e-14,
+          "days_with_zero_reported_total": 3,
+          "maximum_absolute_daily_difference": 3.410605131648481e-13
+        },
+        "ENERGIA_KCAL": {
+          "daily_rmse": 2.38543456141804e-13,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 9.094947017729282e-13
+        },
+        "ENERGIA_KJ": {
+          "daily_rmse": 1.005079684827213e-12,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 3.637978807091713e-12
+        },
+        "FERRO": {
+          "daily_rmse": 2.5769638719372456e-15,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 1.4210854715202004e-14
+        },
+        "FIBRA": {
+          "daily_rmse": 1.786411272944877e-14,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 4.973799150320701e-14
+        },
+        "FOLATO": {
+          "daily_rmse": 1.1381350942628242e-13,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 5.684341886080801e-13
+        },
+        "FOSFORO": {
+          "daily_rmse": 1.8498762945897136e-13,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 9.094947017729282e-13
+        },
+        "LIP": {
+          "daily_rmse": 8.925104971507501e-15,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 2.842170943040401e-14
+        },
+        "MAGNESIO": {
+          "daily_rmse": 11.878268717640758,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 68.44579646017695
+        },
+        "NIACINA": {
+          "daily_rmse": 2.138376805408212e-15,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 1.4210854715202004e-14
+        },
+        "PIRIDOXAMINA": {
+          "daily_rmse": 1.8200873635132948e-16,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 8.881784197001252e-16
+        },
+        "POTASSIO": {
+          "daily_rmse": 11.878268717640744,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 68.44579646017701
+        },
+        "PTN": {
+          "daily_rmse": 1.6050838162515333e-14,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 5.684341886080802e-14
+        },
+        "RIBOFLAVINA": {
+          "daily_rmse": 1.5896792136655768e-16,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 8.881784197001252e-16
+        },
+        "SODIO": {
+          "daily_rmse": 35.63480615292225,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 205.33738938053057
+        },
+        "TIAMINA": {
+          "daily_rmse": 1.7304874208267271e-16,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 8.881784197001252e-16
+        },
+        "VITA_RAE": {
+          "daily_rmse": 5.660267034787558e-14,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 4.547473508864641e-13
+        },
+        "VITC": {
+          "daily_rmse": 2.7319355242968903e-14,
+          "days_with_zero_reported_total": 2,
+          "maximum_absolute_daily_difference": 2.2737367544323206e-13
+        },
+        "VITD": {
+          "daily_rmse": 3.231065039229314e-16,
+          "days_with_zero_reported_total": 29,
+          "maximum_absolute_daily_difference": 1.7763568394002505e-15
+        },
+        "VITE": {
+          "daily_rmse": 1.5847738298561039e-15,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 7.105427357601002e-15
+        },
+        "ZINCO": {
+          "daily_rmse": 4.041124355548191e-15,
+          "days_with_zero_reported_total": 0,
+          "maximum_absolute_daily_difference": 1.4210854715202004e-14
+        }
+      },
+      "distinct_respondents": 226,
+      "eligible_days": 401,
+      "food_groups": 18,
+      "instance": {
+        "bytes": 2352833,
+        "filename": "M60.json",
+        "sha256": "5a1d1f9a09779af97d6ed9a820c692d2e21a5e4cf21dc17248331c8d0d1f49e3"
+      },
+      "observed_feasible_diets": 17,
+      "profile_id": "M60",
+      "variables": 731
+    }
+  ],
+  "main_campaign_started": false
+}

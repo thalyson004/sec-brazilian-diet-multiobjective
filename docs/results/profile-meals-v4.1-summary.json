@@ -1,0 +1,370 @@
+{
+  "execution": {
+    "catalogue_sha256": "3f2983506cbf3d6a60acb58c1837554d7f8a6d6cef607c930e457cedf9dd29eb",
+    "code_revision": "b36df1b943a9f24b338656d006c720da1ff891f5",
+    "environment": {
+      "matplotlib": "3.11.2",
+      "numpy": "2.4.1",
+      "openpyxl": "3.1.5",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "pymoo": "0.6.1.6",
+      "python": "3.14.4",
+      "scipy": "1.17.0"
+    },
+    "instance_manifest_sha256": "11da93cbe44a381a897d379eb5874b5e35b5d81699ad223c99881d39b27e28b4",
+    "signature": "90ef22662db507698d2ec74d4699694e0acba68e5c777e1a61ed18d79a345ae5"
+  },
+  "completion": {
+    "complete_runs": 1920,
+    "failures": [],
+    "planned_runs": 1920
+  },
+  "integrity": {
+    "complete_runs": 1920,
+    "evaluations": 31680000,
+    "rescored_front_entries": 15022,
+    "validated_artifact_hashes": 7680,
+    "failures": 0
+  },
+  "front_entries": 15022,
+  "food_summary_rows": 39504,
+  "front_export_sha256": "e220b56ea72230ab785a5a9a33e4d92de6d070953ae1965a19ba8f1d84d256b5",
+  "food_summary_sha256": "8dd0bb9a91207330ffdfd6fec83a51d5ed56ed3456df667c550e70d5d856c131",
+  "nutrition_selections": [
+    {
+      "all23": 0,
+      "means": {
+        "attained_targets": 19.41875,
+        "attainment_percent": 98.03538890328731,
+        "carbon_kg": 8.775848338099577,
+        "departure_percent": 247.95947098363436,
+        "shortfall_fraction": 0.014991697077670544,
+        "water_l": 11639.970691157292
+      },
+      "n": 480,
+      "profile_id": "F30",
+      "sample_sd": {
+        "attained_targets": 1.2865380144521508,
+        "attainment_percent": 0.9318224096523205,
+        "carbon_kg": 5.213579346354846,
+        "departure_percent": 47.097947428876736,
+        "shortfall_fraction": 0.00836039225097624,
+        "water_l": 5548.322680919093
+      },
+      "selection": "nutrition_max"
+    },
+    {
+      "all23": 0,
+      "means": {
+        "attained_targets": 18.922916666666666,
+        "attainment_percent": 97.23479998491958,
+        "carbon_kg": 4.605606164785019,
+        "departure_percent": 222.14940221283274,
+        "shortfall_fraction": 0.014630537612910034,
+        "water_l": 6379.39668644528
+      },
+      "n": 480,
+      "profile_id": "F30",
+      "sample_sd": {
+        "attained_targets": 1.2696455513356621,
+        "attainment_percent": 1.0849001723219687,
+        "carbon_kg": 3.369995854314473,
+        "departure_percent": 32.88522508474155,
+        "shortfall_fraction": 0.00864642725575011,
+        "water_l": 3820.8888692755577
+      },
+      "selection": "compromise"
+    },
+    {
+      "all23": 0,
+      "means": {
+        "attained_targets": 18.683333333333334,
+        "attainment_percent": 96.951118481888,
+        "carbon_kg": 4.728438449497725,
+        "departure_percent": 204.62132458640332,
+        "shortfall_fraction": 0.012009872425731457,
+        "water_l": 6846.0361622070795
+      },
+      "n": 480,
+      "profile_id": "F30",
+      "sample_sd": {
+        "attained_targets": 1.2360846890021473,
+        "attainment_percent": 1.223771248807896,
+        "carbon_kg": 2.922161721204804,
+        "departure_percent": 19.261076839426604,
+        "shortfall_fraction": 0.00893499151225512,
+        "water_l": 3227.168864988841
+      },
+      "selection": "departure_min"
+    },
+    {
+      "all23": 0,
+      "means": {
+        "attained_targets": 19.410416666666666,
+        "attainment_percent": 98.33602463233026,
+        "carbon_kg": 3.4213113123652246,
+        "departure_percent": 227.4281047938331,
+        "shortfall_fraction": 0.016873250391630738,
+        "water_l": 7318.092737504491
+      },
+      "n": 480,
+      "profile_id": "F60",
+      "sample_sd": {
+        "attained_targets": 1.1174717182361922,
+        "attainment_percent": 0.7571464068465315,
+        "carbon_kg": 1.3245032622016297,
+        "departure_percent": 35.10807870004205,
+        "shortfall_fraction": 0.008316262231614347,
+        "water_l": 2245.7952562475216
+      },
+      "selection": "nutrition_max"
+    },
+    {
+      "all23": 0,
+      "means": {
+        "attained_targets": 19.045833333333334,
+        "attainment_percent": 97.97927055066073,
+        "carbon_kg": 2.9149066831237307,
+        "departure_percent": 213.33304565960012,
+        "shortfall_fraction": 0.01900320658778631,
+        "water_l": 5921.03059550059
+      },
+      "n": 480,
+      "profile_id": "F60",
+      "sample_sd": {
+        "attained_targets": 1.267047977620505,
+        "attainment_percent": 0.8822984655637802,
+        "carbon_kg": 1.0842529400223686,
+        "departure_percent": 25.337228042401286,
+        "shortfall_fraction": 0.008232100134733368,
+        "water_l": 2445.3833404953643
+      },
+      "selection": "compromise"
+    },
+    {
+      "all23": 0,
+      "means": {
+        "attained_targets": 19.008333333333333,
+        "attainment_percent": 97.91646888789182,
+        "carbon_kg": 3.0120714660830457,
+        "departure_percent": 207.35126162332298,
+        "shortfall_fraction": 0.018160710497335426,
+        "water_l": 6264.599287973309
+      },
+      "n": 480,
+      "profile_id": "F60",
+      "sample_sd": {
+        "attained_targets": 1.339902051904791,
+        "attainment_percent": 0.977102674980596,
+        "carbon_kg": 1.1136525434971936,
+        "departure_percent": 16.072508885445043,
+        "shortfall_fraction": 0.007879819459481331,
+        "water_l": 2343.6194199860915
+      },
+      "selection": "departure_min"
+    },
+    {
+      "all23": 291,
+      "means": {
+        "attained_targets": 22.40625,
+        "attainment_percent": 99.82462610290176,
+        "carbon_kg": 3.8645901523548742,
+        "departure_percent": 194.68592896454055,
+        "shortfall_fraction": 0.00038774159195187065,
+        "water_l": 4982.7545653086145
+      },
+      "n": 480,
+      "profile_id": "M30",
+      "sample_sd": {
+        "attained_targets": 0.8904283996281231,
+        "attainment_percent": 0.3458436136429591,
+        "carbon_kg": 1.1822547601203088,
+        "departure_percent": 18.967955627911024,
+        "shortfall_fraction": 0.001459415537000728,
+        "water_l": 2279.1508355471906
+      },
+      "selection": "nutrition_max"
+    },
+    {
+      "all23": 32,
+      "means": {
+        "attained_targets": 21.454166666666666,
+        "attainment_percent": 99.08594797767962,
+        "carbon_kg": 3.5504215390003675,
+        "departure_percent": 187.74958941126823,
+        "shortfall_fraction": 0.0003627170614815339,
+        "water_l": 4560.921516732689
+      },
+      "n": 480,
+      "profile_id": "M30",
+      "sample_sd": {
+        "attained_targets": 0.790063112442489,
+        "attainment_percent": 0.6390516070133039,
+        "carbon_kg": 1.1070070004306147,
+        "departure_percent": 15.483476593579578,
+        "shortfall_fraction": 0.00133504463216565,
+        "water_l": 2642.4164341049654
+      },
+      "selection": "compromise"
+    },
+    {
+      "all23": 30,
+      "means": {
+        "attained_targets": 21.14375,
+        "attainment_percent": 98.63818569003014,
+        "carbon_kg": 3.982354313943884,
+        "departure_percent": 174.55711307232778,
+        "shortfall_fraction": 0.00023344112123954935,
+        "water_l": 4400.594083430089
+      },
+      "n": 480,
+      "profile_id": "M30",
+      "sample_sd": {
+        "attained_targets": 1.0145921257472832,
+        "attainment_percent": 0.8585047166809954,
+        "carbon_kg": 1.1438529950519725,
+        "departure_percent": 12.600484901403902,
+        "shortfall_fraction": 0.0012622900974677224,
+        "water_l": 2514.9764674025223
+      },
+      "selection": "departure_min"
+    },
+    {
+      "all23": 0,
+      "means": {
+        "attained_targets": 20.114583333333332,
+        "attainment_percent": 98.48725333233052,
+        "carbon_kg": 7.939367173226557,
+        "departure_percent": 248.48562920243447,
+        "shortfall_fraction": 0.015876511364597643,
+        "water_l": 13514.469935713114
+      },
+      "n": 480,
+      "profile_id": "M60",
+      "sample_sd": {
+        "attained_targets": 1.2008155863299736,
+        "attainment_percent": 0.6373125695602759,
+        "carbon_kg": 2.9510215461651,
+        "departure_percent": 40.718462759968624,
+        "shortfall_fraction": 0.00555278556056899,
+        "water_l": 5039.437825708837
+      },
+      "selection": "nutrition_max"
+    },
+    {
+      "all23": 0,
+      "means": {
+        "attained_targets": 18.8375,
+        "attainment_percent": 97.62857483869927,
+        "carbon_kg": 5.14883208526416,
+        "departure_percent": 219.15393980244392,
+        "shortfall_fraction": 0.01905260576297487,
+        "water_l": 7744.91815718043
+      },
+      "n": 480,
+      "profile_id": "M60",
+      "sample_sd": {
+        "attained_targets": 1.2322434011113477,
+        "attainment_percent": 0.9150752746971281,
+        "carbon_kg": 2.4719367032038213,
+        "departure_percent": 29.798437620717557,
+        "shortfall_fraction": 0.0066542213391345955,
+        "water_l": 5040.999127026987
+      },
+      "selection": "compromise"
+    },
+    {
+      "all23": 0,
+      "means": {
+        "attained_targets": 18.991666666666667,
+        "attainment_percent": 97.69569050257978,
+        "carbon_kg": 6.026919904562004,
+        "departure_percent": 207.05668727363454,
+        "shortfall_fraction": 0.017702607059520478,
+        "water_l": 7933.463451914292
+      },
+      "n": 480,
+      "profile_id": "M60",
+      "sample_sd": {
+        "attained_targets": 1.3210727173645884,
+        "attainment_percent": 0.9982851498072939,
+        "carbon_kg": 2.8376388524671183,
+        "departure_percent": 27.416822942535287,
+        "shortfall_fraction": 0.006297170113585573,
+        "water_l": 4195.65817291741
+      },
+      "selection": "departure_min"
+    },
+    {
+      "all23": 291,
+      "means": {
+        "attained_targets": 20.3375,
+        "attainment_percent": 98.67082324271269,
+        "carbon_kg": 6.000279244011561,
+        "departure_percent": 229.6397834861111,
+        "shortfall_fraction": 0.012032300106462723,
+        "water_l": 9363.821982420892
+      },
+      "n": 1920,
+      "profile_id": "GLOBAL",
+      "sample_sd": {
+        "attained_targets": 1.6708424326073907,
+        "attainment_percent": 0.9805698854366967,
+        "carbon_kg": 3.9264756462994064,
+        "departure_percent": 42.94898370431576,
+        "shortfall_fraction": 0.00941292258048015,
+        "water_l": 5294.465559236723
+      },
+      "selection": "nutrition_max"
+    },
+    {
+      "all23": 32,
+      "means": {
+        "attained_targets": 19.565104166666668,
+        "attainment_percent": 97.98214833798991,
+        "carbon_kg": 4.054941618043325,
+        "departure_percent": 210.59649427153593,
+        "shortfall_fraction": 0.01326226675628821,
+        "water_l": 6151.566738964732
+      },
+      "n": 1920,
+      "profile_id": "GLOBAL",
+      "sample_sd": {
+        "attained_targets": 1.5917095628762425,
+        "attainment_percent": 1.1290616673745495,
+        "carbon_kg": 2.3923310247357277,
+        "departure_percent": 29.92989256598796,
+        "shortfall_fraction": 0.010285592532264064,
+        "water_l": 3810.084813497658
+      },
+      "selection": "compromise"
+    },
+    {
+      "all23": 30,
+      "means": {
+        "attained_targets": 19.456770833333334,
+        "attainment_percent": 97.8003658905973,
+        "carbon_kg": 4.437446033521665,
+        "departure_percent": 198.39659663892232,
+        "shortfall_fraction": 0.012026657775956743,
+        "water_l": 6361.173246381169
+      },
+      "n": 1920,
+      "profile_id": "GLOBAL",
+      "sample_sd": {
+        "attained_targets": 1.5773296176954066,
+        "attainment_percent": 1.1861449862118563,
+        "carbon_kg": 2.447567959415915,
+        "departure_percent": 23.979212364211694,
+        "shortfall_fraction": 0.009898473531550184,
+        "water_l": 3403.577289478466
+      },
+      "selection": "departure_min"
+    }
+  ],
+  "publication_hashes": {
+    "publication_script_sha256": "065f9677103c243bf050ef21bb8d43f439786a95bfa1cfbf59cf77a29151e24f",
+    "renderer_sha256": "f4d0f280acbac40b67f6162ac001ad2946e74528ce6e7d431ab3d3cb117e2c79",
+    "graphics_sha256": "86ff78686fe92381cd3c698bf0d12aeeac10134c6e1d865312a23b0e23b95b45"
+  }
+}

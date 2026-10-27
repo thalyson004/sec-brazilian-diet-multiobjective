@@ -1,0 +1,806 @@
+{
+  "schema_version": "1.0",
+  "study_id": "sec2026-pof-meals-v3",
+  "profiles": {
+    "F30": [
+      {
+        "nutrient": "PTN",
+        "unit": "g",
+        "lower": 49.152,
+        "upper": null,
+        "recommendation_type": "RDA and AMDR",
+        "citation_key": "healthcanada2025macronutrients",
+        "lower_energy_fraction": 0.1,
+        "upper_energy_fraction": 0.35,
+        "kcal_per_g": 4
+      },
+      {
+        "nutrient": "CHOTOT",
+        "unit": "g",
+        "lower": null,
+        "upper": null,
+        "recommendation_type": "AMDR",
+        "citation_key": "healthcanada2025macronutrients",
+        "lower_energy_fraction": 0.45,
+        "upper_energy_fraction": 0.65,
+        "kcal_per_g": 4,
+        "field_note": "POF reported total carbohydrate is the operational measure; no digestible-carbohydrate RDA is imposed."
+      },
+      {
+        "nutrient": "LIP",
+        "unit": "g",
+        "lower": null,
+        "upper": null,
+        "recommendation_type": "AMDR intersected with WHO maximum",
+        "citation_key": "healthcanada2025macronutrients,who2023fatsupdate",
+        "lower_energy_fraction": 0.2,
+        "upper_energy_fraction": 0.3,
+        "kcal_per_g": 9
+      },
+      {
+        "nutrient": "FIBRA",
+        "unit": "g",
+        "lower": 25,
+        "upper": null,
+        "recommendation_type": "AI intersected with WHO minimum",
+        "citation_key": "healthcanada2025macronutrients,who2023fatsupdate"
+      },
+      {
+        "nutrient": "AGSAT",
+        "unit": "g",
+        "lower": null,
+        "upper": null,
+        "recommendation_type": "WHO recommended maximum",
+        "citation_key": "who2023fatsupdate",
+        "upper_energy_fraction": 0.1,
+        "kcal_per_g": 9
+      },
+      {
+        "nutrient": "AGTRANS",
+        "unit": "g",
+        "lower": null,
+        "upper": null,
+        "recommendation_type": "WHO recommended maximum",
+        "citation_key": "who2023fatsupdate",
+        "upper_energy_fraction": 0.01,
+        "kcal_per_g": 9
+      },
+      {
+        "nutrient": "SODIO",
+        "unit": "mg",
+        "lower": null,
+        "upper": 2000,
+        "recommendation_type": "WHO recommended maximum",
+        "citation_key": "who2012sodium"
+      },
+      {
+        "nutrient": "CALCIO",
+        "unit": "mg",
+        "lower": 1000,
+        "upper": 2500,
+        "recommendation_type": "RDA and UL",
+        "citation_key": "healthcanada2025elements"
+      },
+      {
+        "nutrient": "FERRO",
+        "unit": "mg",
+        "lower": 18,
+        "upper": 45,
+        "recommendation_type": "RDA and UL",
+        "citation_key": "healthcanada2025elements"
+      },
+      {
+        "nutrient": "MAGNESIO",
+        "unit": "mg",
+        "lower": 310,
+        "upper": null,
+        "recommendation_type": "RDA",
+        "citation_key": "healthcanada2025elements"
+      },
+      {
+        "nutrient": "FOSFORO",
+        "unit": "mg",
+        "lower": 700,
+        "upper": 4000,
+        "recommendation_type": "RDA and UL",
+        "citation_key": "healthcanada2025elements"
+      },
+      {
+        "nutrient": "POTASSIO",
+        "unit": "mg",
+        "lower": 2600,
+        "upper": null,
+        "recommendation_type": "AI",
+        "citation_key": "healthcanada2025elements"
+      },
+      {
+        "nutrient": "COBRE",
+        "unit": "mg",
+        "lower": 0.9,
+        "upper": 10,
+        "recommendation_type": "RDA and UL",
+        "citation_key": "healthcanada2025elements"
+      },
+      {
+        "nutrient": "ZINCO",
+        "unit": "mg",
+        "lower": 8,
+        "upper": 40,
+        "recommendation_type": "RDA and UL",
+        "citation_key": "healthcanada2025elements"
+      },
+      {
+        "nutrient": "VITA_RAE",
+        "unit": "ug RAE",
+        "lower": 700,
+        "upper": null,
+        "recommendation_type": "RDA",
+        "citation_key": "healthcanada2025vitamins"
+      },
+      {
+        "nutrient": "TIAMINA",
+        "unit": "mg",
+        "lower": 1.1,
+        "upper": null,
+        "recommendation_type": "RDA",
+        "citation_key": "healthcanada2025vitamins"
+      },
+      {
+        "nutrient": "RIBOFLAVINA",
+        "unit": "mg",
+        "lower": 1.1,
+        "upper": null,
+        "recommendation_type": "RDA",
+        "citation_key": "healthcanada2025vitamins"
+      },
+      {
+        "nutrient": "NIACINA",
+        "unit": "mg NE",
+        "lower": 14,
+        "upper": null,
+        "recommendation_type": "RDA",
+        "citation_key": "healthcanada2025vitamins"
+      },
+      {
+        "nutrient": "PIRIDOXAMINA",
+        "unit": "mg",
+        "lower": 1.3,
+        "upper": 100,
+        "recommendation_type": "RDA and UL",
+        "citation_key": "healthcanada2025vitamins"
+      },
+      {
+        "nutrient": "COBALAMINA",
+        "unit": "ug",
+        "lower": 2.4,
+        "upper": null,
+        "recommendation_type": "RDA",
+        "citation_key": "healthcanada2025vitamins"
+      },
+      {
+        "nutrient": "VITD",
+        "unit": "ug",
+        "lower": 15,
+        "upper": 100,
+        "recommendation_type": "RDA and UL",
+        "citation_key": "healthcanada2025vitamins"
+      },
+      {
+        "nutrient": "VITE",
+        "unit": "mg alpha-tocopherol",
+        "lower": 15,
+        "upper": null,
+        "recommendation_type": "RDA",
+        "citation_key": "healthcanada2025vitamins"
+      },
+      {
+        "nutrient": "VITC",
+        "unit": "mg",
+        "lower": 75,
+        "upper": 2000,
+        "recommendation_type": "RDA and UL",
+        "citation_key": "healthcanada2025vitamins"
+      }
+    ],
+    "F60": [
+      {
+        "nutrient": "PTN",
+        "unit": "g",
+        "lower": 47.0852352,
+        "upper": null,
+        "recommendation_type": "RDA and AMDR",
+        "citation_key": "healthcanada2025macronutrients",
+        "lower_energy_fraction": 0.1,
+        "upper_energy_fraction": 0.35,
+        "kcal_per_g": 4
+      },
+      {
+        "nutrient": "CHOTOT",
+        "unit": "g",
+        "lower": null,
+        "upper": null,
+        "recommendation_type": "AMDR",
+        "citation_key": "healthcanada2025macronutrients",
+        "lower_energy_fraction": 0.45,
+        "upper_energy_fraction": 0.65,
+        "kcal_per_g": 4,
+        "field_note": "POF reported total carbohydrate is the operational measure; no digestible-carbohydrate RDA is imposed."
+      },
+      {
+        "nutrient": "LIP",
+        "unit": "g",
+        "lower": null,
+        "upper": null,
+        "recommendation_type": "AMDR intersected with WHO maximum",
+        "citation_key": "healthcanada2025macronutrients,who2023fatsupdate",
+        "lower_energy_fraction": 0.2,
+        "upper_energy_fraction": 0.3,
+        "kcal_per_g": 9
+      },
+      {
+        "nutrient": "FIBRA",
+        "unit": "g",
+        "lower": 25,
+        "upper": null,
+        "recommendation_type": "AI intersected with WHO minimum",
+        "citation_key": "healthcanada2025macronutrients,who2023fatsupdate"
+      },
+      {
+        "nutrient": "AGSAT",
+        "unit": "g",
+        "lower": null,
+        "upper": null,
+        "recommendation_type": "WHO recommended maximum",
+        "citation_key": "who2023fatsupdate",
+        "upper_energy_fraction": 0.1,
+        "kcal_per_g": 9
+      },
+      {
+        "nutrient": "AGTRANS",
+        "unit": "g",
+        "lower": null,
+        "upper": null,
+        "recommendation_type": "WHO recommended maximum",
+        "citation_key": "who2023fatsupdate",
+        "upper_energy_fraction": 0.01,
+        "kcal_per_g": 9
+      },
+      {
+        "nutrient": "SODIO",
+        "unit": "mg",
+        "lower": null,
+        "upper": 2000,
+        "recommendation_type": "WHO recommended maximum",
+        "citation_key": "who2012sodium"
+      },
+      {
+        "nutrient": "CALCIO",
+        "unit": "mg",
+        "lower": 1200,
+        "upper": 2000,
+        "recommendation_type": "RDA and UL",
+        "citation_key": "healthcanada2025elements"
+      },
+      {
+        "nutrient": "FERRO",
+        "unit": "mg",
+        "lower": 8,
+        "upper": 45,
+        "recommendation_type": "RDA and UL",
+        "citation_key": "healthcanada2025elements"
+      },
+      {
+        "nutrient": "MAGNESIO",
+        "unit": "mg",
+        "lower": 320,
+        "upper": null,
+        "recommendation_type": "RDA",
+        "citation_key": "healthcanada2025elements"
+      },
+      {
+        "nutrient": "FOSFORO",
+        "unit": "mg",
+        "lower": 700,
+        "upper": 4000,
+        "recommendation_type": "RDA and UL",
+        "citation_key": "healthcanada2025elements"
+      },
+      {
+        "nutrient": "POTASSIO",
+        "unit": "mg",
+        "lower": 2600,
+        "upper": null,
+        "recommendation_type": "AI",
+        "citation_key": "healthcanada2025elements"
+      },
+      {
+        "nutrient": "COBRE",
+        "unit": "mg",
+        "lower": 0.9,
+        "upper": 10,
+        "recommendation_type": "RDA and UL",
+        "citation_key": "healthcanada2025elements"
+      },
+      {
+        "nutrient": "ZINCO",
+        "unit": "mg",
+        "lower": 8,
+        "upper": 40,
+        "recommendation_type": "RDA and UL",
+        "citation_key": "healthcanada2025elements"
+      },
+      {
+        "nutrient": "VITA_RAE",
+        "unit": "ug RAE",
+        "lower": 700,
+        "upper": null,
+        "recommendation_type": "RDA",
+        "citation_key": "healthcanada2025vitamins"
+      },
+      {
+        "nutrient": "TIAMINA",
+        "unit": "mg",
+        "lower": 1.1,
+        "upper": null,
+        "recommendation_type": "RDA",
+        "citation_key": "healthcanada2025vitamins"
+      },
+      {
+        "nutrient": "RIBOFLAVINA",
+        "unit": "mg",
+        "lower": 1.1,
+        "upper": null,
+        "recommendation_type": "RDA",
+        "citation_key": "healthcanada2025vitamins"
+      },
+      {
+        "nutrient": "NIACINA",
+        "unit": "mg NE",
+        "lower": 14,
+        "upper": null,
+        "recommendation_type": "RDA",
+        "citation_key": "healthcanada2025vitamins"
+      },
+      {
+        "nutrient": "PIRIDOXAMINA",
+        "unit": "mg",
+        "lower": 1.5,
+        "upper": 100,
+        "recommendation_type": "RDA and UL",
+        "citation_key": "healthcanada2025vitamins"
+      },
+      {
+        "nutrient": "COBALAMINA",
+        "unit": "ug",
+        "lower": 2.4,
+        "upper": null,
+        "recommendation_type": "RDA",
+        "citation_key": "healthcanada2025vitamins"
+      },
+      {
+        "nutrient": "VITD",
+        "unit": "ug",
+        "lower": 15,
+        "upper": 100,
+        "recommendation_type": "RDA and UL",
+        "citation_key": "healthcanada2025vitamins"
+      },
+      {
+        "nutrient": "VITE",
+        "unit": "mg alpha-tocopherol",
+        "lower": 15,
+        "upper": null,
+        "recommendation_type": "RDA",
+        "citation_key": "healthcanada2025vitamins"
+      },
+      {
+        "nutrient": "VITC",
+        "unit": "mg",
+        "lower": 75,
+        "upper": 2000,
+        "recommendation_type": "RDA and UL",
+        "citation_key": "healthcanada2025vitamins"
+      }
+    ],
+    "M30": [
+      {
+        "nutrient": "PTN",
+        "unit": "g",
+        "lower": 56.537395200000006,
+        "upper": null,
+        "recommendation_type": "RDA and AMDR",
+        "citation_key": "healthcanada2025macronutrients",
+        "lower_energy_fraction": 0.1,
+        "upper_energy_fraction": 0.35,
+        "kcal_per_g": 4
+      },
+      {
+        "nutrient": "CHOTOT",
+        "unit": "g",
+        "lower": null,
+        "upper": null,
+        "recommendation_type": "AMDR",
+        "citation_key": "healthcanada2025macronutrients",
+        "lower_energy_fraction": 0.45,
+        "upper_energy_fraction": 0.65,
+        "kcal_per_g": 4,
+        "field_note": "POF reported total carbohydrate is the operational measure; no digestible-carbohydrate RDA is imposed."
+      },
+      {
+        "nutrient": "LIP",
+        "unit": "g",
+        "lower": null,
+        "upper": null,
+        "recommendation_type": "AMDR intersected with WHO maximum",
+        "citation_key": "healthcanada2025macronutrients,who2023fatsupdate",
+        "lower_energy_fraction": 0.2,
+        "upper_energy_fraction": 0.3,
+        "kcal_per_g": 9
+      },
+      {
+        "nutrient": "FIBRA",
+        "unit": "g",
+        "lower": 38,
+        "upper": null,
+        "recommendation_type": "AI intersected with WHO minimum",
+        "citation_key": "healthcanada2025macronutrients,who2023fatsupdate"
+      },
+      {
+        "nutrient": "AGSAT",
+        "unit": "g",
+        "lower": null,
+        "upper": null,
+        "recommendation_type": "WHO recommended maximum",
+        "citation_key": "who2023fatsupdate",
+        "upper_energy_fraction": 0.1,
+        "kcal_per_g": 9
+      },
+      {
+        "nutrient": "AGTRANS",
+        "unit": "g",
+        "lower": null,
+        "upper": null,
+        "recommendation_type": "WHO recommended maximum",
+        "citation_key": "who2023fatsupdate",
+        "upper_energy_fraction": 0.01,
+        "kcal_per_g": 9
+      },
+      {
+        "nutrient": "SODIO",
+        "unit": "mg",
+        "lower": null,
+        "upper": 2000,
+        "recommendation_type": "WHO recommended maximum",
+        "citation_key": "who2012sodium"
+      },
+      {
+        "nutrient": "CALCIO",
+        "unit": "mg",
+        "lower": 1000,
+        "upper": 2500,
+        "recommendation_type": "RDA and UL",
+        "citation_key": "healthcanada2025elements"
+      },
+      {
+        "nutrient": "FERRO",
+        "unit": "mg",
+        "lower": 8,
+        "upper": 45,
+        "recommendation_type": "RDA and UL",
+        "citation_key": "healthcanada2025elements"
+      },
+      {
+        "nutrient": "MAGNESIO",
+        "unit": "mg",
+        "lower": 400,
+        "upper": null,
+        "recommendation_type": "RDA",
+        "citation_key": "healthcanada2025elements"
+      },
+      {
+        "nutrient": "FOSFORO",
+        "unit": "mg",
+        "lower": 700,
+        "upper": 4000,
+        "recommendation_type": "RDA and UL",
+        "citation_key": "healthcanada2025elements"
+      },
+      {
+        "nutrient": "POTASSIO",
+        "unit": "mg",
+        "lower": 3400,
+        "upper": null,
+        "recommendation_type": "AI",
+        "citation_key": "healthcanada2025elements"
+      },
+      {
+        "nutrient": "COBRE",
+        "unit": "mg",
+        "lower": 0.9,
+        "upper": 10,
+        "recommendation_type": "RDA and UL",
+        "citation_key": "healthcanada2025elements"
+      },
+      {
+        "nutrient": "ZINCO",
+        "unit": "mg",
+        "lower": 11,
+        "upper": 40,
+        "recommendation_type": "RDA and UL",
+        "citation_key": "healthcanada2025elements"
+      },
+      {
+        "nutrient": "VITA_RAE",
+        "unit": "ug RAE",
+        "lower": 900,
+        "upper": null,
+        "recommendation_type": "RDA",
+        "citation_key": "healthcanada2025vitamins"
+      },
+      {
+        "nutrient": "TIAMINA",
+        "unit": "mg",
+        "lower": 1.2,
+        "upper": null,
+        "recommendation_type": "RDA",
+        "citation_key": "healthcanada2025vitamins"
+      },
+      {
+        "nutrient": "RIBOFLAVINA",
+        "unit": "mg",
+        "lower": 1.3,
+        "upper": null,
+        "recommendation_type": "RDA",
+        "citation_key": "healthcanada2025vitamins"
+      },
+      {
+        "nutrient": "NIACINA",
+        "unit": "mg NE",
+        "lower": 16,
+        "upper": null,
+        "recommendation_type": "RDA",
+        "citation_key": "healthcanada2025vitamins"
+      },
+      {
+        "nutrient": "PIRIDOXAMINA",
+        "unit": "mg",
+        "lower": 1.3,
+        "upper": 100,
+        "recommendation_type": "RDA and UL",
+        "citation_key": "healthcanada2025vitamins"
+      },
+      {
+        "nutrient": "COBALAMINA",
+        "unit": "ug",
+        "lower": 2.4,
+        "upper": null,
+        "recommendation_type": "RDA",
+        "citation_key": "healthcanada2025vitamins"
+      },
+      {
+        "nutrient": "VITD",
+        "unit": "ug",
+        "lower": 15,
+        "upper": 100,
+        "recommendation_type": "RDA and UL",
+        "citation_key": "healthcanada2025vitamins"
+      },
+      {
+        "nutrient": "VITE",
+        "unit": "mg alpha-tocopherol",
+        "lower": 15,
+        "upper": null,
+        "recommendation_type": "RDA",
+        "citation_key": "healthcanada2025vitamins"
+      },
+      {
+        "nutrient": "VITC",
+        "unit": "mg",
+        "lower": 90,
+        "upper": 2000,
+        "recommendation_type": "RDA and UL",
+        "citation_key": "healthcanada2025vitamins"
+      }
+    ],
+    "M60": [
+      {
+        "nutrient": "PTN",
+        "unit": "g",
+        "lower": 54.319180800000005,
+        "upper": null,
+        "recommendation_type": "RDA and AMDR",
+        "citation_key": "healthcanada2025macronutrients",
+        "lower_energy_fraction": 0.1,
+        "upper_energy_fraction": 0.35,
+        "kcal_per_g": 4
+      },
+      {
+        "nutrient": "CHOTOT",
+        "unit": "g",
+        "lower": null,
+        "upper": null,
+        "recommendation_type": "AMDR",
+        "citation_key": "healthcanada2025macronutrients",
+        "lower_energy_fraction": 0.45,
+        "upper_energy_fraction": 0.65,
+        "kcal_per_g": 4,
+        "field_note": "POF reported total carbohydrate is the operational measure; no digestible-carbohydrate RDA is imposed."
+      },
+      {
+        "nutrient": "LIP",
+        "unit": "g",
+        "lower": null,
+        "upper": null,
+        "recommendation_type": "AMDR intersected with WHO maximum",
+        "citation_key": "healthcanada2025macronutrients,who2023fatsupdate",
+        "lower_energy_fraction": 0.2,
+        "upper_energy_fraction": 0.3,
+        "kcal_per_g": 9
+      },
+      {
+        "nutrient": "FIBRA",
+        "unit": "g",
+        "lower": 30,
+        "upper": null,
+        "recommendation_type": "AI intersected with WHO minimum",
+        "citation_key": "healthcanada2025macronutrients,who2023fatsupdate"
+      },
+      {
+        "nutrient": "AGSAT",
+        "unit": "g",
+        "lower": null,
+        "upper": null,
+        "recommendation_type": "WHO recommended maximum",
+        "citation_key": "who2023fatsupdate",
+        "upper_energy_fraction": 0.1,
+        "kcal_per_g": 9
+      },
+      {
+        "nutrient": "AGTRANS",
+        "unit": "g",
+        "lower": null,
+        "upper": null,
+        "recommendation_type": "WHO recommended maximum",
+        "citation_key": "who2023fatsupdate",
+        "upper_energy_fraction": 0.01,
+        "kcal_per_g": 9
+      },
+      {
+        "nutrient": "SODIO",
+        "unit": "mg",
+        "lower": null,
+        "upper": 2000,
+        "recommendation_type": "WHO recommended maximum",
+        "citation_key": "who2012sodium"
+      },
+      {
+        "nutrient": "CALCIO",
+        "unit": "mg",
+        "lower": 1000,
+        "upper": 2000,
+        "recommendation_type": "RDA and UL",
+        "citation_key": "healthcanada2025elements"
+      },
+      {
+        "nutrient": "FERRO",
+        "unit": "mg",
+        "lower": 8,
+        "upper": 45,
+        "recommendation_type": "RDA and UL",
+        "citation_key": "healthcanada2025elements"
+      },
+      {
+        "nutrient": "MAGNESIO",
+        "unit": "mg",
+        "lower": 420,
+        "upper": null,
+        "recommendation_type": "RDA",
+        "citation_key": "healthcanada2025elements"
+      },
+      {
+        "nutrient": "FOSFORO",
+        "unit": "mg",
+        "lower": 700,
+        "upper": 4000,
+        "recommendation_type": "RDA and UL",
+        "citation_key": "healthcanada2025elements"
+      },
+      {
+        "nutrient": "POTASSIO",
+        "unit": "mg",
+        "lower": 3400,
+        "upper": null,
+        "recommendation_type": "AI",
+        "citation_key": "healthcanada2025elements"
+      },
+      {
+        "nutrient": "COBRE",
+        "unit": "mg",
+        "lower": 0.9,
+        "upper": 10,
+        "recommendation_type": "RDA and UL",
+        "citation_key": "healthcanada2025elements"
+      },
+      {
+        "nutrient": "ZINCO",
+        "unit": "mg",
+        "lower": 11,
+        "upper": 40,
+        "recommendation_type": "RDA and UL",
+        "citation_key": "healthcanada2025elements"
+      },
+      {
+        "nutrient": "VITA_RAE",
+        "unit": "ug RAE",
+        "lower": 900,
+        "upper": null,
+        "recommendation_type": "RDA",
+        "citation_key": "healthcanada2025vitamins"
+      },
+      {
+        "nutrient": "TIAMINA",
+        "unit": "mg",
+        "lower": 1.2,
+        "upper": null,
+        "recommendation_type": "RDA",
+        "citation_key": "healthcanada2025vitamins"
+      },
+      {
+        "nutrient": "RIBOFLAVINA",
+        "unit": "mg",
+        "lower": 1.3,
+        "upper": null,
+        "recommendation_type": "RDA",
+        "citation_key": "healthcanada2025vitamins"
+      },
+      {
+        "nutrient": "NIACINA",
+        "unit": "mg NE",
+        "lower": 16,
+        "upper": null,
+        "recommendation_type": "RDA",
+        "citation_key": "healthcanada2025vitamins"
+      },
+      {
+        "nutrient": "PIRIDOXAMINA",
+        "unit": "mg",
+        "lower": 1.7,
+        "upper": 100,
+        "recommendation_type": "RDA and UL",
+        "citation_key": "healthcanada2025vitamins"
+      },
+      {
+        "nutrient": "COBALAMINA",
+        "unit": "ug",
+        "lower": 2.4,
+        "upper": null,
+        "recommendation_type": "RDA",
+        "citation_key": "healthcanada2025vitamins"
+      },
+      {
+        "nutrient": "VITD",
+        "unit": "ug",
+        "lower": 15,
+        "upper": 100,
+        "recommendation_type": "RDA and UL",
+        "citation_key": "healthcanada2025vitamins"
+      },
+      {
+        "nutrient": "VITE",
+        "unit": "mg alpha-tocopherol",
+        "lower": 15,
+        "upper": null,
+        "recommendation_type": "RDA",
+        "citation_key": "healthcanada2025vitamins"
+      },
+      {
+        "nutrient": "VITC",
+        "unit": "mg",
+        "lower": 90,
+        "upper": 2000,
+        "recommendation_type": "RDA and UL",
+        "citation_key": "healthcanada2025vitamins"
+      }
+    ]
+  }
+}

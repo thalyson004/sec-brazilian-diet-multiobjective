@@ -1,0 +1,422 @@
+{
+  "F30": {
+    "methods": {
+      "all_four_distance": {
+        "available_runs": 480,
+        "conditional_means": {
+          "attainment_percent": 97.07477805634745,
+          "carbon_kg": 4.044955835596868,
+          "departure_percent": 216.40927677082615,
+          "water_l": 5674.359128399763
+        },
+        "improves_NCW": 203,
+        "improves_NCWD": 10,
+        "missing_runs": 0
+      },
+      "minimum_departure_bound": {
+        "available_runs": 480,
+        "conditional_means": {
+          "attainment_percent": 96.95111848188803,
+          "carbon_kg": 4.7284384494977285,
+          "departure_percent": 204.62132458640326,
+          "water_l": 6846.036162207088
+        },
+        "improves_NCW": 118,
+        "improves_NCWD": 20,
+        "missing_runs": 0
+      },
+      "minimum_water_bound": {
+        "available_runs": 480,
+        "conditional_means": {
+          "attainment_percent": 96.84703457247117,
+          "carbon_kg": 4.315950025036411,
+          "departure_percent": 218.45373685709845,
+          "water_l": 5487.527225037513
+        },
+        "improves_NCW": 211,
+        "improves_NCWD": 10,
+        "missing_runs": 0
+      },
+      "original_distance": {
+        "available_runs": 480,
+        "conditional_means": {
+          "attainment_percent": 97.2347999849196,
+          "carbon_kg": 4.605606164785022,
+          "departure_percent": 222.14940221283274,
+          "water_l": 6379.396686445279
+        },
+        "improves_NCW": 183,
+        "improves_NCWD": 9,
+        "missing_runs": 0
+      },
+      "reference_NCW": {
+        "available_runs": 216,
+        "conditional_means": {
+          "attainment_percent": 96.61046284092252,
+          "carbon_kg": 3.6256183054699482,
+          "departure_percent": 220.45730831955774,
+          "water_l": 3092.0558988127545
+        },
+        "improves_NCW": 216,
+        "improves_NCWD": 15,
+        "missing_runs": 264
+      },
+      "reference_NCWD": {
+        "available_runs": 23,
+        "conditional_means": {
+          "attainment_percent": 96.24078506700435,
+          "carbon_kg": 3.8589385074893574,
+          "departure_percent": 180.29942788727953,
+          "water_l": 3478.9522507688375
+        },
+        "improves_NCW": 23,
+        "improves_NCWD": 23,
+        "missing_runs": 457
+      }
+    },
+    "observed_means": {
+      "attainment_percent": 74.9885233412079,
+      "carbon_kg": 5.525154871890669,
+      "departure_percent": 186.1913523342178,
+      "water_l": 5262.003157816428
+    },
+    "observed_n": 27,
+    "planned_runs": 480
+  },
+  "F60": {
+    "methods": {
+      "all_four_distance": {
+        "available_runs": 480,
+        "conditional_means": {
+          "attainment_percent": 97.99127591092147,
+          "carbon_kg": 2.8752426963971667,
+          "departure_percent": 212.32034872817744,
+          "water_l": 5829.9170672336395
+        },
+        "improves_NCW": 279,
+        "improves_NCWD": 161,
+        "missing_runs": 0
+      },
+      "minimum_departure_bound": {
+        "available_runs": 480,
+        "conditional_means": {
+          "attainment_percent": 97.91646888789195,
+          "carbon_kg": 3.012071466083047,
+          "departure_percent": 207.35126162332332,
+          "water_l": 6264.599287973304
+        },
+        "improves_NCW": 228,
+        "improves_NCWD": 161,
+        "missing_runs": 0
+      },
+      "minimum_water_bound": {
+        "available_runs": 480,
+        "conditional_means": {
+          "attainment_percent": 98.00958711099399,
+          "carbon_kg": 3.1410889550412575,
+          "departure_percent": 215.7651408575959,
+          "water_l": 5612.918786149254
+        },
+        "improves_NCW": 286,
+        "improves_NCWD": 148,
+        "missing_runs": 0
+      },
+      "original_distance": {
+        "available_runs": 480,
+        "conditional_means": {
+          "attainment_percent": 97.97927055066087,
+          "carbon_kg": 2.9149066831237325,
+          "departure_percent": 213.33304565960034,
+          "water_l": 5921.030595500589
+        },
+        "improves_NCW": 267,
+        "improves_NCWD": 153,
+        "missing_runs": 0
+      },
+      "reference_NCW": {
+        "available_runs": 287,
+        "conditional_means": {
+          "attainment_percent": 97.8932336009283,
+          "carbon_kg": 3.0465677908524897,
+          "departure_percent": 211.08671748637954,
+          "water_l": 4033.6283667094644
+        },
+        "improves_NCW": 287,
+        "improves_NCWD": 147,
+        "missing_runs": 193
+      },
+      "reference_NCWD": {
+        "available_runs": 188,
+        "conditional_means": {
+          "attainment_percent": 97.88313147629448,
+          "carbon_kg": 2.945926559302416,
+          "departure_percent": 197.83022948141158,
+          "water_l": 4212.894133572947
+        },
+        "improves_NCW": 188,
+        "improves_NCWD": 188,
+        "missing_runs": 292
+      }
+    },
+    "observed_means": {
+      "attainment_percent": 74.92678733589818,
+      "carbon_kg": 5.175758595541434,
+      "departure_percent": 206.12760813676286,
+      "water_l": 5704.911774298494
+    },
+    "observed_n": 38,
+    "planned_runs": 480
+  },
+  "GLOBAL": {
+    "methods": {
+      "all_four_distance": {
+        "available_runs": 1920,
+        "conditional_equal_profile_means": {
+          "attainment_percent": 97.97467570736805,
+          "carbon_kg": 3.911557260633403,
+          "departure_percent": 207.55924264324534,
+          "water_l": 5419.156883227888
+        },
+        "improves_NCW": 1179,
+        "improves_NCWD": 450,
+        "missing_runs": 0
+      },
+      "minimum_departure_bound": {
+        "available_runs": 1920,
+        "conditional_equal_profile_means": {
+          "attainment_percent": 97.80036589059746,
+          "carbon_kg": 4.437446033521668,
+          "departure_percent": 198.3965966389223,
+          "water_l": 6361.173246381195
+        },
+        "improves_NCW": 910,
+        "improves_NCWD": 564,
+        "missing_runs": 0
+      },
+      "minimum_water_bound": {
+        "available_runs": 1920,
+        "conditional_equal_profile_means": {
+          "attainment_percent": 97.85736510216643,
+          "carbon_kg": 4.2625001031640934,
+          "departure_percent": 208.74198988277652,
+          "water_l": 5236.024710398697
+        },
+        "improves_NCW": 1193,
+        "improves_NCWD": 456,
+        "missing_runs": 0
+      },
+      "original_distance": {
+        "available_runs": 1920,
+        "conditional_equal_profile_means": {
+          "attainment_percent": 97.98214833798986,
+          "carbon_kg": 4.054941618043321,
+          "departure_percent": 210.5964942715364,
+          "water_l": 6151.566738964747
+        },
+        "improves_NCW": 1026,
+        "improves_NCWD": 374,
+        "missing_runs": 0
+      },
+      "reference_NCW": {
+        "available_runs": 1202,
+        "conditional_equal_profile_means": {
+          "attainment_percent": 97.73428558211207,
+          "carbon_kg": 3.650032369314286,
+          "departure_percent": 205.56032791112057,
+          "water_l": 3445.0720716910905
+        },
+        "improves_NCW": 1202,
+        "improves_NCWD": 428,
+        "missing_runs": 718
+      },
+      "reference_NCWD": {
+        "available_runs": 635,
+        "conditional_equal_profile_means": {
+          "attainment_percent": 97.4209501880159,
+          "carbon_kg": 3.775992572812453,
+          "departure_percent": 182.11416431341175,
+          "water_l": 3674.1044172550723
+        },
+        "improves_NCW": 635,
+        "improves_NCWD": 635,
+        "missing_runs": 1285
+      }
+    },
+    "observed_means": {
+      "attainment_percent": 75.77983931938773,
+      "carbon_kg": 6.40549583725811,
+      "departure_percent": 192.8586928317018,
+      "water_l": 5933.3278069387725
+    },
+    "observed_n": 108,
+    "planned_runs": 1920
+  },
+  "M30": {
+    "methods": {
+      "all_four_distance": {
+        "available_runs": 480,
+        "conditional_means": {
+          "attainment_percent": 99.18152360450564,
+          "carbon_kg": 3.500916775800165,
+          "departure_percent": 185.56710700236732,
+          "water_l": 3372.4264620419835
+        },
+        "improves_NCW": 450,
+        "improves_NCWD": 159,
+        "missing_runs": 0
+      },
+      "minimum_departure_bound": {
+        "available_runs": 480,
+        "conditional_means": {
+          "attainment_percent": 98.63818569003016,
+          "carbon_kg": 3.9823543139438846,
+          "departure_percent": 174.55711307232772,
+          "water_l": 4400.594083430092
+        },
+        "improves_NCW": 376,
+        "improves_NCWD": 256,
+        "missing_runs": 0
+      },
+      "minimum_water_bound": {
+        "available_runs": 480,
+        "conditional_means": {
+          "attainment_percent": 98.89233654768334,
+          "carbon_kg": 4.042016148662077,
+          "departure_percent": 184.5519706907471,
+          "water_l": 3168.6708888299395
+        },
+        "improves_NCW": 448,
+        "improves_NCWD": 177,
+        "missing_runs": 0
+      },
+      "original_distance": {
+        "available_runs": 480,
+        "conditional_means": {
+          "attainment_percent": 99.08594797767974,
+          "carbon_kg": 3.550421539000366,
+          "departure_percent": 187.74958941126846,
+          "water_l": 4560.921516732693
+        },
+        "improves_NCW": 349,
+        "improves_NCWD": 110,
+        "missing_runs": 0
+      },
+      "reference_NCW": {
+        "available_runs": 451,
+        "conditional_means": {
+          "attainment_percent": 99.16058672862442,
+          "carbon_kg": 3.5346945963434466,
+          "departure_percent": 186.41266960289278,
+          "water_l": 3194.883288377775
+        },
+        "improves_NCW": 451,
+        "improves_NCWD": 145,
+        "missing_runs": 29
+      },
+      "reference_NCWD": {
+        "available_runs": 277,
+        "conditional_means": {
+          "attainment_percent": 98.5380290043707,
+          "carbon_kg": 4.045982182094172,
+          "departure_percent": 166.63432443283364,
+          "water_l": 3251.589357352578
+        },
+        "improves_NCW": 277,
+        "improves_NCWD": 277,
+        "missing_runs": 203
+      }
+    },
+    "observed_means": {
+      "attainment_percent": 76.23569580179189,
+      "carbon_kg": 6.516436118607927,
+      "departure_percent": 178.78089113528426,
+      "water_l": 6143.780136629287
+    },
+    "observed_n": 24,
+    "planned_runs": 480
+  },
+  "M60": {
+    "methods": {
+      "all_four_distance": {
+        "available_runs": 480,
+        "conditional_means": {
+          "attainment_percent": 97.65112525769761,
+          "carbon_kg": 5.225113734739412,
+          "departure_percent": 215.9402380716104,
+          "water_l": 6799.9248752361655
+        },
+        "improves_NCW": 247,
+        "improves_NCWD": 120,
+        "missing_runs": 0
+      },
+      "minimum_departure_bound": {
+        "available_runs": 480,
+        "conditional_means": {
+          "attainment_percent": 97.69569050257968,
+          "carbon_kg": 6.02691990456201,
+          "departure_percent": 207.05668727363476,
+          "water_l": 7933.463451914296
+        },
+        "improves_NCW": 188,
+        "improves_NCWD": 127,
+        "missing_runs": 0
+      },
+      "minimum_water_bound": {
+        "available_runs": 480,
+        "conditional_means": {
+          "attainment_percent": 97.68050217751721,
+          "carbon_kg": 5.550945283916631,
+          "departure_percent": 216.19711112566458,
+          "water_l": 6674.981941578079
+        },
+        "improves_NCW": 248,
+        "improves_NCWD": 121,
+        "missing_runs": 0
+      },
+      "original_distance": {
+        "available_runs": 480,
+        "conditional_means": {
+          "attainment_percent": 97.62857483869917,
+          "carbon_kg": 5.148832085264161,
+          "departure_percent": 219.1539398024439,
+          "water_l": 7744.918157180426
+        },
+        "improves_NCW": 227,
+        "improves_NCWD": 102,
+        "missing_runs": 0
+      },
+      "reference_NCW": {
+        "available_runs": 248,
+        "conditional_means": {
+          "attainment_percent": 97.27285915797303,
+          "carbon_kg": 4.393248784591262,
+          "departure_percent": 204.28461623565232,
+          "water_l": 3459.7207328643685
+        },
+        "improves_NCW": 248,
+        "improves_NCWD": 121,
+        "missing_runs": 232
+      },
+      "reference_NCWD": {
+        "available_runs": 147,
+        "conditional_means": {
+          "attainment_percent": 97.02185520439403,
+          "carbon_kg": 4.253123042363868,
+          "departure_percent": 183.69267545212222,
+          "water_l": 3752.981927325926
+        },
+        "improves_NCW": 147,
+        "improves_NCWD": 147,
+        "missing_runs": 333
+      }
+    },
+    "observed_means": {
+      "attainment_percent": 76.96835079865298,
+      "carbon_kg": 8.40463376299241,
+      "departure_percent": 200.33491972054233,
+      "water_l": 6622.61615901088
+    },
+    "observed_n": 19,
+    "planned_runs": 480
+  }
+}
