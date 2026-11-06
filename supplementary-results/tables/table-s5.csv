@@ -1,0 +1,13 @@
+Position,F30,F60,M30,M60
+Breakfast,Cocoa powder (30 g); Whole cow’s milk (300 g),"Sugar (20 g); Margarine, salted or unsalted (14 g); Lactose-free milk (200 g); Brazilian white bread roll (70 g); Tea, unspecified (50 g)",Sugar (5 g); Whole cow’s milk (240 g); Brazilian white bread roll (70 g); Tap water (240 g); Coffee (50 g),Sugar (5 g); Brazilian white bread roll (140 g); Coffee with milk (50 g)
+Morning snack,"Banana, unspecified variety (75 g); Tangerine (135 g)",Mango (140 g); Tap water (600 g),Mango (140 g),Whole cow’s milk (300 g); Minas cheese (45 g)
+Lunch,Artificial sweetener (1 g); Fresh fruit juice (300 g); Cold mixed sandwich (120 g),"White rice (75 g); Beans (black, brown or other varieties) (140 g); Sweet potatoes (210 g); Collard greens (60 g); Green beans (pods) (40 g); Beef, unspecified cut (70 g)","Cassava flour (40 g); Freshwater fish, unspecified species (400 g); Regular orange soda (200 g)","Brown rice (60 g); Beans (black, brown or other varieties) (34 g); Sweet potatoes (140 g); Banana, unspecified variety (75 g); Beef steak (64 g); Mixed vegetable and leaf salad (55 g)"
+Afternoon snack,Acai pulp with granola (215 g),Fresh cow’s milk (300 g),Mango (140 g),Sweet potatoes (140 g); Coffee (150 g)
+Dinner,Sugar (30 g); Soy sauce (30 g); Orange juice (300 g); Sushi (300 g),Multicereal porridge (Neston) (230 g); Sugar (23 g); Tap water (480 g),"Rice (polished, parboiled or long-grain) (135 g); Beans (black, brown or other varieties) (280 g); Cassava flour (48 g); Marine fish, unspecified species (300 g); Preserved beef (60 g); Tap water (240 g)","Cassava flour (99 g); Fish, unspecified species (200 g); Acai pulp with granola (215 g)"
+Supper,Salted freshwater fish (150 g); Tap water (600 g),Apple (150 g),Diet shake (35 g),"Artificial sweetener (1 g); Mineral water, unspecified (400 g); Coffee (600 g)"
+Physical outcomes of the illustrated menu,Physical outcomes of the illustrated menu,Physical outcomes of the illustrated menu,Physical outcomes of the illustrated menu,Physical outcomes of the illustrated menu
+A (%),97.88,97.52,98.51,96.15
+Targets,20,19,21,18
+C (kg),3.61,4.23,6.73,5.77
+W (L),2743,3789,2647,3831
+D (%),214.4,193.5,180.7,196.8

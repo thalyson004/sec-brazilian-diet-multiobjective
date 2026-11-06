@@ -1,0 +1,308 @@
+{
+  "title": "Supplementary results",
+  "table_count": 10,
+  "figure_count": 9,
+  "complete_menu_examples": 24,
+  "sections": [
+    "01-algorithm-indicators.md",
+    "02-pareto-fronts.md",
+    "03-food-quantity-comparisons.md",
+    "04-complete-menu-examples.md",
+    "05-selection-sensitivity.md"
+  ],
+  "tables": [
+    {
+      "id": "tab:igd-plus",
+      "label": "S1",
+      "page": "01-algorithm-indicators.md",
+      "csv": "tables/table-s1.csv"
+    },
+    {
+      "id": "tab:runtime",
+      "label": "S2",
+      "page": "01-algorithm-indicators.md",
+      "csv": "tables/table-s2.csv"
+    },
+    {
+      "id": "tab:composition-pairs",
+      "label": "S3",
+      "page": "03-food-quantity-comparisons.md",
+      "csv": "tables/table-s3.csv"
+    },
+    {
+      "id": "tab:menu-nc",
+      "label": "S4",
+      "page": "04-complete-menu-examples.md",
+      "csv": "tables/table-s4.csv"
+    },
+    {
+      "id": "tab:menu-nw",
+      "label": "S5",
+      "page": "04-complete-menu-examples.md",
+      "csv": "tables/table-s5.csv"
+    },
+    {
+      "id": "tab:menu-nd",
+      "label": "S6",
+      "page": "04-complete-menu-examples.md",
+      "csv": "tables/table-s6.csv"
+    },
+    {
+      "id": "tab:menu-ncw",
+      "label": "S7",
+      "page": "04-complete-menu-examples.md",
+      "csv": "tables/table-s7.csv"
+    },
+    {
+      "id": "tab:menu-ncd",
+      "label": "S8",
+      "page": "04-complete-menu-examples.md",
+      "csv": "tables/table-s8.csv"
+    },
+    {
+      "id": "tab:menu-nwd",
+      "label": "S9",
+      "page": "04-complete-menu-examples.md",
+      "csv": "tables/table-s9.csv"
+    },
+    {
+      "id": "tab:compromise-feasibility",
+      "label": "S10",
+      "page": "05-selection-sensitivity.md",
+      "csv": "tables/table-s10.csv"
+    }
+  ],
+  "figures": [
+    {
+      "label": "S1",
+      "page": "01-algorithm-indicators.md",
+      "pdf": "figures/penalty-calibration.pdf",
+      "png": "figures/penalty-calibration.png"
+    },
+    {
+      "label": "S2",
+      "page": "02-pareto-fronts.md",
+      "pdf": "figures/pareto-2d-N-W-row-1.pdf",
+      "png": "figures/pareto-2d-N-W-row-1.png"
+    },
+    {
+      "label": "S3",
+      "page": "02-pareto-fronts.md",
+      "pdf": "figures/pareto-2d-N-W-row-2.pdf",
+      "png": "figures/pareto-2d-N-W-row-2.png"
+    },
+    {
+      "label": "S4",
+      "page": "02-pareto-fronts.md",
+      "pdf": "figures/pareto-2d-N-D-row-1.pdf",
+      "png": "figures/pareto-2d-N-D-row-1.png"
+    },
+    {
+      "label": "S5",
+      "page": "02-pareto-fronts.md",
+      "pdf": "figures/pareto-2d-N-D-row-2.pdf",
+      "png": "figures/pareto-2d-N-D-row-2.png"
+    },
+    {
+      "label": "S6",
+      "page": "02-pareto-fronts.md",
+      "pdf": "figures/pareto-3d-f30-N-C-W-row-1.pdf",
+      "png": "figures/pareto-3d-f30-N-C-W-row-1.png"
+    },
+    {
+      "label": "S7",
+      "page": "02-pareto-fronts.md",
+      "pdf": "figures/pareto-3d-f30-N-C-W-row-2.pdf",
+      "png": "figures/pareto-3d-f30-N-C-W-row-2.png"
+    },
+    {
+      "label": "S8",
+      "page": "02-pareto-fronts.md",
+      "pdf": "figures/pareto-3d-f30-N-W-D-row-1.pdf",
+      "png": "figures/pareto-3d-f30-N-W-D-row-1.png"
+    },
+    {
+      "label": "S9",
+      "page": "02-pareto-fronts.md",
+      "pdf": "figures/pareto-3d-f30-N-W-D-row-2.pdf",
+      "png": "figures/pareto-3d-f30-N-W-D-row-2.png"
+    }
+  ],
+  "files": [
+    {
+      "path": ".gitattributes",
+      "sha256": "1b2dfccc6a806e165fbbfcf9f9addfc00dd7245cf01ed136b8cbf05c8ba242b5",
+      "bytes": 40
+    },
+    {
+      "path": "01-algorithm-indicators.md",
+      "sha256": "470ef3fe2de7a4e7d5ec065d87d77d7a2eafa37fd5110ef3b99adb6f57471b2a",
+      "bytes": 5044
+    },
+    {
+      "path": "02-pareto-fronts.md",
+      "sha256": "7c976565e9c02044f32c92c6d218ca11673364fc182e1a72658b73b08b795d09",
+      "bytes": 3980
+    },
+    {
+      "path": "03-food-quantity-comparisons.md",
+      "sha256": "e0b3087b12f3eb2e59559cc6ed1055f56cb0a65fac960731d47c824433af3dc4",
+      "bytes": 3020
+    },
+    {
+      "path": "04-complete-menu-examples.md",
+      "sha256": "9c0a277301b2864a34fdee02d9b56b90556e4c2defabd85f79709e3f19695e0c",
+      "bytes": 22785
+    },
+    {
+      "path": "05-selection-sensitivity.md",
+      "sha256": "8beeee7152ec595a46c97c4f41a02618091631a86a0b1e5db703398b033cf148",
+      "bytes": 3796
+    },
+    {
+      "path": "figures/pareto-2d-N-D-row-1.pdf",
+      "sha256": "32a74f9cda78088509daf92d40e186c6275b29f4712106d17857b0a1267cc57f",
+      "bytes": 11441
+    },
+    {
+      "path": "figures/pareto-2d-N-D-row-1.png",
+      "sha256": "ca8aa2827eda0abe33eaad8f88acc613fa3f8e52b82eb9b85d0f5599d485c30b",
+      "bytes": 124222
+    },
+    {
+      "path": "figures/pareto-2d-N-D-row-2.pdf",
+      "sha256": "90c311b434ec66a6811c96611d959a45f1bcc84bb20d7698496d4fda32cbe8cb",
+      "bytes": 13098
+    },
+    {
+      "path": "figures/pareto-2d-N-D-row-2.png",
+      "sha256": "6b7ac0dd28e055cbfc70b4d7b63cd4da43f5b30e4621639ffbe804e7a3f06e7c",
+      "bytes": 142553
+    },
+    {
+      "path": "figures/pareto-2d-N-W-row-1.pdf",
+      "sha256": "9d2ec5fc8517ac66fdb0558a99f93c79e380b32ceb13e80e52fada96d734dac5",
+      "bytes": 13503
+    },
+    {
+      "path": "figures/pareto-2d-N-W-row-1.png",
+      "sha256": "cf4a6aa8161cb1f3c69f34cf4726e3d4f747b5dc6896f4d46690ce5fa31f7748",
+      "bytes": 134869
+    },
+    {
+      "path": "figures/pareto-2d-N-W-row-2.pdf",
+      "sha256": "5992326251e7e67a482958e5431726902bf79665f36da22fec3abde9ca77ceb2",
+      "bytes": 14008
+    },
+    {
+      "path": "figures/pareto-2d-N-W-row-2.png",
+      "sha256": "0debd0936d94d952029a2ed1b79fe5e36824e8a8191a8aaf817fd203543cb125",
+      "bytes": 155764
+    },
+    {
+      "path": "figures/pareto-3d-f30-N-C-W-row-1.pdf",
+      "sha256": "e1fe2fadc6c9f782b248392763e8cdc66e443363bd28524645f4d65394358a11",
+      "bytes": 11778
+    },
+    {
+      "path": "figures/pareto-3d-f30-N-C-W-row-1.png",
+      "sha256": "0456eeb1e17cbad42361f78a7f0f9b9e63b091ea7895c84f27eb7d3ee5e720c1",
+      "bytes": 245604
+    },
+    {
+      "path": "figures/pareto-3d-f30-N-C-W-row-2.pdf",
+      "sha256": "7a927353de41fcb0e49fe82f2d0584d8d50ff69ba10eaf29e7b38e447198d437",
+      "bytes": 11274
+    },
+    {
+      "path": "figures/pareto-3d-f30-N-C-W-row-2.png",
+      "sha256": "e1bb545defd22607f985ffffe23961c6bafd981d55338b887c1022fa035a9398",
+      "bytes": 254634
+    },
+    {
+      "path": "figures/pareto-3d-f30-N-W-D-row-1.pdf",
+      "sha256": "320b549b6092fa6bab2ac6e6946617787a99697badf7e30c3a0f94ee22f24853",
+      "bytes": 11439
+    },
+    {
+      "path": "figures/pareto-3d-f30-N-W-D-row-1.png",
+      "sha256": "252b38a49cb694bfb3a38c9fab50f218955e0059ea869d617a4a89cc0451d8a8",
+      "bytes": 240638
+    },
+    {
+      "path": "figures/pareto-3d-f30-N-W-D-row-2.pdf",
+      "sha256": "45f1f9400e035a6921ba91b7aeee636159933383fe874d99de8540ad36751d68",
+      "bytes": 11760
+    },
+    {
+      "path": "figures/pareto-3d-f30-N-W-D-row-2.png",
+      "sha256": "742227b3af9ec12968f27b9cc1220f559a14da28333d05ce340ad7099155280d",
+      "bytes": 276233
+    },
+    {
+      "path": "figures/penalty-calibration.pdf",
+      "sha256": "a5019118c9d2651432c434f28ba8991f7287ff1ed9d970bc6dbad70de8b76c23",
+      "bytes": 11567
+    },
+    {
+      "path": "figures/penalty-calibration.png",
+      "sha256": "fe37c0edfa3fbf0d7b0a21c3ae5d6f6e4aab4235abea24a5d4480caf80c6a595",
+      "bytes": 164955
+    },
+    {
+      "path": "README.md",
+      "sha256": "f84b45e2520b2a9709e8b1cd6c9771ae216a45a88e01b6772eb2874ef8282077",
+      "bytes": 2043
+    },
+    {
+      "path": "tables/table-s1.csv",
+      "sha256": "1e6ef53d0bbc247415aed4a29ac76edc2b562ccf300aa9b8bcb9c9a8910c0b2b",
+      "bytes": 1287
+    },
+    {
+      "path": "tables/table-s10.csv",
+      "sha256": "85d935eadc0e91a41845065691365aaeda9dfb44dfb3d559c5951560beaa1c10",
+      "bytes": 304
+    },
+    {
+      "path": "tables/table-s2.csv",
+      "sha256": "bc752d14684c35a702696cc581e5122bbd5d49025ad0fcc6762496f1853c7a63",
+      "bytes": 1003
+    },
+    {
+      "path": "tables/table-s3.csv",
+      "sha256": "217a3df014b8cf873ccffb670e0af8837039d9f7daa3200dcc4e3c2f95e86d1a",
+      "bytes": 1425
+    },
+    {
+      "path": "tables/table-s4.csv",
+      "sha256": "c7b83d02a127ec78e72b6d19ee5af1d810822b3b33e13981b22810150f2b3c5c",
+      "bytes": 2352
+    },
+    {
+      "path": "tables/table-s5.csv",
+      "sha256": "f507157ac706e7811c9765c69a4aff6d27179b1d0220fd78c2ad7a96c08ada51",
+      "bytes": 2198
+    },
+    {
+      "path": "tables/table-s6.csv",
+      "sha256": "1a4aa3275f3249dc529e49d12b2737c114074a6e06cf6dc0a998217e9d490316",
+      "bytes": 2264
+    },
+    {
+      "path": "tables/table-s7.csv",
+      "sha256": "94569f859f896acb242970de780fc29dacfe04d17f9d7f96f2c4816d022efc66",
+      "bytes": 2120
+    },
+    {
+      "path": "tables/table-s8.csv",
+      "sha256": "48b959fe698fe5cd3f9a2c77fbba8c65377b198245c20a231dfaebab3ede1b0a",
+      "bytes": 2329
+    },
+    {
+      "path": "tables/table-s9.csv",
+      "sha256": "0517fc5ed6e8cfb119b5e1c699cec62c642663f80bce7372f3137cd6299b35d4",
+      "bytes": 2242
+    }
+  ]
+}

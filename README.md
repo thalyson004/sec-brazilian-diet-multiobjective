@@ -8,6 +8,7 @@ A diet is assembled from six complete observed meals: breakfast, morning snack, 
 
 | Data | Contents |
 | --- | --- |
+| [Supplementary results](supplementary-results/README.md) | Algorithm indicators, additional front views, food comparisons, 24 complete example menus and selection sensitivity, with tables and figures |
 | [Pareto fronts and menus](fronts/meal-profile-study-v4.1-penalty-5/README.md) | All 1,920 reporting fronts and 15,022 menu entries, with food names and portions |
 | [Observed diets](comparisons/observed-profile-energy-context/README.md) | 108 observed days within the energy intervals of their respective profiles |
 | [Reference-constrained selections](comparisons/reference-compromise-v1/README.md) | 1,920 selected menus, nutrient outcomes and food-type means and standard deviations |
@@ -126,6 +127,7 @@ The release includes `runs.csv`, `selections.csv`, per-profile `points.csv`, com
 | `run-study.ps1` | Windows entry point for the complete campaign |
 | `fronts/` | Published reporting fronts and complete optimized menus |
 | `comparisons/` | Observed diets and selection analyses |
+| `supplementary-results/` | Readable result pages in Markdown, CSV tables and PDF/PNG figures accompanying the article |
 | `docs/profiles/` | Profile definitions, nutrient targets and execution guide |
 | `data/` | Local input and prepared-data directories |
 | `tests/` | Checks for the models, algorithms and result generation |
