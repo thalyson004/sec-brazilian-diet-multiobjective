@@ -151,7 +151,7 @@ Use the following BibTeX entry when citing the article:
   pages   = {e7119654},
   issn    = {2675-6218},
   doi     = {10.47820/recima21.v7i11.9654},
-  url     = {https://recima21.com.br/recima21/pt_BR/article/view/9654}
+  url     = {https://recima21.com.br/recima21/article/view/9654}
 }
 ```
 
