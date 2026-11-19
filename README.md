@@ -136,7 +136,30 @@ The release includes `runs.csv`, `selections.csv`, per-profile `points.csv`, com
 
 ## Citation
 
-Publication details will be added when the article is available.
+The article was published in RECIMA21. Read the [English version](https://recima21.com.br/recima21/en/article/view/9654) or the [Portuguese publication page](https://recima21.com.br/recima21/article/view/9654). Its DOI is [10.47820/recima21.v7i11.9654](https://doi.org/10.47820/recima21.v7i11.9654).
+
+Use the following BibTeX entry when citing the article:
+
+```bibtex
+@article{silvabr2026,
+  author  = {Silva, Thalyson Gomes Nepomuceno da and
+             Brito, Rhyan Ximenes de and
+             Ximenes, Janaide Nogueira de Sousa and
+             Oliveira, Thiago Queiroz de and
+             Campos, Gustavo Augusto Lima de and
+             Amaro Junior, Bonfim and
+             Barros, Ana Luiza Bessa de Paula},
+  title   = {{MULTIOBJECTIVE EVOLUTIONARY OPTIMIZATION OF OBSERVED BRAZILIAN MEALS ACROSS DIETARY REFERENCE PROFILES}},
+  journal = {RECIMA21 - Revista Científica Multidisciplinar - ISSN 2675-6218},
+  volume  = {7},
+  number  = {11},
+  pages   = {e7119654},
+  year    = {2026},
+  month   = nov,
+  doi     = {10.47820/recima21.v7i11.9654},
+  url     = {https://recima21.com.br/recima21/article/view/9654}
+}
+```
 
 ## License
 
